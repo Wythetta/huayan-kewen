@@ -129,9 +129,10 @@
    125,
    126,
    127,
-   128
+   128,
+   129
   ],
-  "節點總數": 16488,
+  "節點總數": 16616,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -161626,7 +161627,6 @@
                            "label": "釋文",
                            "juan": 1,
                            "pdf_page": 124,
-                           "continued": true,
                            "pdf_note": "子科之線通頁左邊框；加分、本分、請分、說分科名皆印在第125頁",
                            "children": [
                             {
@@ -162134,7 +162134,6 @@
                                "label": "別答十問",
                                "juan": 1,
                                "pdf_page": 125,
-                               "continued": true,
                                "pdf_note": "科名印在第125頁",
                                "children": [
                                 {
@@ -167378,25 +167377,151 @@
                                  "label": "答出現涅槃",
                                  "juan": 1,
                                  "pdf_page": 129,
-                                 "continued": true,
                                  "pdf_note": "科名印在第129頁；其子科之線（正釋之線）由第128頁左邊框接入，掛正釋一至三；先依第129頁所印建立",
                                  "children": [
+                                  {
+                                   "id": "p129-1",
+                                   "no": "一",
+                                   "label": "明來意",
+                                   "cue": "第九",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "cbeta_id": "X05p0614a6801"
+                                  },
+                                  {
+                                   "id": "p129-2",
+                                   "no": "二",
+                                   "label": "彰大旨",
+                                   "cue": "然大",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "cbeta_id": "X05p0614a6901"
+                                  },
                                   {
                                    "id": "p128-136",
                                    "no": "三",
                                    "label": "開章釋",
                                    "juan": 1,
                                    "pdf_page": 129,
-                                   "continued": true,
                                    "pdf_note": "科名印在第129頁",
                                    "children": [
+                                    {
+                                     "id": "p129-3",
+                                     "no": "一",
+                                     "label": "釋名",
+                                     "cue": "今以",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "cbeta_id": "X05p0614a7101"
+                                    },
+                                    {
+                                     "id": "p129-4",
+                                     "no": "二",
+                                     "label": "出體性",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "children": [
+                                      {
+                                       "id": "p129-5",
+                                       "no": "一",
+                                       "label": "總顯深玄",
+                                       "cue": "二出",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "cbeta_id": "X05p0614a7301"
+                                      },
+                                      {
+                                       "id": "p129-6",
+                                       "no": "二",
+                                       "label": "別出體性",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "children": [
+                                        {
+                                         "id": "p129-7",
+                                         "no": "一",
+                                         "label": "正明體性",
+                                         "cue": "今以",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "cbeta_id": "X05p0614a7501"
+                                        },
+                                        {
+                                         "id": "p129-8",
+                                         "no": "二",
+                                         "label": "出其所以",
+                                         "cue": "所以",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "cbeta_id": "X05p0614a7601"
+                                        },
+                                        {
+                                         "id": "p129-9",
+                                         "no": "三",
+                                         "label": "融通無礙",
+                                         "cue": "然此",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "cbeta_id": "X05p0614a7701"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0614a7401"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0614a7201"
+                                    },
+                                    {
+                                     "id": "p129-10",
+                                     "no": "三",
+                                     "label": "顯種類",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "children": [
+                                      {
+                                       "id": "p129-11",
+                                       "no": "一",
+                                       "label": "總顯深廣",
+                                       "cue": "三顯",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "cbeta_id": "X05p0614a7901"
+                                      },
+                                      {
+                                       "id": "p129-12",
+                                       "no": "二",
+                                       "label": "正明種類",
+                                       "cue": "今自",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "cbeta_id": "X05p0614a8001"
+                                      },
+                                      {
+                                       "id": "p129-13",
+                                       "no": "三",
+                                       "label": "對經辨定",
+                                       "cue": "有餘",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "cbeta_id": "X05p0614a8101"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0614a7801"
+                                    },
+                                    {
+                                     "id": "p129-14",
+                                     "no": "四",
+                                     "label": "彰業用",
+                                     "cue": "四彰",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "cbeta_id": "X05p0614a8201"
+                                    },
                                     {
                                      "id": "p128-137",
                                      "no": "五",
                                      "label": "釋文",
                                      "juan": 1,
                                      "pdf_page": 129,
-                                     "continued": true,
                                      "pdf_note": "科名印在第129頁",
                                      "children": [
                                       {
@@ -167405,16 +167530,23 @@
                                        "label": "長行",
                                        "juan": 1,
                                        "pdf_page": 129,
-                                       "continued": true,
                                        "pdf_note": "科名印在第129頁",
                                        "children": [
+                                        {
+                                         "id": "p129-15",
+                                         "no": "一",
+                                         "label": "徵起",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0615a0101"
+                                        },
                                         {
                                          "id": "p128-139",
                                          "no": "二",
                                          "label": "正釋",
                                          "juan": 1,
                                          "pdf_page": 129,
-                                         "continued": true,
                                          "pdf_note": "科名印在第129頁；其線向右通第129頁右邊框，接本頁一至三",
                                          "children": [
                                           {
@@ -167611,12 +167743,488 @@
                                             }
                                            ],
                                            "cbeta_id": "X05p0615a1701"
+                                          },
+                                          {
+                                           "id": "p129-16",
+                                           "no": "四",
+                                           "label": "虧盈不遷",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "children": [
+                                            {
+                                             "id": "p129-17",
+                                             "no": "一",
+                                             "label": "喻",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0615a2401"
+                                            },
+                                            {
+                                             "id": "p129-18",
+                                             "no": "二",
+                                             "label": "合",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "children": [
+                                              {
+                                               "id": "p129-19",
+                                               "no": "一",
+                                               "label": "正釋",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0615a2601"
+                                              },
+                                              {
+                                               "id": "p129-20",
+                                               "no": "二",
+                                               "label": "引證",
+                                               "cue": "故攝",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "cbeta_id": "X05p0615a2701"
+                                              },
+                                              {
+                                               "id": "p129-21",
+                                               "no": "三",
+                                               "label": "揀定",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "children": [
+                                                {
+                                                 "id": "p129-22",
+                                                 "no": "一",
+                                                 "label": "縱以正揀",
+                                                 "cue": "然此",
+                                                 "juan": 1,
+                                                 "pdf_page": 129,
+                                                 "cbeta_id": "X05p0615a2901",
+                                                 "cbeta": {
+                                                  "cue": "然比"
+                                                 },
+                                                 "remark": "CBETA 起止作〔然比〕"
+                                                },
+                                                {
+                                                 "id": "p129-23",
+                                                 "no": "二",
+                                                 "label": "對前身揀",
+                                                 "juan": 1,
+                                                 "pdf_page": 129,
+                                                 "children": [
+                                                  {
+                                                   "id": "p129-24",
+                                                   "no": "一",
+                                                   "label": "問",
+                                                   "cue": "若爾",
+                                                   "juan": 1,
+                                                   "pdf_page": 129,
+                                                   "cbeta_id": "X05p0615a3101"
+                                                  },
+                                                  {
+                                                   "id": "p129-25",
+                                                   "no": "二",
+                                                   "label": "答",
+                                                   "cue": "出現",
+                                                   "juan": 1,
+                                                   "pdf_page": 129,
+                                                   "cbeta_id": "X05p0615a3201"
+                                                  }
+                                                 ],
+                                                 "cbeta_id": "X05p0615a3001"
+                                                },
+                                                {
+                                                 "id": "p129-26",
+                                                 "no": "三",
+                                                 "label": "對菩提揀",
+                                                 "juan": 1,
+                                                 "pdf_page": 129,
+                                                 "children": [
+                                                  {
+                                                   "id": "p129-27",
+                                                   "no": "一",
+                                                   "label": "問",
+                                                   "cue": "此有",
+                                                   "juan": 1,
+                                                   "pdf_page": 129,
+                                                   "cbeta_id": "X05p0615a3401"
+                                                  },
+                                                  {
+                                                   "id": "p129-28",
+                                                   "no": "二",
+                                                   "label": "答",
+                                                   "juan": 1,
+                                                   "pdf_page": 129,
+                                                   "children": [
+                                                    {
+                                                     "id": "p129-29",
+                                                     "no": "一",
+                                                     "label": "約分相說",
+                                                     "cue": "若分",
+                                                     "juan": 1,
+                                                     "pdf_page": 129,
+                                                     "cbeta_id": "X05p0615a3601"
+                                                    },
+                                                    {
+                                                     "id": "p129-30",
+                                                     "no": "二",
+                                                     "label": "約攝相",
+                                                     "juan": 1,
+                                                     "pdf_page": 129,
+                                                     "children": [
+                                                      {
+                                                       "id": "p129-31",
+                                                       "no": "一",
+                                                       "label": "理智相攝",
+                                                       "cue": "若攝",
+                                                       "juan": 1,
+                                                       "pdf_page": 129,
+                                                       "cbeta_id": "X05p0615a3801"
+                                                      },
+                                                      {
+                                                       "id": "p129-32",
+                                                       "no": "二",
+                                                       "label": "修本相攝",
+                                                       "cue": "智性",
+                                                       "juan": 1,
+                                                       "pdf_page": 129,
+                                                       "cbeta_id": "X05p0615a3901"
+                                                      },
+                                                      {
+                                                       "id": "p129-33",
+                                                       "no": "三",
+                                                       "label": "雙結前二",
+                                                       "cue": "隨一",
+                                                       "juan": 1,
+                                                       "pdf_page": 129,
+                                                       "cbeta_id": "X05p0615a4001"
+                                                      },
+                                                      {
+                                                       "id": "p129-34",
+                                                       "no": "四",
+                                                       "label": "結歸涅槃",
+                                                       "cue": "今以",
+                                                       "juan": 1,
+                                                       "pdf_page": 129,
+                                                       "cbeta_id": "X05p0615a4101"
+                                                      }
+                                                     ],
+                                                     "cbeta_id": "X05p0615a3701"
+                                                    }
+                                                   ],
+                                                   "cbeta_id": "X05p0615a3501"
+                                                  }
+                                                 ],
+                                                 "cbeta_id": "X05p0615a3301"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0615a2801"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0615a2501"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0615a2301"
+                                          },
+                                          {
+                                           "id": "p129-35",
+                                           "no": "五",
+                                           "label": "示滅妙存",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0615a4201"
+                                          },
+                                          {
+                                           "id": "p129-36",
+                                           "no": "六",
+                                           "label": "隨緣起盡",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "children": [
+                                            {
+                                             "id": "p129-37",
+                                             "no": "一",
+                                             "label": "喻",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0615a4401"
+                                            },
+                                            {
+                                             "id": "p129-38",
+                                             "no": "二",
+                                             "label": "合",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "children": [
+                                              {
+                                               "id": "p129-39",
+                                               "no": "一",
+                                               "label": "正釋合文",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0615a4601"
+                                              },
+                                              {
+                                               "id": "p129-40",
+                                               "no": "二",
+                                               "label": "別彰大意",
+                                               "cue": "然現",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "cbeta_id": "X05p0615a4701"
+                                              },
+                                              {
+                                               "id": "p129-41",
+                                               "no": "三",
+                                               "label": "引論證成",
+                                               "cue": "故攝",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "cbeta_id": "X05p0615a4801"
+                                              },
+                                              {
+                                               "id": "p129-42",
+                                               "no": "四",
+                                               "label": "結成常住",
+                                               "cue": "既起",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "cbeta_id": "X05p0615a4901"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0615a4501"
+                                            },
+                                            {
+                                             "id": "p129-43",
+                                             "no": "三",
+                                             "label": "結",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0615a5001"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0615a4301"
+                                          },
+                                          {
+                                           "id": "p129-44",
+                                           "no": "七",
+                                           "label": "存亡互現",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "jing": "復次",
+                                           "cbeta_id": "X05p0615a5101"
+                                          },
+                                          {
+                                           "id": "p129-45",
+                                           "no": "八",
+                                           "label": "大用無涯",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "children": [
+                                            {
+                                             "id": "p129-46",
+                                             "no": "一",
+                                             "label": "釋文",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "jing": "復次",
+                                             "cbeta_id": "X05p0615a5301"
+                                            },
+                                            {
+                                             "id": "p129-47",
+                                             "no": "二",
+                                             "label": "揀異",
+                                             "cue": "涅槃",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "cbeta_id": "X05p0615a5401"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0615a5201"
+                                          },
+                                          {
+                                           "id": "p129-48",
+                                           "no": "九",
+                                           "label": "體離二邊",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "jing": "佛子",
+                                           "children": [
+                                            {
+                                             "id": "p129-49",
+                                             "no": "一",
+                                             "label": "反釋",
+                                             "cue": "第九",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "cbeta_id": "X05p0615a5601",
+                                             "cbeta": {
+                                              "cue": "佛子"
+                                             },
+                                             "remark": "CBETA 起止作〔佛子〕"
+                                            },
+                                            {
+                                             "id": "p129-50",
+                                             "no": "二",
+                                             "label": "順釋",
+                                             "cue": "由非",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "cbeta_id": "X05p0615a5701"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0615a5501"
+                                          },
+                                          {
+                                           "id": "p129-51",
+                                           "no": "十",
+                                           "label": "結歸無住",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "children": [
+                                            {
+                                             "id": "p129-52",
+                                             "no": "一",
+                                             "label": "正釋經文",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0616a0201"
+                                            },
+                                            {
+                                             "id": "p129-53",
+                                             "no": "二",
+                                             "label": "結歸無住",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "children": [
+                                              {
+                                               "id": "p129-54",
+                                               "no": "一",
+                                               "label": "正結無住",
+                                               "cue": "是則",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "cbeta_id": "X05p0616a0401"
+                                              },
+                                              {
+                                               "id": "p129-55",
+                                               "no": "二",
+                                               "label": "無住所以",
+                                               "cue": "由雙",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "cbeta_id": "X05p0616a0501"
+                                              },
+                                              {
+                                               "id": "p129-56",
+                                               "no": "三",
+                                               "label": "別舉所因",
+                                               "cue": "前即",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "cbeta_id": "X05p0616a0601"
+                                              },
+                                              {
+                                               "id": "p129-57",
+                                               "no": "四",
+                                               "label": "釋無住意",
+                                               "cue": "自性",
+                                               "juan": 1,
+                                               "pdf_page": 129,
+                                               "cbeta_id": "X05p0616a0701"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0616a0301"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0616a0101"
                                           }
                                          ],
                                          "cbeta_id": "X05p0615a0201"
                                         }
                                        ],
                                        "cbeta_id": "X05p0614a8401"
+                                      },
+                                      {
+                                       "id": "p129-58",
+                                       "no": "二",
+                                       "label": "偈頌",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "children": [
+                                        {
+                                         "id": "p129-59",
+                                         "no": "一",
+                                         "label": "一偈頌第四",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "爾時",
+                                         "cbeta_id": "X05p0616a1101",
+                                         "cbeta": {
+                                          "label": "初頌第四"
+                                         },
+                                         "remark": "CBETA 科名作「初頌第四」"
+                                        },
+                                        {
+                                         "id": "p129-60",
+                                         "no": "二",
+                                         "label": "二偈頌第六",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "如火",
+                                         "cbeta_id": "X05p0616a1201",
+                                         "cbeta": {
+                                          "label": "二頌第六",
+                                          "cue": "如次"
+                                         },
+                                         "remark": "CBETA 科名作「二頌第六」；起止作〔如次〕"
+                                        },
+                                        {
+                                         "id": "p129-61",
+                                         "no": "三",
+                                         "label": "一偈頌第七",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "幻師",
+                                         "cbeta_id": "X05p0616a1301",
+                                         "cbeta": {
+                                          "label": "三頌第七"
+                                         },
+                                         "remark": "CBETA 科名作「三頌第七」"
+                                        },
+                                        {
+                                         "id": "p129-62",
+                                         "no": "四",
+                                         "label": "二偈頌第八",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "佛有",
+                                         "cbeta_id": "X05p0616a1401",
+                                         "cbeta": {
+                                          "label": "四頌第八"
+                                         },
+                                         "remark": "CBETA 科名作「四頌第八」"
+                                        },
+                                        {
+                                         "id": "p129-63",
+                                         "no": "五",
+                                         "label": "一偈頌第十",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "如無",
+                                         "cbeta_id": "X05p0616a1501",
+                                         "cbeta": {
+                                          "label": "五頌第十"
+                                         },
+                                         "remark": "CBETA 科名作「五頌第十」"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0616a0801"
                                       }
                                      ],
                                      "cbeta_id": "X05p0614a8301"
@@ -167626,6 +168234,167 @@
                                   }
                                  ],
                                  "cbeta_id": "X05p0606a5001"
+                                },
+                                {
+                                 "id": "p129-64",
+                                 "no": "十",
+                                 "label": "答出現見聞親近所生善根",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "pdf_note": "科名三行直排（答出現／見聞親／近所生善根）",
+                                 "children": [
+                                  {
+                                   "id": "p129-65",
+                                   "no": "一",
+                                   "label": "徵起",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "佛子",
+                                   "cbeta_id": "X05p0616a1801"
+                                  },
+                                  {
+                                   "id": "p129-66",
+                                   "no": "二",
+                                   "label": "正釋",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "children": [
+                                    {
+                                     "id": "p129-67",
+                                     "no": "一",
+                                     "label": "明見聞信向益",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "children": [
+                                      {
+                                       "id": "p129-68",
+                                       "no": "一",
+                                       "label": "法",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "children": [
+                                        {
+                                         "id": "p129-69",
+                                         "no": "一",
+                                         "label": "總",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0616a2201"
+                                        },
+                                        {
+                                         "id": "p129-70",
+                                         "no": "二",
+                                         "label": "別",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "出生",
+                                         "cbeta_id": "X05p0616a2301"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0616a2101"
+                                      },
+                                      {
+                                       "id": "p129-71",
+                                       "no": "二",
+                                       "label": "喻",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "children": [
+                                        {
+                                         "id": "p129-72",
+                                         "no": "一",
+                                         "label": "少服金剛喻",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0616a2501"
+                                        },
+                                        {
+                                         "id": "p129-73",
+                                         "no": "二",
+                                         "label": "少火燒多喻",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0616a2601"
+                                        },
+                                        {
+                                         "id": "p129-74",
+                                         "no": "三",
+                                         "label": "藥王徧益喻",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "children": [
+                                          {
+                                           "id": "p129-75",
+                                           "no": "一",
+                                           "label": "喻",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0616a2801"
+                                          },
+                                          {
+                                           "id": "p129-76",
+                                           "no": "二",
+                                           "label": "合",
+                                           "juan": 1,
+                                           "pdf_page": 129,
+                                           "children": [
+                                            {
+                                             "id": "p129-77",
+                                             "no": "一",
+                                             "label": "明六根境界益",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0616a3001"
+                                            },
+                                            {
+                                             "id": "p129-78",
+                                             "no": "二",
+                                             "label": "明供養遺跡益",
+                                             "juan": 1,
+                                             "pdf_page": 129,
+                                             "jing": "若有",
+                                             "cbeta_id": "X05p0616a3101"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0616a2901"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0616a2701"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0616a2401"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0616a2001"
+                                    },
+                                    {
+                                     "id": "p129-79",
+                                     "no": "二",
+                                     "label": "辨見聞不信益",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0616a3201"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0616a1901"
+                                  },
+                                  {
+                                   "id": "p129-80",
+                                   "no": "三",
+                                   "label": "結示",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "佛子",
+                                   "cbeta_id": "X05p0616a3301"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0606a5101"
                                 }
                                ],
                                "cbeta_id": "X05p0605a2201"
@@ -167641,6 +168410,509 @@
                               }
                              ],
                              "cbeta_id": "X05p0605a2101"
+                            },
+                            {
+                             "id": "p129-81",
+                             "no": "五",
+                             "label": "顯名受持分",
+                             "juan": 1,
+                             "pdf_page": 129,
+                             "children": [
+                              {
+                               "id": "p129-82",
+                               "no": "一",
+                               "label": "長行",
+                               "juan": 1,
+                               "pdf_page": 129,
+                               "children": [
+                                {
+                                 "id": "p129-83",
+                                 "no": "一",
+                                 "label": "顯名",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "jing": "佛子",
+                                 "cbeta_id": "X05p0616a3701"
+                                },
+                                {
+                                 "id": "p129-84",
+                                 "no": "二",
+                                 "label": "明受持",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "children": [
+                                  {
+                                   "id": "p129-85",
+                                   "no": "一",
+                                   "label": "辨定法器",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "children": [
+                                    {
+                                     "id": "p129-86",
+                                     "no": "一",
+                                     "label": "法",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "children": [
+                                      {
+                                       "id": "p129-87",
+                                       "no": "一",
+                                       "label": "標器非器",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0616a4101"
+                                      },
+                                      {
+                                       "id": "p129-88",
+                                       "no": "二",
+                                       "label": "明受非受",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "jing": "此法",
+                                       "cbeta_id": "X05p0616a4201",
+                                       "cbeta": {
+                                        "label": "二明授非授"
+                                       },
+                                       "remark": "CBETA 科名作「二明授非授」"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0616a4001"
+                                    },
+                                    {
+                                     "id": "p129-89",
+                                     "no": "二",
+                                     "label": "喻",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0616a4301"
+                                    },
+                                    {
+                                     "id": "p129-90",
+                                     "no": "三",
+                                     "label": "合",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0616a4401"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0616a3901"
+                                  },
+                                  {
+                                   "id": "p129-91",
+                                   "no": "二",
+                                   "label": "舉益勸修",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "children": [
+                                    {
+                                     "id": "p129-92",
+                                     "no": "一",
+                                     "label": "略標釋",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "jing": "是故",
+                                     "cbeta_id": "X05p0616a4601"
+                                    },
+                                    {
+                                     "id": "p129-93",
+                                     "no": "二",
+                                     "label": "廣釋所由",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "children": [
+                                      {
+                                       "id": "p129-94",
+                                       "no": "一",
+                                       "label": "反顯",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0616a4801"
+                                      },
+                                      {
+                                       "id": "p129-95",
+                                       "no": "二",
+                                       "label": "順釋",
+                                       "juan": 1,
+                                       "pdf_page": 129,
+                                       "children": [
+                                        {
+                                         "id": "p129-96",
+                                         "no": "一",
+                                         "label": "明聞信生家益",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "若得",
+                                         "cbeta_id": "X05p0616a5001"
+                                        },
+                                        {
+                                         "id": "p129-97",
+                                         "no": "二",
+                                         "label": "明信聞成行益",
+                                         "juan": 1,
+                                         "pdf_page": 129,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0616a5101"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0616a4901"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0616a4701"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0616a4501",
+                                   "cbeta": {
+                                    "children_n": 3
+                                   },
+                                   "remark": "CBETA 子科 3 個"
+                                  },
+                                  {
+                                   "id": "p129-98",
+                                   "no": "三",
+                                   "label": "總結成益",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "佛子",
+                                   "cbeta": {
+                                    "unmatched": true
+                                   },
+                                   "remark": "CBETA 無對應科"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0616a3801",
+                                 "cbeta": {
+                                  "label": "二明授持",
+                                  "children_n": 2
+                                 },
+                                 "remark": "CBETA 科名作「二明授持」；子科 2 個"
+                                }
+                               ],
+                               "cbeta_id": "X05p0616a3601"
+                              },
+                              {
+                               "id": "p129-99",
+                               "no": "二",
+                               "label": "偈頌",
+                               "juan": 1,
+                               "pdf_page": 129,
+                               "children": [
+                                {
+                                 "id": "p129-100",
+                                 "no": "一",
+                                 "label": "一頌法說",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "jing": "爾時",
+                                 "cbeta_id": "X05p0616a5401"
+                                },
+                                {
+                                 "id": "p129-101",
+                                 "no": "二",
+                                 "label": "三頌如次頌前三喻",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "jing": "譬人",
+                                 "cbeta_id": "X05p0616a5501"
+                                }
+                               ],
+                               "cbeta_id": "X05p0616a5301"
+                              }
+                             ],
+                             "cbeta_id": "X05p0606a5301"
+                            },
+                            {
+                             "id": "p129-102",
+                             "no": "六",
+                             "label": "表瑞證成分",
+                             "juan": 1,
+                             "pdf_page": 129,
+                             "children": [
+                              {
+                               "id": "p129-103",
+                               "no": "一",
+                               "label": "現瑞",
+                               "juan": 1,
+                               "pdf_page": 129,
+                               "jing": "爾時",
+                               "cbeta_id": "X05p0616a5801"
+                              },
+                              {
+                               "id": "p129-104",
+                               "no": "二",
+                               "label": "證成",
+                               "juan": 1,
+                               "pdf_page": 129,
+                               "children": [
+                                {
+                                 "id": "p129-105",
+                                 "no": "一",
+                                 "label": "果人證",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "children": [
+                                  {
+                                   "id": "p129-106",
+                                   "no": "一",
+                                   "label": "現身",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "是時",
+                                   "cbeta_id": "X05p0616a6101"
+                                  },
+                                  {
+                                   "id": "p129-107",
+                                   "no": "二",
+                                   "label": "讚說",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "而作",
+                                   "cbeta_id": "X05p0616a6201"
+                                  },
+                                  {
+                                   "id": "p129-108",
+                                   "no": "三",
+                                   "label": "引說證成",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "佛子",
+                                   "cbeta_id": "X05p0616a6301",
+                                   "cbeta": {
+                                    "label": "三引說證"
+                                   },
+                                   "remark": "CBETA 科名作「三引說證」"
+                                  },
+                                  {
+                                   "id": "p129-109",
+                                   "no": "四",
+                                   "label": "舉益證成",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "children": [
+                                    {
+                                     "id": "p129-110",
+                                     "no": "一",
+                                     "label": "得因位圓滿益",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0616a6501"
+                                    },
+                                    {
+                                     "id": "p129-111",
+                                     "no": "二",
+                                     "label": "得發心益",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "jing": "佛剎",
+                                     "cbeta_id": "X05p0616a6601"
+                                    },
+                                    {
+                                     "id": "p129-112",
+                                     "no": "三",
+                                     "label": "護持久遠益",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "jing": "我等",
+                                     "cbeta_id": "X05p0617a0101"
+                                    },
+                                    {
+                                     "id": "p129-113",
+                                     "no": "四",
+                                     "label": "結益廣徧",
+                                     "juan": 1,
+                                     "pdf_page": 129,
+                                     "jing": "如此",
+                                     "cbeta_id": "X05p0617a0201"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0616a6401"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0616a6001"
+                                },
+                                {
+                                 "id": "p129-114",
+                                 "no": "二",
+                                 "label": "因人證",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "children": [
+                                  {
+                                   "id": "p129-115",
+                                   "no": "一",
+                                   "label": "正明集因",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "爾時",
+                                   "cbeta_id": "X05p0617a0401"
+                                  },
+                                  {
+                                   "id": "p129-116",
+                                   "no": "二",
+                                   "label": "明其現身",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "十方",
+                                   "cbeta_id": "X05p0617a0501"
+                                  },
+                                  {
+                                   "id": "p129-117",
+                                   "no": "三",
+                                   "label": "辨其德用",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "示現",
+                                   "cbeta_id": "X05p0617a0601"
+                                  },
+                                  {
+                                   "id": "p129-118",
+                                   "no": "四",
+                                   "label": "發言誠證",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "以佛",
+                                   "cbeta_id": "X05p0617a0701",
+                                   "cbeta": {
+                                    "label": "四發言成證"
+                                   },
+                                   "remark": "CBETA 科名作「四發言成證」"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0617a0301"
+                                }
+                               ],
+                               "cbeta_id": "X05p0616a5901"
+                              }
+                             ],
+                             "cbeta_id": "X05p0606a5401"
+                            },
+                            {
+                             "id": "p129-119",
+                             "no": "七",
+                             "label": "偈頌總說分",
+                             "juan": 1,
+                             "pdf_page": 129,
+                             "pdf_note": "CBETA 釋文下此科為空 stub（註「此三科在五十二末」），子科在孤立片段「七偈頌總攝分」，以 #cb 對應",
+                             "children": [
+                              {
+                               "id": "p129-120",
+                               "no": "一",
+                               "label": "敘意",
+                               "juan": 1,
+                               "pdf_page": 129,
+                               "children": [
+                                {
+                                 "id": "p129-121",
+                                 "no": "一",
+                                 "label": "明說儀",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "jing": "爾時",
+                                 "cbeta_id": "X05p0617a1101"
+                                },
+                                {
+                                 "id": "p129-122",
+                                 "no": "二",
+                                 "label": "辨說意",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "jing": "欲重",
+                                 "cbeta_id": "X05p0617a1201"
+                                }
+                               ],
+                               "cbeta_id": "X05p0617a1001"
+                              },
+                              {
+                               "id": "p129-123",
+                               "no": "二",
+                               "label": "正頌",
+                               "juan": 1,
+                               "pdf_page": 129,
+                               "children": [
+                                {
+                                 "id": "p129-124",
+                                 "no": "一",
+                                 "label": "一頌頌說分中結酬",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "jing": "一切",
+                                 "cbeta_id": "X05p0617a1401",
+                                 "cbeta": {
+                                  "label": "初一頌說分中結酬"
+                                 },
+                                 "remark": "CBETA 科名作「初一頌說分中結酬」"
+                                },
+                                {
+                                 "id": "p129-125",
+                                 "no": "二",
+                                 "label": "三頌頌顯名受持",
+                                 "juan": 1,
+                                 "pdf_page": 129,
+                                 "children": [
+                                  {
+                                   "id": "p129-126",
+                                   "no": "一",
+                                   "label": "一頌歎深難聞",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "如是",
+                                   "cbeta_id": "X05p0617a1601",
+                                   "cbeta": {
+                                    "label": "初歎深難聞"
+                                   },
+                                   "remark": "CBETA 科名作「初歎深難聞」"
+                                  },
+                                  {
+                                   "id": "p129-127",
+                                   "no": "二",
+                                   "label": "一頌聞由多善",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "若聞",
+                                   "cbeta_id": "X05p0617a1701",
+                                   "cbeta": {
+                                    "label": "二聞由多善"
+                                   },
+                                   "remark": "CBETA 科名作「二聞由多善」"
+                                  },
+                                  {
+                                   "id": "p129-128",
+                                   "no": "三",
+                                   "label": "一頌舉勝勸持",
+                                   "juan": 1,
+                                   "pdf_page": 129,
+                                   "jing": "此為",
+                                   "cbeta_id": "X05p0617a1801",
+                                   "cbeta": {
+                                    "label": "三舉勝勸持"
+                                   },
+                                   "remark": "CBETA 科名作「三舉勝勸持」"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0617a1501",
+                                 "cbeta": {
+                                  "label": "二三頌顯名受持"
+                                 },
+                                 "remark": "CBETA 科名作「二三頌顯名受持」"
+                                }
+                               ],
+                               "cbeta_id": "X05p0617a1301",
+                               "cbeta": {
+                                "label": "二正顯"
+                               },
+                               "remark": "CBETA 科名作「二正顯」"
+                              }
+                             ],
+                             "cbeta_id": "X05p0617a0901",
+                             "cbeta": {
+                              "label": "七偈頌總攝分"
+                             },
+                             "remark": "CBETA 科名作「七偈頌總攝分」"
                             }
                            ],
                            "cbeta_id": "X05p0604a3001"
