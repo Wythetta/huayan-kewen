@@ -133,9 +133,10 @@
    129,
    130,
    131,
-   132
+   132,
+   133
   ],
-  "節點總數": 16903,
+  "節點總數": 17005,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -170742,7 +170743,6 @@
                                  "label": "正釋",
                                  "juan": 1,
                                  "pdf_page": 132,
-                                 "continued": true,
                                  "pdf_note": "科名印在第132頁；本頁掛一歡喜行，二以下在第132頁",
                                  "children": [
                                   {
@@ -171744,6 +171744,839 @@
                                     }
                                    ],
                                    "cbeta_id": "X05p0622a1501"
+                                  },
+                                  {
+                                   "id": "p133-1",
+                                   "no": "九",
+                                   "label": "善法行",
+                                   "juan": 1,
+                                   "pdf_page": 133,
+                                   "children": [
+                                    {
+                                     "id": "p133-2",
+                                     "no": "一",
+                                     "label": "外緣不動",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "佛子",
+                                     "pdf_note": "表解一至二共用一個起止【佛子】",
+                                     "cbeta_id": "X05p0622a1901"
+                                    },
+                                    {
+                                     "id": "p133-3",
+                                     "no": "二",
+                                     "label": "內心不捨",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "佛子",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0622a2001"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0622a1801"
+                                  },
+                                  {
+                                   "id": "p133-4",
+                                   "no": "十",
+                                   "label": "真實行",
+                                   "juan": 1,
+                                   "pdf_page": 133,
+                                   "children": [
+                                    {
+                                     "id": "p133-5",
+                                     "no": "一",
+                                     "label": "觀察智",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "佛子",
+                                     "pdf_note": "表解一至三共用一個起止【佛子】",
+                                     "cbeta_id": "X05p0622a2201"
+                                    },
+                                    {
+                                     "id": "p133-6",
+                                     "no": "二",
+                                     "label": "說法智",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "佛子",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0622a2301"
+                                    },
+                                    {
+                                     "id": "p133-7",
+                                     "no": "三",
+                                     "label": "離障智",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "佛子",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0622a2401"
+                                    },
+                                    {
+                                     "id": "p133-8",
+                                     "no": "四",
+                                     "label": "審決智印",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "children": [
+                                      {
+                                       "id": "p133-9",
+                                       "no": "一",
+                                       "label": "標",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0622a2601"
+                                      },
+                                      {
+                                       "id": "p133-10",
+                                       "no": "二",
+                                       "label": "徵",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "何等",
+                                       "cbeta_id": "X05p0622a2701"
+                                      },
+                                      {
+                                       "id": "p133-11",
+                                       "no": "三",
+                                       "label": "釋",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "children": [
+                                        {
+                                         "id": "p133-12",
+                                         "no": "一",
+                                         "label": "安受苦忍",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "所謂",
+                                         "cbeta_id": "X05p0622a2901"
+                                        },
+                                        {
+                                         "id": "p133-13",
+                                         "no": "二",
+                                         "label": "他不饒益忍",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "表解二至十共用一個起止【菩薩】",
+                                         "cbeta_id": "X05p0622a3001"
+                                        },
+                                        {
+                                         "id": "p133-14",
+                                         "no": "三",
+                                         "label": "諦察法忍",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a3101"
+                                        },
+                                        {
+                                         "id": "p133-15",
+                                         "no": "四",
+                                         "label": "成佛度生",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a3201"
+                                        },
+                                        {
+                                         "id": "p133-16",
+                                         "no": "五",
+                                         "label": "知佛智無邊",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a3301",
+                                         "cbeta": {
+                                          "label": "五知佛德無邊"
+                                         },
+                                         "remark": "CBETA 科名作「五知佛德無邊」"
+                                        },
+                                        {
+                                         "id": "p133-17",
+                                         "no": "六",
+                                         "label": "決欲佛果不退",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a3401",
+                                         "cbeta": {
+                                          "label": "六欲知佛不退"
+                                         },
+                                         "remark": "CBETA 科名作「六欲知佛不退」"
+                                        },
+                                        {
+                                         "id": "p133-18",
+                                         "no": "七",
+                                         "label": "決親人法",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a3501"
+                                        },
+                                        {
+                                         "id": "p133-19",
+                                         "no": "八",
+                                         "label": "決入大乘",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a3601"
+                                        },
+                                        {
+                                         "id": "p133-20",
+                                         "no": "九",
+                                         "label": "決度已平等度",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a3701",
+                                         "cbeta": {
+                                          "label": "九決平等度"
+                                         },
+                                         "remark": "CBETA 科名作「九決平等度」"
+                                        },
+                                        {
+                                         "id": "p133-21",
+                                         "no": "十",
+                                         "label": "決同佛體因圓果滿",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a3801",
+                                         "cbeta": {
+                                          "label": "十因圓果滿"
+                                         },
+                                         "remark": "CBETA 科名作「十因圓果滿」"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0622a2801"
+                                      },
+                                      {
+                                       "id": "p133-22",
+                                       "no": "四",
+                                       "label": "結",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0622a3901"
+                                      },
+                                      {
+                                       "id": "p133-23",
+                                       "no": "五",
+                                       "label": "勸",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "菩薩",
+                                       "cbeta_id": "X05p0622a4001"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0622a2501"
+                                    },
+                                    {
+                                     "id": "p133-24",
+                                     "no": "五",
+                                     "label": "照徹智",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0622a4101"
+                                    },
+                                    {
+                                     "id": "p133-25",
+                                     "no": "六",
+                                     "label": "無等智",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "children": [
+                                      {
+                                       "id": "p133-26",
+                                       "no": "一",
+                                       "label": "標",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0622a4301"
+                                      },
+                                      {
+                                       "id": "p133-27",
+                                       "no": "二",
+                                       "label": "徵",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "何等",
+                                       "cbeta_id": "X05p0622a4401"
+                                      },
+                                      {
+                                       "id": "p133-28",
+                                       "no": "三",
+                                       "label": "釋",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "所謂",
+                                       "cbeta_id": "X05p0622a4501"
+                                      },
+                                      {
+                                       "id": "p133-29",
+                                       "no": "四",
+                                       "label": "結",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0622a4601"
+                                      },
+                                      {
+                                       "id": "p133-30",
+                                       "no": "五",
+                                       "label": "勸",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "若諸",
+                                       "cbeta_id": "X05p0622a4701"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0622a4201"
+                                    },
+                                    {
+                                     "id": "p133-31",
+                                     "no": "七",
+                                     "label": "無下劣智",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "children": [
+                                      {
+                                       "id": "p133-32",
+                                       "no": "一",
+                                       "label": "標",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0622a4901"
+                                      },
+                                      {
+                                       "id": "p133-33",
+                                       "no": "二",
+                                       "label": "徵",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "何等",
+                                       "cbeta_id": "X05p0622a5001"
+                                      },
+                                      {
+                                       "id": "p133-34",
+                                       "no": "三",
+                                       "label": "釋",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "children": [
+                                        {
+                                         "id": "p133-35",
+                                         "no": "一",
+                                         "label": "降魔制外對",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0622a5201"
+                                        },
+                                        {
+                                         "id": "p133-36",
+                                         "no": "二",
+                                         "label": "喜他自滿對",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "又作",
+                                         "pdf_note": "表解二至四共用一個起止【又作】",
+                                         "cbeta_id": "X05p0622a5301"
+                                        },
+                                        {
+                                         "id": "p133-37",
+                                         "no": "三",
+                                         "label": "積福成智對",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "又作",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a5401"
+                                        },
+                                        {
+                                         "id": "p133-38",
+                                         "no": "四",
+                                         "label": "下化上成對",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "又作",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0622a5501"
+                                        },
+                                        {
+                                         "id": "p133-39",
+                                         "no": "五",
+                                         "label": "悲智究竟對",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "children": [
+                                          {
+                                           "id": "p133-40",
+                                           "no": "一",
+                                           "label": "即智之悲",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "又作",
+                                           "cbeta_id": "X05p0622a5701"
+                                          },
+                                          {
+                                           "id": "p133-41",
+                                           "no": "二",
+                                           "label": "即悲之智",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "children": [
+                                            {
+                                             "id": "p133-42",
+                                             "no": "一",
+                                             "label": "列所知",
+                                             "juan": 1,
+                                             "pdf_page": 133,
+                                             "jing": "又作",
+                                             "cbeta_id": "X05p0623a0201"
+                                            },
+                                            {
+                                             "id": "p133-43",
+                                             "no": "二",
+                                             "label": "辨能知",
+                                             "cue": "如是",
+                                             "juan": 1,
+                                             "pdf_page": 133,
+                                             "cbeta_id": "X05p0623a0301"
+                                            },
+                                            {
+                                             "id": "p133-44",
+                                             "no": "三",
+                                             "label": "拂知相",
+                                             "cue": "然於",
+                                             "juan": 1,
+                                             "pdf_page": 133,
+                                             "cbeta_id": "X05p0623a0401"
+                                            },
+                                            {
+                                             "id": "p133-45",
+                                             "no": "四",
+                                             "label": "會中道",
+                                             "juan": 1,
+                                             "pdf_page": 133,
+                                             "children": [
+                                              {
+                                               "id": "p133-46",
+                                               "no": "一",
+                                               "label": "辨其中道",
+                                               "cue": "非有",
+                                               "juan": 1,
+                                               "pdf_page": 133,
+                                               "cbeta_id": "X05p0623a0601"
+                                              },
+                                              {
+                                               "id": "p133-47",
+                                               "no": "二",
+                                               "label": "境智對明",
+                                               "cue": "以不",
+                                               "juan": 1,
+                                               "pdf_page": 133,
+                                               "cbeta_id": "X05p0623a0701"
+                                              },
+                                              {
+                                               "id": "p133-48",
+                                               "no": "三",
+                                               "label": "即體起用",
+                                               "cue": "以究",
+                                               "juan": 1,
+                                               "pdf_page": 133,
+                                               "cbeta_id": "X05p0623a0801"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0623a0501"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0623a0101"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0622a5601"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0622a5101"
+                                      },
+                                      {
+                                       "id": "p133-49",
+                                       "no": "四",
+                                       "label": "結",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0623a0901"
+                                      },
+                                      {
+                                       "id": "p133-50",
+                                       "no": "五",
+                                       "label": "勸",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "若諸",
+                                       "cbeta_id": "X05p0623a1001"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0622a4801"
+                                    },
+                                    {
+                                     "id": "p133-51",
+                                     "no": "八",
+                                     "label": "高出智",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "children": [
+                                      {
+                                       "id": "p133-52",
+                                       "no": "一",
+                                       "label": "標",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0623a1201"
+                                      },
+                                      {
+                                       "id": "p133-53",
+                                       "no": "二",
+                                       "label": "徵",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "何等",
+                                       "cbeta_id": "X05p0623a1301"
+                                      },
+                                      {
+                                       "id": "p133-54",
+                                       "no": "三",
+                                       "label": "釋",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "children": [
+                                        {
+                                         "id": "p133-55",
+                                         "no": "一",
+                                         "label": "勤修能證智",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0623a1501"
+                                        },
+                                        {
+                                         "id": "p133-56",
+                                         "no": "二",
+                                         "label": "常觀所證理",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "恒觀",
+                                         "cbeta_id": "X05p0623a1601"
+                                        },
+                                        {
+                                         "id": "p133-57",
+                                         "no": "三",
+                                         "label": "內修無漏",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "願於",
+                                         "cbeta_id": "X05p0623a1701"
+                                        },
+                                        {
+                                         "id": "p133-58",
+                                         "no": "四",
+                                         "label": "外近善人",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "為求",
+                                         "cbeta_id": "X05p0623a1801"
+                                        },
+                                        {
+                                         "id": "p133-59",
+                                         "no": "五",
+                                         "label": "大忍度生",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "若有",
+                                         "cbeta_id": "X05p0623a1901"
+                                        },
+                                        {
+                                         "id": "p133-60",
+                                         "no": "六",
+                                         "label": "超魔境界",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "表解六至九共用一個起止【菩薩】",
+                                         "cbeta_id": "X05p0623a2001"
+                                        },
+                                        {
+                                         "id": "p133-61",
+                                         "no": "七",
+                                         "label": "勤勇修行",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0623a2101"
+                                        },
+                                        {
+                                         "id": "p133-62",
+                                         "no": "八",
+                                         "label": "不捨惡人",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0623a2201"
+                                        },
+                                        {
+                                         "id": "p133-63",
+                                         "no": "九",
+                                         "label": "孤標等佛",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "菩薩",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0623a2301"
+                                        },
+                                        {
+                                         "id": "p133-64",
+                                         "no": "十",
+                                         "label": "權實雙行",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "children": [
+                                          {
+                                           "id": "p133-65",
+                                           "no": "一",
+                                           "label": "正辨",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "菩薩",
+                                           "cbeta_id": "X05p0623a2501"
+                                          },
+                                          {
+                                           "id": "p133-66",
+                                           "no": "二",
+                                           "label": "徵釋",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "children": [
+                                            {
+                                             "id": "p133-67",
+                                             "no": "一",
+                                             "label": "徵",
+                                             "juan": 1,
+                                             "pdf_page": 133,
+                                             "jing": "何以",
+                                             "cbeta_id": "X05p0623a2701"
+                                            },
+                                            {
+                                             "id": "p133-68",
+                                             "no": "二",
+                                             "label": "釋",
+                                             "juan": 1,
+                                             "pdf_page": 133,
+                                             "jing": "菩薩",
+                                             "cbeta_id": "X05p0623a2801"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0623a2601"
+                                          },
+                                          {
+                                           "id": "p133-69",
+                                           "no": "三",
+                                           "label": "結成",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "是故",
+                                           "cbeta_id": "X05p0623a2901"
+                                          },
+                                          {
+                                           "id": "p133-70",
+                                           "no": "四",
+                                           "label": "離過",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "不作",
+                                           "cbeta_id": "X05p0623a3001"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0623a2401"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0623a1401"
+                                      },
+                                      {
+                                       "id": "p133-71",
+                                       "no": "四",
+                                       "label": "結",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0623a3101"
+                                      },
+                                      {
+                                       "id": "p133-72",
+                                       "no": "五",
+                                       "label": "勸",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "若諸",
+                                       "cbeta_id": "X05p0623a3201"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0623a1101"
+                                    },
+                                    {
+                                     "id": "p133-73",
+                                     "no": "九",
+                                     "label": "深廣智",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "children": [
+                                      {
+                                       "id": "p133-74",
+                                       "no": "一",
+                                       "label": "標",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0623a3401"
+                                      },
+                                      {
+                                       "id": "p133-75",
+                                       "no": "二",
+                                       "label": "徵",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "何等",
+                                       "cbeta_id": "X05p0623a3501"
+                                      },
+                                      {
+                                       "id": "p133-76",
+                                       "no": "三",
+                                       "label": "釋",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "children": [
+                                        {
+                                         "id": "p133-77",
+                                         "no": "一",
+                                         "label": "四明無量界",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "jing": "所謂",
+                                         "cbeta_id": "X05p0623a3701"
+                                        },
+                                        {
+                                         "id": "p133-78",
+                                         "no": "二",
+                                         "label": "六佛界無量",
+                                         "juan": 1,
+                                         "pdf_page": 133,
+                                         "children": [
+                                          {
+                                           "id": "p133-79",
+                                           "no": "一",
+                                           "label": "入三世佛善根",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "菩薩",
+                                           "pdf_note": "表解一至六共用一個起止【菩薩】",
+                                           "cbeta_id": "X05p0623a3901"
+                                          },
+                                          {
+                                           "id": "p133-80",
+                                           "no": "二",
+                                           "label": "入過去佛界",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "菩薩",
+                                           "pdf_note": "同上",
+                                           "cbeta_id": "X05p0623a4001"
+                                          },
+                                          {
+                                           "id": "p133-81",
+                                           "no": "三",
+                                           "label": "入未來佛界",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "菩薩",
+                                           "pdf_note": "同上",
+                                           "cbeta_id": "X05p0623a4101"
+                                          },
+                                          {
+                                           "id": "p133-82",
+                                           "no": "四",
+                                           "label": "入現在佛界",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "菩薩",
+                                           "pdf_note": "同上",
+                                           "cbeta_id": "X05p0623a4201"
+                                          },
+                                          {
+                                           "id": "p133-83",
+                                           "no": "五",
+                                           "label": "供多佛",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "菩薩",
+                                           "pdf_note": "同上",
+                                           "cbeta_id": "X05p0623a4301"
+                                          },
+                                          {
+                                           "id": "p133-84",
+                                           "no": "六",
+                                           "label": "求多佛",
+                                           "juan": 1,
+                                           "pdf_page": 133,
+                                           "jing": "菩薩",
+                                           "pdf_note": "同上",
+                                           "cbeta_id": "X05p0623a4401",
+                                           "cbeta": {
+                                            "label": "六求多法"
+                                           },
+                                           "remark": "CBETA 科名作「六求多法」"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0623a3801"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0623a3601"
+                                      },
+                                      {
+                                       "id": "p133-85",
+                                       "no": "四",
+                                       "label": "結勸",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0623a4501",
+                                       "cbeta": {
+                                        "label": "四勸"
+                                       },
+                                       "remark": "CBETA 科名作「四勸」"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0623a3301"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0622a2101"
                                   }
                                  ],
                                  "cbeta_id": "X05p0620a3901"
@@ -171754,6 +172587,172 @@
                                 "label": "三有三十門登前十行問"
                                },
                                "remark": "CBETA 科名作「三有三十門登前十行問」"
+                              },
+                              {
+                               "id": "p133-86",
+                               "no": "四",
+                               "label": "有二十九門答前十迴向",
+                               "juan": 1,
+                               "pdf_page": 134,
+                               "continued": true,
+                               "pdf_note": "科名印在第134頁；其線由第133頁左邊框接入，先依第134頁所印建立",
+                               "children": [
+                                {
+                                 "id": "p133-87",
+                                 "no": "一",
+                                 "label": "救護眾生離眾生相迴向",
+                                 "juan": 1,
+                                 "pdf_page": 134,
+                                 "continued": true,
+                                 "pdf_note": "科名印在第134頁；本頁掛一所迴善根如寶住，二以下在第134頁",
+                                 "children": [
+                                  {
+                                   "id": "p133-88",
+                                   "no": "一",
+                                   "label": "所迴善根如寶住",
+                                   "juan": 1,
+                                   "pdf_page": 133,
+                                   "children": [
+                                    {
+                                     "id": "p133-89",
+                                     "no": "一",
+                                     "label": "標",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0623a5001"
+                                    },
+                                    {
+                                     "id": "p133-90",
+                                     "no": "二",
+                                     "label": "徵",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "何等",
+                                     "cbeta_id": "X05p0623a5101"
+                                    },
+                                    {
+                                     "id": "p133-91",
+                                     "no": "三",
+                                     "label": "釋",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "children": [
+                                      {
+                                       "id": "p133-92",
+                                       "no": "一",
+                                       "label": "供事多佛",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0623a5301"
+                                      },
+                                      {
+                                       "id": "p133-93",
+                                       "no": "二",
+                                       "label": "聞法受持",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "於不",
+                                       "cbeta_id": "X05p0623a5401"
+                                      },
+                                      {
+                                       "id": "p133-94",
+                                       "no": "三",
+                                       "label": "自在受生",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "於此",
+                                       "cbeta_id": "X05p0623a5501"
+                                      },
+                                      {
+                                       "id": "p133-95",
+                                       "no": "四",
+                                       "label": "說本末法",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "知從",
+                                       "cbeta_id": "X05p0623a5601"
+                                      },
+                                      {
+                                       "id": "p133-96",
+                                       "no": "五",
+                                       "label": "知斷自在",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "知厭",
+                                       "cbeta_id": "X05p0623a5701"
+                                      },
+                                      {
+                                       "id": "p133-97",
+                                       "no": "六",
+                                       "label": "悲智雙行",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "知一",
+                                       "pdf_note": "表解六至七共用一個起止【知一】",
+                                       "cbeta_id": "X05p0623a5801"
+                                      },
+                                      {
+                                       "id": "p133-98",
+                                       "no": "七",
+                                       "label": "性相無礙",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "知一",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0623a5901"
+                                      },
+                                      {
+                                       "id": "p133-99",
+                                       "no": "八",
+                                       "label": "無得之得",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "菩薩",
+                                       "pdf_note": "表解八至十共用一個起止【菩薩】",
+                                       "cbeta_id": "X05p0623a6001"
+                                      },
+                                      {
+                                       "id": "p133-100",
+                                       "no": "九",
+                                       "label": "觀空滿願",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "菩薩",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0623a6101"
+                                      },
+                                      {
+                                       "id": "p133-101",
+                                       "no": "十",
+                                       "label": "受行無厭",
+                                       "juan": 1,
+                                       "pdf_page": 133,
+                                       "jing": "菩薩",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0623a6201"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0623a5201"
+                                    },
+                                    {
+                                     "id": "p133-102",
+                                     "no": "四",
+                                     "label": "結勸",
+                                     "juan": 1,
+                                     "pdf_page": 133,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0623a6301"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0623a4901"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0623a4801"
+                                }
+                               ],
+                               "cbeta_id": "X05p0620a3301"
                               }
                              ],
                              "cbeta_id": "X05p0618a5301"
