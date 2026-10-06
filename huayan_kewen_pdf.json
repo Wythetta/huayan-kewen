@@ -122,9 +122,10 @@
    118,
    119,
    120,
-   121
+   121,
+   122
   ],
-  "節點總數": 15546,
+  "節點總數": 15636,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -158384,7 +158385,883 @@
                            "juan": 1,
                            "pdf_page": 110,
                            "pin": "如來十身相海品第三十四",
-                           "pdf_note": "科名與品名間以一短線連一「相」字"
+                           "pdf_note": "科名與品名間以一短線連一「相」字",
+                           "pdf_title": "別顯勝德之相〔如來十身相海品第三十四〕",
+                           "children": [
+                            {
+                             "id": "p122-1",
+                             "no": "一",
+                             "label": "來意",
+                             "cue": "初來",
+                             "juan": 1,
+                             "pdf_page": 122,
+                             "cbeta_id": "X05p0599a0101",
+                             "cbeta": {
+                              "cue": "如來"
+                             },
+                             "remark": "CBETA 起止作〔如來〕"
+                            },
+                            {
+                             "id": "p122-2",
+                             "no": "二",
+                             "label": "釋名",
+                             "juan": 1,
+                             "pdf_page": 122,
+                             "children": [
+                              {
+                               "id": "p122-3",
+                               "no": "一",
+                               "label": "釋名",
+                               "cue": "二釋",
+                               "juan": 1,
+                               "pdf_page": 122,
+                               "cbeta_id": "X05p0599a0301"
+                              },
+                              {
+                               "id": "p122-4",
+                               "no": "二",
+                               "label": "辨類",
+                               "juan": 1,
+                               "pdf_page": 122,
+                               "children": [
+                                {
+                                 "id": "p122-5",
+                                 "no": "一",
+                                 "label": "正明",
+                                 "cue": "觀佛",
+                                 "juan": 1,
+                                 "pdf_page": 122,
+                                 "cbeta_id": "X05p0599a0501"
+                                },
+                                {
+                                 "id": "p122-6",
+                                 "no": "二",
+                                 "label": "料揀",
+                                 "juan": 1,
+                                 "pdf_page": 122,
+                                 "children": [
+                                  {
+                                   "id": "p122-7",
+                                   "no": "一",
+                                   "label": "約乘料揀",
+                                   "cue": "三中",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0599a0701"
+                                  },
+                                  {
+                                   "id": "p122-8",
+                                   "no": "二",
+                                   "label": "約身料揀",
+                                   "cue": "又初",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0599a0801"
+                                  },
+                                  {
+                                   "id": "p122-9",
+                                   "no": "三",
+                                   "label": "約機料揀",
+                                   "cue": "又初",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0599a0901"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0599a0601"
+                                }
+                               ],
+                               "cbeta_id": "X05p0599a0401"
+                              },
+                              {
+                               "id": "p122-10",
+                               "no": "三",
+                               "label": "辨體",
+                               "cue": "若語",
+                               "juan": 1,
+                               "pdf_page": 122,
+                               "cbeta_id": "X05p0599a1001"
+                              },
+                              {
+                               "id": "p122-11",
+                               "no": "四",
+                               "label": "辨因",
+                               "cue": "若語",
+                               "juan": 1,
+                               "pdf_page": 122,
+                               "cbeta_id": "X05p0599a1101"
+                              }
+                             ],
+                             "cbeta_id": "X05p0599a0201"
+                            },
+                            {
+                             "id": "p122-12",
+                             "no": "三",
+                             "label": "宗趣",
+                             "cue": "三宗",
+                             "juan": 1,
+                             "pdf_page": 122,
+                             "cbeta_id": "X05p0599a1201"
+                            },
+                            {
+                             "id": "p122-13",
+                             "no": "四",
+                             "label": "釋文",
+                             "juan": 1,
+                             "pdf_page": 122,
+                             "children": [
+                              {
+                               "id": "p122-14",
+                               "no": "一",
+                               "label": "告眾許說",
+                               "juan": 1,
+                               "pdf_page": 122,
+                               "jing": "爾時",
+                               "cbeta_id": "X05p0599a1401"
+                              },
+                              {
+                               "id": "p122-15",
+                               "no": "二",
+                               "label": "正陳相狀",
+                               "juan": 1,
+                               "pdf_page": 122,
+                               "children": [
+                                {
+                                 "id": "p122-16",
+                                 "no": "一",
+                                 "label": "科判",
+                                 "juan": 1,
+                                 "pdf_page": 122,
+                                 "children": [
+                                  {
+                                   "id": "p122-17",
+                                   "no": "一",
+                                   "label": "總科",
+                                   "cue": "第二",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0599a1701"
+                                  },
+                                  {
+                                   "id": "p122-18",
+                                   "no": "二",
+                                   "label": "料揀",
+                                   "cue": "或略",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0599a1801"
+                                  },
+                                  {
+                                   "id": "p122-19",
+                                   "no": "三",
+                                   "label": "大科",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "children": [
+                                    {
+                                     "id": "p122-20",
+                                     "no": "一",
+                                     "label": "成經次",
+                                     "cue": "細論",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "cbeta_id": "X05p0599a2001"
+                                    },
+                                    {
+                                     "id": "p122-21",
+                                     "no": "二",
+                                     "label": "明大科",
+                                     "cue": "今以",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "cbeta_id": "X05p0599a2101"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0599a1901"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0599a1601"
+                                },
+                                {
+                                 "id": "p122-22",
+                                 "no": "二",
+                                 "label": "釋文",
+                                 "juan": 1,
+                                 "pdf_page": 122,
+                                 "pdf_note": "子科之線由科名長下行至頁下半",
+                                 "children": [
+                                  {
+                                   "id": "p122-23",
+                                   "no": "一",
+                                   "label": "依頂相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "children": [
+                                    {
+                                     "id": "p122-24",
+                                     "no": "一",
+                                     "label": "約處總標",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0599a2401"
+                                    },
+                                    {
+                                     "id": "p122-25",
+                                     "no": "二",
+                                     "label": "別列名相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "children": [
+                                      {
+                                       "id": "p122-26",
+                                       "no": "一",
+                                       "label": "正明圓融",
+                                       "cue": "二別",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "cbeta_id": "X05p0599a2601"
+                                      },
+                                      {
+                                       "id": "p122-27",
+                                       "no": "二",
+                                       "label": "辨其通妨",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "children": [
+                                        {
+                                         "id": "p122-28",
+                                         "no": "一",
+                                         "label": "問",
+                                         "cue": "若爾",
+                                         "juan": 1,
+                                         "pdf_page": 122,
+                                         "cbeta_id": "X05p0599a2801"
+                                        },
+                                        {
+                                         "id": "p122-29",
+                                         "no": "二",
+                                         "label": "答",
+                                         "juan": 1,
+                                         "pdf_page": 122,
+                                         "children": [
+                                          {
+                                           "id": "p122-30",
+                                           "no": "一",
+                                           "label": "正答",
+                                           "cue": "顯頂",
+                                           "juan": 1,
+                                           "pdf_page": 122,
+                                           "cbeta_id": "X05p0599a3001"
+                                          },
+                                          {
+                                           "id": "p122-31",
+                                           "no": "二",
+                                           "label": "引證",
+                                           "cue": "善生",
+                                           "juan": 1,
+                                           "pdf_page": 122,
+                                           "cbeta_id": "X05p0599a3101"
+                                          },
+                                          {
+                                           "id": "p122-32",
+                                           "no": "三",
+                                           "label": "通難",
+                                           "cue": "此約",
+                                           "juan": 1,
+                                           "pdf_page": 122,
+                                           "cbeta_id": "X05p0599a3201"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0599a2901"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0599a2701"
+                                      },
+                                      {
+                                       "id": "p122-33",
+                                       "no": "三",
+                                       "label": "正釋本文",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "其中",
+                                       "cbeta_id": "X05p0599a3301"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0599a2501"
+                                    },
+                                    {
+                                     "id": "p122-34",
+                                     "no": "三",
+                                     "label": "總結為嚴",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "佛子",
+                                     "cbeta_id": "X05p0599a3401"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0599a2301"
+                                  },
+                                  {
+                                   "id": "p122-35",
+                                   "no": "二",
+                                   "label": "眉間有一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "佛子",
+                                   "cbeta_id": "X05p0599a3501"
+                                  },
+                                  {
+                                   "id": "p122-36",
+                                   "no": "三",
+                                   "label": "眼有一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "cbeta_id": "X05p0599a3601"
+                                  },
+                                  {
+                                   "id": "p122-37",
+                                   "no": "四",
+                                   "label": "鼻有一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "cbeta_id": "X05p0599a3701"
+                                  },
+                                  {
+                                   "id": "p122-38",
+                                   "no": "五",
+                                   "label": "舌有四相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "children": [
+                                    {
+                                     "id": "p122-39",
+                                     "no": "一",
+                                     "label": "廣長舌相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "cbeta_id": "X05p0599a3901"
+                                    },
+                                    {
+                                     "id": "p122-40",
+                                     "no": "二",
+                                     "label": "舌掌之相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "cbeta_id": "X05p0599a4001"
+                                    },
+                                    {
+                                     "id": "p122-41",
+                                     "no": "三",
+                                     "label": "舌端之相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "children": [
+                                      {
+                                       "id": "p122-42",
+                                       "no": "一",
+                                       "label": "卷",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "cbeta_id": "X05p0599a4201"
+                                      },
+                                      {
+                                       "id": "p122-43",
+                                       "no": "二",
+                                       "label": "展",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "cbeta_id": "X05p0599a4301"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0599a4101"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0599a3801"
+                                  },
+                                  {
+                                   "id": "p122-44",
+                                   "no": "六",
+                                   "label": "上齶有一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "cbeta_id": "X05p0599a4401"
+                                  },
+                                  {
+                                   "id": "p122-45",
+                                   "no": "七",
+                                   "label": "牙有四相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "children": [
+                                    {
+                                     "id": "p122-46",
+                                     "no": "一",
+                                     "label": "右輔",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "children": [
+                                      {
+                                       "id": "p122-47",
+                                       "no": "一",
+                                       "label": "下牙",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "pdf_note": "表解牙之右輔、左輔下牙上牙四科共用一個起止【如來】",
+                                       "cbeta_id": "X05p0599a4701"
+                                      },
+                                      {
+                                       "id": "p122-48",
+                                       "no": "二",
+                                       "label": "上牙",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0599a4801"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0599a4601"
+                                    },
+                                    {
+                                     "id": "p122-49",
+                                     "no": "二",
+                                     "label": "左輔",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "children": [
+                                      {
+                                       "id": "p122-50",
+                                       "no": "一",
+                                       "label": "下牙",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0599a5001"
+                                      },
+                                      {
+                                       "id": "p122-51",
+                                       "no": "二",
+                                       "label": "上牙",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0599a5101"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0599a4901"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0599a4501"
+                                  },
+                                  {
+                                   "id": "p122-52",
+                                   "no": "八",
+                                   "label": "齒有一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "pdf_note": "表解八至十共用一個起止【如來】",
+                                   "cbeta_id": "X05p0599a5201"
+                                  },
+                                  {
+                                   "id": "p122-53",
+                                   "no": "九",
+                                   "label": "唇有一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "pdf_note": "同上",
+                                   "cbeta_id": "X05p0599a5301"
+                                  },
+                                  {
+                                   "id": "p122-54",
+                                   "no": "十",
+                                   "label": "頸有一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "pdf_note": "同上",
+                                   "cbeta_id": "X05p0599a5401"
+                                  },
+                                  {
+                                   "id": "p122-55",
+                                   "no": "十一",
+                                   "label": "肩有五相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "children": [
+                                    {
+                                     "id": "p122-56",
+                                     "no": "一",
+                                     "label": "右",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "children": [
+                                      {
+                                       "id": "p122-57",
+                                       "no": "一",
+                                       "label": "第一",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "cbeta_id": "X05p0599a5701"
+                                      },
+                                      {
+                                       "id": "p122-58",
+                                       "no": "二",
+                                       "label": "第二",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "cbeta_id": "X05p0599a5801"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0599a5601"
+                                    },
+                                    {
+                                     "id": "p122-59",
+                                     "no": "二",
+                                     "label": "左",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "children": [
+                                      {
+                                       "id": "p122-60",
+                                       "no": "一",
+                                       "label": "第一",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "pdf_note": "表解一至三共用一個起止【如來】",
+                                       "cbeta_id": "X05p0599a6001"
+                                      },
+                                      {
+                                       "id": "p122-61",
+                                       "no": "二",
+                                       "label": "第二",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0599a6101"
+                                      },
+                                      {
+                                       "id": "p122-62",
+                                       "no": "三",
+                                       "label": "第三",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0599a6201"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0599a5901"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0599a5501"
+                                  },
+                                  {
+                                   "id": "p122-63",
+                                   "no": "十二",
+                                   "label": "胸有十一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "children": [
+                                    {
+                                     "id": "p122-64",
+                                     "no": "一",
+                                     "label": "當中一相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "cbeta_id": "X05p0600a0201"
+                                    },
+                                    {
+                                     "id": "p122-65",
+                                     "no": "二",
+                                     "label": "右五",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "吉祥",
+                                     "cbeta_id": "X05p0600a0301"
+                                    },
+                                    {
+                                     "id": "p122-66",
+                                     "no": "三",
+                                     "label": "左五",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "吉祥",
+                                     "cbeta_id": "X05p0600a0401"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0600a0101",
+                                   "cbeta": {
+                                    "label": "十二胷有十一相"
+                                   },
+                                   "remark": "CBETA 科名作「十二胷有十一相」"
+                                  },
+                                  {
+                                   "id": "p122-67",
+                                   "no": "十三",
+                                   "label": "手有十三相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "children": [
+                                    {
+                                     "id": "p122-68",
+                                     "no": "一",
+                                     "label": "初九直語手相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "children": [
+                                      {
+                                       "id": "p122-69",
+                                       "no": "一",
+                                       "label": "前五明右",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "cbeta_id": "X05p0600a0701"
+                                      },
+                                      {
+                                       "id": "p122-70",
+                                       "no": "二",
+                                       "label": "後四明左",
+                                       "juan": 1,
+                                       "pdf_page": 122,
+                                       "jing": "如來",
+                                       "cbeta_id": "X05p0600a0801"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0600a0601"
+                                    },
+                                    {
+                                     "id": "p122-71",
+                                     "no": "二",
+                                     "label": "次二左右指",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "cbeta_id": "X05p0600a0901",
+                                     "cbeta": {
+                                      "label": "二二左右指"
+                                     },
+                                     "remark": "CBETA 科名作「二二左右指」"
+                                    },
+                                    {
+                                     "id": "p122-72",
+                                     "no": "三",
+                                     "label": "後二左右掌",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "cbeta_id": "X05p0600a1001",
+                                     "cbeta": {
+                                      "label": "三二左右掌"
+                                     },
+                                     "remark": "CBETA 科名作「三二左右掌」"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0600a0501"
+                                  },
+                                  {
+                                   "id": "p122-73",
+                                   "no": "十四",
+                                   "label": "陰藏有一相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "pdf_note": "表解十四至十七共用一個起止【如來】",
+                                   "cbeta_id": "X05p0600a1101"
+                                  },
+                                  {
+                                   "id": "p122-74",
+                                   "no": "十五",
+                                   "label": "坐處有二相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "pdf_note": "同上",
+                                   "cbeta_id": "X05p0600a1201"
+                                  },
+                                  {
+                                   "id": "p122-75",
+                                   "no": "十六",
+                                   "label": "陛有二相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "pdf_note": "同上",
+                                   "cbeta_id": "X05p0600a1301"
+                                  },
+                                  {
+                                   "id": "p122-76",
+                                   "no": "十七",
+                                   "label": "腨有三相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "jing": "如來",
+                                   "pdf_note": "同上",
+                                   "cbeta_id": "X05p0600a1401"
+                                  },
+                                  {
+                                   "id": "p122-77",
+                                   "no": "十八",
+                                   "label": "足有十三相",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "children": [
+                                    {
+                                     "id": "p122-78",
+                                     "no": "一",
+                                     "label": "足下一相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "pdf_note": "表解一至七共用一個起止【如來】",
+                                     "cbeta_id": "X05p0600a1601"
+                                    },
+                                    {
+                                     "id": "p122-79",
+                                     "no": "二",
+                                     "label": "足上二相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0600a1701"
+                                    },
+                                    {
+                                     "id": "p122-80",
+                                     "no": "三",
+                                     "label": "足指間二相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0600a1801"
+                                    },
+                                    {
+                                     "id": "p122-81",
+                                     "no": "四",
+                                     "label": "足跟二相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0600a1901"
+                                    },
+                                    {
+                                     "id": "p122-82",
+                                     "no": "五",
+                                     "label": "足趺二相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0600a2001"
+                                    },
+                                    {
+                                     "id": "p122-83",
+                                     "no": "六",
+                                     "label": "足四周二相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0600a2101"
+                                    },
+                                    {
+                                     "id": "p122-84",
+                                     "no": "七",
+                                     "label": "足指端二相",
+                                     "juan": 1,
+                                     "pdf_page": 122,
+                                     "jing": "如來",
+                                     "pdf_note": "同上",
+                                     "cbeta_id": "X05p0600a2201"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0600a1501"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0599a2201"
+                                },
+                                {
+                                 "id": "p122-85",
+                                 "no": "三",
+                                 "label": "料揀",
+                                 "juan": 1,
+                                 "pdf_page": 122,
+                                 "children": [
+                                  {
+                                   "id": "p122-86",
+                                   "no": "一",
+                                   "label": "總辨名數",
+                                   "cue": "上來",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0600a2401"
+                                  },
+                                  {
+                                   "id": "p122-87",
+                                   "no": "二",
+                                   "label": "正明立理",
+                                   "cue": "既不",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0600a2501"
+                                  },
+                                  {
+                                   "id": "p122-88",
+                                   "no": "三",
+                                   "label": "重以理成",
+                                   "cue": "況此",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0600a2601"
+                                  },
+                                  {
+                                   "id": "p122-89",
+                                   "no": "四",
+                                   "label": "遮其傍救",
+                                   "cue": "晉經",
+                                   "juan": 1,
+                                   "pdf_page": 122,
+                                   "cbeta_id": "X05p0600a2701"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0600a2301"
+                                }
+                               ],
+                               "cbeta_id": "X05p0599a1501"
+                              },
+                              {
+                               "id": "p122-90",
+                               "no": "三",
+                               "label": "結略顯廣",
+                               "juan": 1,
+                               "pdf_page": 122,
+                               "jing": "佛子",
+                               "cbeta_id": "X05p0600a2801"
+                              }
+                             ],
+                             "cbeta_id": "X05p0599a1301"
+                            }
+                           ]
                           },
                           {
                            "id": "p110-16",
