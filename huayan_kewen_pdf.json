@@ -127,9 +127,10 @@
    123,
    124,
    125,
-   126
+   126,
+   127
   ],
-  "節點總數": 16197,
+  "節點總數": 16329,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -164188,7 +164189,6 @@
                                  "label": "答意業",
                                  "juan": 1,
                                  "pdf_page": 126,
-                                 "continued": true,
                                  "pdf_note": "其線通頁左邊框，二偈頌在第127頁",
                                  "children": [
                                   {
@@ -164213,7 +164213,6 @@
                                      "label": "正釋",
                                      "juan": 1,
                                      "pdf_page": 126,
-                                     "continued": true,
                                      "pdf_note": "其線通頁左邊框，二寄喻別顯、三總結勸知在第127頁",
                                      "children": [
                                       {
@@ -164729,12 +164728,687 @@
                                         }
                                        ],
                                        "cbeta_id": "X05p0609a2201"
+                                      },
+                                      {
+                                       "id": "p127-1",
+                                       "no": "二",
+                                       "label": "寄喻別顯",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "continued": true,
+                                       "pdf_note": "子科之線長下行至頁下半，向左通頁左邊框；本頁掛一至九，十在第128頁",
+                                       "children": [
+                                        {
+                                         "id": "p127-2",
+                                         "no": "一",
+                                         "label": "虛空無依為依喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "children": [
+                                          {
+                                           "id": "p127-3",
+                                           "no": "一",
+                                           "label": "喻",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "jing": "譬如",
+                                           "cbeta_id": "X05p0610a1901"
+                                          },
+                                          {
+                                           "id": "p127-4",
+                                           "no": "二",
+                                           "label": "合",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-5",
+                                             "no": "一",
+                                             "label": "正釋經文",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "如來",
+                                             "cbeta_id": "X05p0610a2101",
+                                             "cbeta": {
+                                              "cue": "合中"
+                                             },
+                                             "remark": "CBETA 起止作〔合中〕"
+                                            },
+                                            {
+                                             "id": "p127-6",
+                                             "no": "二",
+                                             "label": "設其外難",
+                                             "cue": "豈不",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "cbeta_id": "X05p0610a2201"
+                                            },
+                                            {
+                                             "id": "p127-7",
+                                             "no": "三",
+                                             "label": "總釋通義",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "children": [
+                                              {
+                                               "id": "p127-8",
+                                               "no": "一",
+                                               "label": "釋依心",
+                                               "cue": "豈不",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "cbeta_id": "X05p0610a2401"
+                                              },
+                                              {
+                                               "id": "p127-9",
+                                               "no": "二",
+                                               "label": "釋依理",
+                                               "cue": "良以",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "cbeta_id": "X05p0610a2501"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0610a2301"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0610a2001"
+                                          },
+                                          {
+                                           "id": "p127-10",
+                                           "no": "三",
+                                           "label": "結",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0610a2601"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0610a1801"
+                                        },
+                                        {
+                                         "id": "p127-11",
+                                         "no": "二",
+                                         "label": "法界湛然喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "復次",
+                                         "pdf_note": "表解二至三共用一個起止【復次】",
+                                         "cbeta_id": "X05p0610a2701"
+                                        },
+                                        {
+                                         "id": "p127-12",
+                                         "no": "三",
+                                         "label": "大海潛流喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "復次",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0610a2801"
+                                        },
+                                        {
+                                         "id": "p127-13",
+                                         "no": "四",
+                                         "label": "大寶出生喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "children": [
+                                          {
+                                           "id": "p127-14",
+                                           "no": "一",
+                                           "label": "喻",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-15",
+                                             "no": "一",
+                                             "label": "出處體用",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "復次",
+                                             "cbeta_id": "X05p0610a3101"
+                                            },
+                                            {
+                                             "id": "p127-16",
+                                             "no": "二",
+                                             "label": "徵列寶名",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "何等",
+                                             "cbeta_id": "X05p0610a3201"
+                                            },
+                                            {
+                                             "id": "p127-17",
+                                             "no": "三",
+                                             "label": "結成殊勝",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0610a3301"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0610a3001"
+                                          },
+                                          {
+                                           "id": "p127-18",
+                                           "no": "二",
+                                           "label": "合",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-19",
+                                             "no": "一",
+                                             "label": "合出處體用",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0610a3501"
+                                            },
+                                            {
+                                             "id": "p127-20",
+                                             "no": "二",
+                                             "label": "合徵列寶名",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "何等",
+                                             "children": [
+                                              {
+                                               "id": "p127-21",
+                                               "no": "一",
+                                               "label": "敘昔",
+                                               "cue": "列名",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "cbeta_id": "X05p0610a3701",
+                                               "cbeta": {
+                                                "cue": "何等"
+                                               },
+                                               "remark": "CBETA 起止作〔何等〕"
+                                              },
+                                              {
+                                               "id": "p127-22",
+                                               "no": "二",
+                                               "label": "會釋",
+                                               "cue": "此釋",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "cbeta_id": "X05p0610a3801"
+                                              },
+                                              {
+                                               "id": "p127-23",
+                                               "no": "三",
+                                               "label": "正釋",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "children": [
+                                                {
+                                                 "id": "p127-24",
+                                                 "no": "一",
+                                                 "label": "總明",
+                                                 "cue": "今更",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "cbeta_id": "X05p0610a4001"
+                                                },
+                                                {
+                                                 "id": "p127-25",
+                                                 "no": "二",
+                                                 "label": "別明",
+                                                 "cue": "一大",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "cbeta_id": "X05p0610a4101"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0610a3901"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0610a3601"
+                                            },
+                                            {
+                                             "id": "p127-26",
+                                             "no": "三",
+                                             "label": "合結其深勝",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "children": [
+                                              {
+                                               "id": "p127-27",
+                                               "no": "一",
+                                               "label": "明用勝體深",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "jing": "若諸",
+                                               "cbeta_id": "X05p0610a4301"
+                                              },
+                                              {
+                                               "id": "p127-28",
+                                               "no": "二",
+                                               "label": "明體勝用深",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "children": [
+                                                {
+                                                 "id": "p127-29",
+                                                 "no": "一",
+                                                 "label": "釋經",
+                                                 "cue": "此四",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "cbeta_id": "X05p0610a4501"
+                                                },
+                                                {
+                                                 "id": "p127-30",
+                                                 "no": "二",
+                                                 "label": "解妨",
+                                                 "cue": "今以",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "cbeta_id": "X05p0610a4601"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0610a4401"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0610a4201"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0610a3401"
+                                          },
+                                          {
+                                           "id": "p127-31",
+                                           "no": "三",
+                                           "label": "結",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0610a4701"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0610a2901"
+                                        },
+                                        {
+                                         "id": "p127-32",
+                                         "no": "五",
+                                         "label": "珠消海水喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "children": [
+                                          {
+                                           "id": "p127-33",
+                                           "no": "一",
+                                           "label": "喻",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-34",
+                                             "no": "一",
+                                             "label": "總明體用",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "復次",
+                                             "cbeta_id": "X05p0610a5001",
+                                             "cbeta": {
+                                              "label": "初總名體用"
+                                             },
+                                             "remark": "CBETA 科名作「初總名體用」"
+                                            },
+                                            {
+                                             "id": "p127-35",
+                                             "no": "二",
+                                             "label": "別顯用相",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0610a5101"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0610a4901"
+                                          },
+                                          {
+                                           "id": "p127-36",
+                                           "no": "二",
+                                           "label": "合",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-37",
+                                             "no": "一",
+                                             "label": "合總明體用",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0610a5301"
+                                            },
+                                            {
+                                             "id": "p127-38",
+                                             "no": "二",
+                                             "label": "合別顯用相",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "children": [
+                                              {
+                                               "id": "p127-39",
+                                               "no": "一",
+                                               "label": "敘昔解",
+                                               "cue": "後佛",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "cbeta_id": "X05p0610a5501",
+                                               "cbeta": {
+                                                "cue": "佛子"
+                                               },
+                                               "remark": "CBETA 起止作〔佛子〕"
+                                              },
+                                              {
+                                               "id": "p127-40",
+                                               "no": "二",
+                                               "label": "辨順違",
+                                               "cue": "此釋",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "cbeta_id": "X05p0610a5601"
+                                              },
+                                              {
+                                               "id": "p127-41",
+                                               "no": "三",
+                                               "label": "申正義",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "children": [
+                                                {
+                                                 "id": "p127-42",
+                                                 "no": "一",
+                                                 "label": "總",
+                                                 "cue": "今更",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "cbeta_id": "X05p0610a5801"
+                                                },
+                                                {
+                                                 "id": "p127-43",
+                                                 "no": "二",
+                                                 "label": "別",
+                                                 "cue": "謂一",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "cbeta_id": "X05p0610a5901"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0610a5701"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0610a5401",
+                                             "cbeta": {
+                                              "label": "二合別顯相"
+                                             },
+                                             "remark": "CBETA 科名作「二合別顯相」"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0610a5201"
+                                          },
+                                          {
+                                           "id": "p127-44",
+                                           "no": "三",
+                                           "label": "結",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0610a6001"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0610a4801"
+                                        },
+                                        {
+                                         "id": "p127-45",
+                                         "no": "六",
+                                         "label": "虛空含受喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "復次",
+                                         "cbeta_id": "X05p0610a6101"
+                                        },
+                                        {
+                                         "id": "p127-46",
+                                         "no": "七",
+                                         "label": "藥王生長喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "children": [
+                                          {
+                                           "id": "p127-47",
+                                           "no": "一",
+                                           "label": "喻",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-48",
+                                             "no": "一",
+                                             "label": "總明體用",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "復次",
+                                             "cbeta_id": "X05p0611a0201"
+                                            },
+                                            {
+                                             "id": "p127-49",
+                                             "no": "二",
+                                             "label": "別顯用相",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "彼藥",
+                                             "cbeta_id": "X05p0611a0301"
+                                            },
+                                            {
+                                             "id": "p127-50",
+                                             "no": "三",
+                                             "label": "得名所由",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "此藥",
+                                             "cbeta_id": "X05p0611a0401"
+                                            },
+                                            {
+                                             "id": "p127-51",
+                                             "no": "四",
+                                             "label": "簡其非處",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0611a0501"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0611a0101"
+                                          },
+                                          {
+                                           "id": "p127-52",
+                                           "no": "二",
+                                           "label": "合",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-53",
+                                             "no": "一",
+                                             "label": "合總顯體用",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0611a0701"
+                                            },
+                                            {
+                                             "id": "p127-54",
+                                             "no": "二",
+                                             "label": "越合得名所由",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "pdf_note": "表解二至四共用一個起止【佛子】",
+                                             "cbeta_id": "X05p0611a0801"
+                                            },
+                                            {
+                                             "id": "p127-55",
+                                             "no": "三",
+                                             "label": "却合別顯用相",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0611a0901"
+                                            },
+                                            {
+                                             "id": "p127-56",
+                                             "no": "四",
+                                             "label": "合簡其非處",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0611a1001"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0611a0601"
+                                          },
+                                          {
+                                           "id": "p127-57",
+                                           "no": "三",
+                                           "label": "結",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0611a1101"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0610a6201"
+                                        },
+                                        {
+                                         "id": "p127-58",
+                                         "no": "八",
+                                         "label": "劫火燒盡喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "復次",
+                                         "pdf_note": "表解八至九共用一個起止【復次】",
+                                         "cbeta_id": "X05p0611a1201"
+                                        },
+                                        {
+                                         "id": "p127-59",
+                                         "no": "九",
+                                         "label": "劫風持壞喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "復次",
+                                         "pdf_note": "同上",
+                                         "cbeta_id": "X05p0611a1301"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0610a1301"
+                                      },
+                                      {
+                                       "id": "p127-60",
+                                       "no": "三",
+                                       "label": "總結勸知",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "佛子",
+                                       "pdf_note": "CBETA 正釋下此科為空 stub，子科在孤立片段「總結勸知」，以 #cb 對應",
+                                       "children": [
+                                        {
+                                         "id": "p127-61",
+                                         "no": "一",
+                                         "label": "結上十門",
+                                         "cue": "大文",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "cbeta_id": "X05p0611a3901",
+                                         "cbeta": {
+                                          "cue": "佛子"
+                                         },
+                                         "remark": "CBETA 起止作〔佛子〕"
+                                        },
+                                        {
+                                         "id": "p127-62",
+                                         "no": "二",
+                                         "label": "正釋結文",
+                                         "cue": "應更",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "cbeta_id": "X05p0611a4001"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0611a3801"
                                       }
                                      ],
                                      "cbeta_id": "X05p0609a2101"
                                     }
                                    ],
                                    "cbeta_id": "X05p0609a1901"
+                                  },
+                                  {
+                                   "id": "p127-63",
+                                   "no": "二",
+                                   "label": "偈頌",
+                                   "juan": 1,
+                                   "pdf_page": 127,
+                                   "children": [
+                                    {
+                                     "id": "p127-64",
+                                     "no": "一",
+                                     "label": "兩句頌約法總顯",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "jing": "爾時",
+                                     "cbeta_id": "X05p0611a4301"
+                                    },
+                                    {
+                                     "id": "p127-65",
+                                     "no": "二",
+                                     "label": "餘頌頌上喻文",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "children": [
+                                      {
+                                       "id": "p127-66",
+                                       "no": "一",
+                                       "label": "頌初喻",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "佛智",
+                                       "cbeta_id": "X05p0611a4501"
+                                      },
+                                      {
+                                       "id": "p127-67",
+                                       "no": "二",
+                                       "label": "頌次八",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "聲聞",
+                                       "cbeta_id": "X05p0611a4601",
+                                       "cbeta": {
+                                        "label": "三頌次八"
+                                       },
+                                       "remark": "CBETA 科名作「三頌次八」"
+                                      },
+                                      {
+                                       "id": "p127-68",
+                                       "no": "三",
+                                       "label": "頌第十",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "如有",
+                                       "cbeta_id": "X05p0611a4701"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0611a4401"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0610a1501"
                                   }
                                  ],
                                  "cbeta_id": "X05p0606a4501",
@@ -164742,6 +165416,648 @@
                                   "label": "四答其意業"
                                  },
                                  "remark": "CBETA 科名作「四答其意業」"
+                                },
+                                {
+                                 "id": "p127-69",
+                                 "no": "五",
+                                 "label": "答出現境界",
+                                 "juan": 1,
+                                 "pdf_page": 127,
+                                 "children": [
+                                  {
+                                   "id": "p127-70",
+                                   "no": "一",
+                                   "label": "文前敘意",
+                                   "juan": 1,
+                                   "pdf_page": 127,
+                                   "children": [
+                                    {
+                                     "id": "p127-71",
+                                     "no": "一",
+                                     "label": "正出體",
+                                     "cue": "第五",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "cbeta_id": "X05p0611a5101"
+                                    },
+                                    {
+                                     "id": "p127-72",
+                                     "no": "二",
+                                     "label": "辨來意",
+                                     "cue": "依初",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "cbeta_id": "X05p0611a5201"
+                                    },
+                                    {
+                                     "id": "p127-73",
+                                     "no": "三",
+                                     "label": "融上義",
+                                     "cue": "由所",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "cbeta_id": "X05p0611a5301"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0611a5001"
+                                  },
+                                  {
+                                   "id": "p127-74",
+                                   "no": "二",
+                                   "label": "正釋經文",
+                                   "juan": 1,
+                                   "pdf_page": 127,
+                                   "children": [
+                                    {
+                                     "id": "p127-75",
+                                     "no": "一",
+                                     "label": "長行",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "children": [
+                                      {
+                                       "id": "p127-76",
+                                       "no": "一",
+                                       "label": "標",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0611a5601"
+                                      },
+                                      {
+                                       "id": "p127-77",
+                                       "no": "二",
+                                       "label": "釋",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "children": [
+                                        {
+                                         "id": "p127-78",
+                                         "no": "一",
+                                         "label": "法",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "children": [
+                                          {
+                                           "id": "p127-79",
+                                           "no": "一",
+                                           "label": "廣取所緣顯分齊境",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-80",
+                                             "no": "一",
+                                             "label": "列所緣無邊",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "children": [
+                                              {
+                                               "id": "p127-81",
+                                               "no": "一",
+                                               "label": "隨文釋",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0612a0501",
+                                               "cbeta": {
+                                                "label": "初隨門別釋"
+                                               },
+                                               "remark": "CBETA 科名作「初隨門別釋」"
+                                              },
+                                              {
+                                               "id": "p127-82",
+                                               "no": "二",
+                                               "label": "義門料揀",
+                                               "cue": "若約",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "cbeta_id": "X05p0612a0601"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0612a0401"
+                                            },
+                                            {
+                                             "id": "p127-83",
+                                             "no": "二",
+                                             "label": "顯分齊無量",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0612a0701"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0612a0301"
+                                          },
+                                          {
+                                           "id": "p127-84",
+                                           "no": "二",
+                                           "label": "近取諸心以況佛境",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-85",
+                                             "no": "一",
+                                             "label": "正明",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0612a0901"
+                                            },
+                                            {
+                                             "id": "p127-86",
+                                             "no": "二",
+                                             "label": "徵釋",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "何以",
+                                             "cbeta_id": "X05p0612a1001"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0612a0801"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0612a0201"
+                                        },
+                                        {
+                                         "id": "p127-87",
+                                         "no": "二",
+                                         "label": "喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "children": [
+                                          {
+                                           "id": "p127-88",
+                                           "no": "一",
+                                           "label": "前二喻喻無縛無脫",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-89",
+                                             "no": "一",
+                                             "label": "明降雨無從喻",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0612a1301"
+                                            },
+                                            {
+                                             "id": "p127-90",
+                                             "no": "二",
+                                             "label": "明海水從心喻",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0612a1401"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0612a1201",
+                                           "cbeta": {
+                                            "label": "初二喻無縛無脫"
+                                           },
+                                           "remark": "CBETA 科名作「初二喻無縛無脫」"
+                                          },
+                                          {
+                                           "id": "p127-91",
+                                           "no": "二",
+                                           "label": "後海水宏深喻喻無量無邊",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-92",
+                                             "no": "一",
+                                             "label": "標章誡聽",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0612a1601"
+                                            },
+                                            {
+                                             "id": "p127-93",
+                                             "no": "二",
+                                             "label": "喻顯",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "children": [
+                                              {
+                                               "id": "p127-94",
+                                               "no": "一",
+                                               "label": "別顯水多",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "children": [
+                                                {
+                                                 "id": "p127-95",
+                                                 "no": "一",
+                                                 "label": "四洲水",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "jing": "佛子",
+                                                 "pdf_note": "表解一至四共用一個起止【佛子】",
+                                                 "cbeta_id": "X05p0612a1901",
+                                                 "cbeta": {
+                                                  "label": "初四州水"
+                                                 },
+                                                 "remark": "CBETA 科名作「初四州水」"
+                                                },
+                                                {
+                                                 "id": "p127-96",
+                                                 "no": "二",
+                                                 "label": "龍王雨水",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "jing": "佛子",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0612a2001"
+                                                },
+                                                {
+                                                 "id": "p127-97",
+                                                 "no": "三",
+                                                 "label": "宮殿出水",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "jing": "佛子",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0612a2101"
+                                                },
+                                                {
+                                                 "id": "p127-98",
+                                                 "no": "四",
+                                                 "label": "娑竭兼雨兼出",
+                                                 "juan": 1,
+                                                 "pdf_page": 127,
+                                                 "jing": "佛子",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0612a2201"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0612a1801"
+                                              },
+                                              {
+                                               "id": "p127-99",
+                                               "no": "二",
+                                               "label": "通顯水相",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "jing": "其所",
+                                               "cbeta_id": "X05p0612a2301"
+                                              },
+                                              {
+                                               "id": "p127-100",
+                                               "no": "三",
+                                               "label": "通顯無量",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0612a2401"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0612a1701"
+                                            },
+                                            {
+                                             "id": "p127-101",
+                                             "no": "三",
+                                             "label": "法合",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "children": [
+                                              {
+                                               "id": "p127-102",
+                                               "no": "一",
+                                               "label": "合水無量",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0612a2601"
+                                              },
+                                              {
+                                               "id": "p127-103",
+                                               "no": "二",
+                                               "label": "通顯無量",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0612a2701"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0612a2501"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0612a1501",
+                                           "cbeta": {
+                                            "label": "二一喻無量無邊"
+                                           },
+                                           "remark": "CBETA 科名作「二一喻無量無邊」"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0612a1101"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0612a0101"
+                                      },
+                                      {
+                                       "id": "p127-104",
+                                       "no": "三",
+                                       "label": "結",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0612a2801"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0611a5501"
+                                    },
+                                    {
+                                     "id": "p127-105",
+                                     "no": "二",
+                                     "label": "偈頌",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "children": [
+                                      {
+                                       "id": "p127-106",
+                                       "no": "一",
+                                       "label": "一頌法說",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "爾時",
+                                       "cbeta_id": "X05p0612a3001"
+                                      },
+                                      {
+                                       "id": "p127-107",
+                                       "no": "二",
+                                       "label": "四頌頌上喻",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "children": [
+                                        {
+                                         "id": "p127-108",
+                                         "no": "一",
+                                         "label": "二頌合頌前之二喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "如龍",
+                                         "cbeta_id": "X05p0612a3201",
+                                         "cbeta": {
+                                          "label": "初二合頌前之二喻"
+                                         },
+                                         "remark": "CBETA 科名作「初二合頌前之二喻」"
+                                        },
+                                        {
+                                         "id": "p127-109",
+                                         "no": "二",
+                                         "label": "二頌頌大海宏深喻",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "如海",
+                                         "cbeta_id": "X05p0612a3301",
+                                         "cbeta": {
+                                          "label": "二後二頌合於大海宏深之喻"
+                                         },
+                                         "remark": "CBETA 科名作「二後二頌合於大海宏深之喻」"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0612a3101",
+                                       "cbeta": {
+                                        "label": "二後頌上喻"
+                                       },
+                                       "remark": "CBETA 科名作「二後頌上喻」"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0612a2901"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0611a5401"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0606a4601"
+                                },
+                                {
+                                 "id": "p127-110",
+                                 "no": "六",
+                                 "label": "答所出現之行",
+                                 "juan": 1,
+                                 "pdf_page": 127,
+                                 "children": [
+                                  {
+                                   "id": "p127-111",
+                                   "no": "一",
+                                   "label": "敘意",
+                                   "juan": 1,
+                                   "pdf_page": 127,
+                                   "children": [
+                                    {
+                                     "id": "p127-112",
+                                     "no": "一",
+                                     "label": "彰來意",
+                                     "cue": "第六",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "cbeta_id": "X05p0612a3701"
+                                    },
+                                    {
+                                     "id": "p127-113",
+                                     "no": "二",
+                                     "label": "通妨難",
+                                     "cue": "雖智",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "cbeta_id": "X05p0612a3801"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0612a3601"
+                                  },
+                                  {
+                                   "id": "p127-114",
+                                   "no": "二",
+                                   "label": "釋文",
+                                   "juan": 1,
+                                   "pdf_page": 127,
+                                   "children": [
+                                    {
+                                     "id": "p127-115",
+                                     "no": "一",
+                                     "label": "長行",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "children": [
+                                      {
+                                       "id": "p127-116",
+                                       "no": "一",
+                                       "label": "標舉",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0612a4101"
+                                      },
+                                      {
+                                       "id": "p127-117",
+                                       "no": "二",
+                                       "label": "釋相",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "children": [
+                                        {
+                                         "id": "p127-118",
+                                         "no": "一",
+                                         "label": "雙標二行",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0612a4301"
+                                        },
+                                        {
+                                         "id": "p127-119",
+                                         "no": "二",
+                                         "label": "雙釋二行",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "children": [
+                                          {
+                                           "id": "p127-120",
+                                           "no": "一",
+                                           "label": "釋真如",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-121",
+                                             "no": "一",
+                                             "label": "牒名以釋",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "pdf_note": "表解一至三共用一個起止【佛子】",
+                                             "cbeta_id": "X05p0612a4601"
+                                            },
+                                            {
+                                             "id": "p127-122",
+                                             "no": "二",
+                                             "label": "雙非契中",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0612a4701"
+                                            },
+                                            {
+                                             "id": "p127-123",
+                                             "no": "三",
+                                             "label": "喻釋非量",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0612a4801"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0612a4501"
+                                          },
+                                          {
+                                           "id": "p127-124",
+                                           "no": "二",
+                                           "label": "釋無礙",
+                                           "juan": 1,
+                                           "pdf_page": 127,
+                                           "children": [
+                                            {
+                                             "id": "p127-125",
+                                             "no": "一",
+                                             "label": "約法總明",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "jing": "佛子",
+                                             "cbeta_id": "X05p0612a5001"
+                                            },
+                                            {
+                                             "id": "p127-126",
+                                             "no": "二",
+                                             "label": "以喻別顯",
+                                             "juan": 1,
+                                             "pdf_page": 127,
+                                             "children": [
+                                              {
+                                               "id": "p127-127",
+                                               "no": "一",
+                                               "label": "金翅闢海喻",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0612a5201",
+                                               "cbeta": {
+                                                "label": "初金趐闢海喻"
+                                               },
+                                               "remark": "CBETA 科名作「初金趐闢海喻」"
+                                              },
+                                              {
+                                               "id": "p127-128",
+                                               "no": "二",
+                                               "label": "日月無思喻",
+                                               "juan": 1,
+                                               "pdf_page": 127,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0612a5301"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0612a5101"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0612a4901"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0612a4401"
+                                        },
+                                        {
+                                         "id": "p127-129",
+                                         "no": "三",
+                                         "label": "雙結二行",
+                                         "juan": 1,
+                                         "pdf_page": 127,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0612a5401"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0612a4201"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0612a4001"
+                                    },
+                                    {
+                                     "id": "p127-130",
+                                     "no": "二",
+                                     "label": "偈頌",
+                                     "juan": 1,
+                                     "pdf_page": 127,
+                                     "children": [
+                                      {
+                                       "id": "p127-131",
+                                       "no": "一",
+                                       "label": "三頌真如",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "爾時",
+                                       "cbeta_id": "X05p0612a5601"
+                                      },
+                                      {
+                                       "id": "p127-132",
+                                       "no": "二",
+                                       "label": "二頌無礙",
+                                       "juan": 1,
+                                       "pdf_page": 127,
+                                       "jing": "金翅",
+                                       "cbeta_id": "X05p0612a5701"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0612a5501"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0612a3901"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0606a4701"
                                 }
                                ],
                                "cbeta_id": "X05p0605a2201"
