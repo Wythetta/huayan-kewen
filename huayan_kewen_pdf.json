@@ -116,9 +116,10 @@
    112,
    113,
    114,
-   115
+   115,
+   116
   ],
-  "節點總數": 14873,
+  "節點總數": 14987,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -151480,7 +151481,1115 @@
                              "label": "智慧深玄",
                              "juan": 1,
                              "pdf_page": 110,
-                             "pin": "十忍品第二十九"
+                             "pin": "十忍品第二十九",
+                             "pdf_title": "智慧深玄〔十忍品第二十九〕",
+                             "children": [
+                              {
+                               "id": "p116-1",
+                               "no": "一",
+                               "label": "來意",
+                               "cue": "初來",
+                               "juan": 1,
+                               "pdf_page": 116,
+                               "cbeta_id": "X05p0587a1201",
+                               "cbeta": {
+                                "cue": "十忍"
+                               },
+                               "remark": "CBETA 起止作〔十忍〕"
+                              },
+                              {
+                               "id": "p116-2",
+                               "no": "二",
+                               "label": "釋名",
+                               "cue": "二釋",
+                               "juan": 1,
+                               "pdf_page": 116,
+                               "cbeta_id": "X05p0587a1301"
+                              },
+                              {
+                               "id": "p116-3",
+                               "no": "三",
+                               "label": "宗趣",
+                               "juan": 1,
+                               "pdf_page": 116,
+                               "children": [
+                                {
+                                 "id": "p116-4",
+                                 "no": "一",
+                                 "label": "正辨宗趣",
+                                 "cue": "三宗",
+                                 "juan": 1,
+                                 "pdf_page": 116,
+                                 "cbeta_id": "X05p0587a1501"
+                                },
+                                {
+                                 "id": "p116-5",
+                                 "no": "二",
+                                 "label": "義門料揀",
+                                 "juan": 1,
+                                 "pdf_page": 116,
+                                 "children": [
+                                  {
+                                   "id": "p116-6",
+                                   "no": "一",
+                                   "label": "定位",
+                                   "cue": "然此",
+                                   "juan": 1,
+                                   "pdf_page": 116,
+                                   "cbeta_id": "X05p0587a1701"
+                                  },
+                                  {
+                                   "id": "p116-7",
+                                   "no": "二",
+                                   "label": "出體",
+                                   "cue": "體即",
+                                   "juan": 1,
+                                   "pdf_page": 116,
+                                   "cbeta_id": "X05p0587a1801"
+                                  },
+                                  {
+                                   "id": "p116-8",
+                                   "no": "三",
+                                   "label": "辨類",
+                                   "cue": "雖是",
+                                   "juan": 1,
+                                   "pdf_page": 116,
+                                   "cbeta_id": "X05p0587a1901"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0587a1601"
+                                }
+                               ],
+                               "cbeta_id": "X05p0587a1401"
+                              },
+                              {
+                               "id": "p116-9",
+                               "no": "四",
+                               "label": "釋文",
+                               "juan": 1,
+                               "pdf_page": 117,
+                               "continued": true,
+                               "pdf_note": "科名印在第117頁；其線即本頁圖題下之長線，通頁左邊框；先依第117頁所印建立",
+                               "children": [
+                                {
+                                 "id": "p116-10",
+                                 "no": "一",
+                                 "label": "長行",
+                                 "juan": 1,
+                                 "pdf_page": 117,
+                                 "continued": true,
+                                 "pdf_note": "科名印在第117頁；本頁長線由頁左邊框接入，掛一、二及依名廣釋；先依第117頁所印建立",
+                                 "children": [
+                                  {
+                                   "id": "p116-11",
+                                   "no": "一",
+                                   "label": "舉數歎勝",
+                                   "juan": 1,
+                                   "pdf_page": 116,
+                                   "children": [
+                                    {
+                                     "id": "p116-12",
+                                     "no": "一",
+                                     "label": "舉數",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "jing": "爾時",
+                                     "cbeta_id": "X05p0587a2301"
+                                    },
+                                    {
+                                     "id": "p116-13",
+                                     "no": "二",
+                                     "label": "歎勝",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "jing": "若得",
+                                     "cbeta_id": "X05p0587a2401"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0587a2201"
+                                  },
+                                  {
+                                   "id": "p116-14",
+                                   "no": "二",
+                                   "label": "列名顯要",
+                                   "juan": 1,
+                                   "pdf_page": 116,
+                                   "children": [
+                                    {
+                                     "id": "p116-15",
+                                     "no": "一",
+                                     "label": "徵數",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "jing": "何者",
+                                     "cbeta_id": "X05p0587a2601"
+                                    },
+                                    {
+                                     "id": "p116-16",
+                                     "no": "二",
+                                     "label": "列名",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "jing": "所謂",
+                                     "children": [
+                                      {
+                                       "id": "p116-17",
+                                       "no": "一",
+                                       "label": "總科",
+                                       "cue": "第二",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "cbeta_id": "X05p0587a2801",
+                                       "cbeta": {
+                                        "cue": "所謂"
+                                       },
+                                       "remark": "CBETA 起止作〔所謂〕"
+                                      },
+                                      {
+                                       "id": "p116-18",
+                                       "no": "二",
+                                       "label": "別顯",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "children": [
+                                        {
+                                         "id": "p116-19",
+                                         "no": "一",
+                                         "label": "釋法",
+                                         "juan": 1,
+                                         "pdf_page": 116,
+                                         "children": [
+                                          {
+                                           "id": "p116-20",
+                                           "no": "一",
+                                           "label": "當句解釋",
+                                           "cue": "三中",
+                                           "juan": 1,
+                                           "pdf_page": 116,
+                                           "cbeta_id": "X05p0587a3101"
+                                          },
+                                          {
+                                           "id": "p116-21",
+                                           "no": "二",
+                                           "label": "料揀通局",
+                                           "juan": 1,
+                                           "pdf_page": 116,
+                                           "children": [
+                                            {
+                                             "id": "p116-22",
+                                             "no": "一",
+                                             "label": "釋通",
+                                             "juan": 1,
+                                             "pdf_page": 116,
+                                             "children": [
+                                              {
+                                               "id": "p116-23",
+                                               "no": "一",
+                                               "label": "正顯通",
+                                               "cue": "又此",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0587a3401"
+                                              },
+                                              {
+                                               "id": "p116-24",
+                                               "no": "二",
+                                               "label": "反顯非局",
+                                               "cue": "若約",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0587a3501"
+                                              },
+                                              {
+                                               "id": "p116-25",
+                                               "no": "三",
+                                               "label": "通妨難",
+                                               "cue": "順但",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0587a3601"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0587a3301"
+                                            },
+                                            {
+                                             "id": "p116-26",
+                                             "no": "二",
+                                             "label": "釋局",
+                                             "cue": "又依",
+                                             "juan": 1,
+                                             "pdf_page": 116,
+                                             "cbeta_id": "X05p0587a3701"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0587a3201"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0587a3001"
+                                        },
+                                        {
+                                         "id": "p116-27",
+                                         "no": "二",
+                                         "label": "釋喻",
+                                         "juan": 1,
+                                         "pdf_page": 116,
+                                         "children": [
+                                          {
+                                           "id": "p116-28",
+                                           "no": "一",
+                                           "label": "結會六釋",
+                                           "cue": "後七",
+                                           "juan": 1,
+                                           "pdf_page": 116,
+                                           "cbeta_id": "X05p0587a3901"
+                                          },
+                                          {
+                                           "id": "p116-29",
+                                           "no": "二",
+                                           "label": "料揀通局",
+                                           "juan": 1,
+                                           "pdf_page": 116,
+                                           "children": [
+                                            {
+                                             "id": "p116-30",
+                                             "no": "一",
+                                             "label": "敘昔",
+                                             "juan": 1,
+                                             "pdf_page": 116,
+                                             "children": [
+                                              {
+                                               "id": "p116-31",
+                                               "no": "一",
+                                               "label": "光統",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "children": [
+                                                {
+                                                 "id": "p116-32",
+                                                 "no": "一",
+                                                 "label": "敘昔",
+                                                 "cue": "光統",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0587a4301"
+                                                },
+                                                {
+                                                 "id": "p116-33",
+                                                 "no": "二",
+                                                 "label": "會釋",
+                                                 "cue": "此則",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0587a4401"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0587a4201"
+                                              },
+                                              {
+                                               "id": "p116-34",
+                                               "no": "二",
+                                               "label": "賢首",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "children": [
+                                                {
+                                                 "id": "p116-35",
+                                                 "no": "一",
+                                                 "label": "敘昔",
+                                                 "cue": "又古",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0587a4601"
+                                                },
+                                                {
+                                                 "id": "p116-36",
+                                                 "no": "二",
+                                                 "label": "會通",
+                                                 "cue": "此釋",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0587a4701"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0587a4501"
+                                              },
+                                              {
+                                               "id": "p116-37",
+                                               "no": "三",
+                                               "label": "攝論",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "children": [
+                                                {
+                                                 "id": "p116-38",
+                                                 "no": "一",
+                                                 "label": "引論證明",
+                                                 "cue": "若依",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0587a4901"
+                                                },
+                                                {
+                                                 "id": "p116-39",
+                                                 "no": "二",
+                                                 "label": "論經對辨",
+                                                 "cue": "然彼",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0587a5001"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0587a4801"
+                                              },
+                                              {
+                                               "id": "p116-40",
+                                               "no": "四",
+                                               "label": "遠公",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "children": [
+                                                {
+                                                 "id": "p116-41",
+                                                 "no": "一",
+                                                 "label": "取意敘昔",
+                                                 "cue": "遠公",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0587a5201"
+                                                },
+                                                {
+                                                 "id": "p116-42",
+                                                 "no": "二",
+                                                 "label": "辨其順違",
+                                                 "cue": "非不",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a0101"
+                                                },
+                                                {
+                                                 "id": "p116-43",
+                                                 "no": "三",
+                                                 "label": "假徵上釋",
+                                                 "cue": "若爾",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a0201"
+                                                },
+                                                {
+                                                 "id": "p116-44",
+                                                 "no": "四",
+                                                 "label": "結廣從略",
+                                                 "cue": "餘義",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a0301"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0587a5101"
+                                              },
+                                              {
+                                               "id": "p116-45",
+                                               "no": "五",
+                                               "label": "金剛論",
+                                               "cue": "金剛",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0588a0401"
+                                              },
+                                              {
+                                               "id": "p116-46",
+                                               "no": "六",
+                                               "label": "大品",
+                                               "cue": "若大",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0588a0501"
+                                              },
+                                              {
+                                               "id": "p116-47",
+                                               "no": "七",
+                                               "label": "楞伽",
+                                               "cue": "楞伽",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0588a0601"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0587a4101"
+                                            },
+                                            {
+                                             "id": "p116-48",
+                                             "no": "二",
+                                             "label": "會通",
+                                             "cue": "今經",
+                                             "juan": 1,
+                                             "pdf_page": 116,
+                                             "cbeta_id": "X05p0588a0701"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0587a4001"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0587a3801"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0587a2901"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0587a2701"
+                                    },
+                                    {
+                                     "id": "p116-49",
+                                     "no": "三",
+                                     "label": "顯要",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "jing": "此十",
+                                     "cbeta_id": "X05p0588a0801"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0587a2501"
+                                  },
+                                  {
+                                   "id": "p116-50",
+                                   "no": "三",
+                                   "label": "依名廣釋",
+                                   "juan": 1,
+                                   "pdf_page": 117,
+                                   "continued": true,
+                                   "pdf_note": "科名印在第117頁；本頁長線由頁左邊框接入，掛一至四；先依第117頁所印建立",
+                                   "children": [
+                                    {
+                                     "id": "p116-51",
+                                     "no": "一",
+                                     "label": "音聲忍",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "children": [
+                                      {
+                                       "id": "p116-52",
+                                       "no": "一",
+                                       "label": "徵起",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0588a1101"
+                                      },
+                                      {
+                                       "id": "p116-53",
+                                       "no": "二",
+                                       "label": "釋義",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "謂聞",
+                                       "cbeta_id": "X05p0588a1201"
+                                      },
+                                      {
+                                       "id": "p116-54",
+                                       "no": "三",
+                                       "label": "結名",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "是名",
+                                       "cbeta_id": "X05p0588a1301"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0588a1001"
+                                    },
+                                    {
+                                     "id": "p116-55",
+                                     "no": "二",
+                                     "label": "順忍",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "children": [
+                                      {
+                                       "id": "p116-56",
+                                       "no": "一",
+                                       "label": "徵起",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0588a1501"
+                                      },
+                                      {
+                                       "id": "p116-57",
+                                       "no": "二",
+                                       "label": "釋義",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "謂於",
+                                       "cbeta_id": "X05p0588a1601"
+                                      },
+                                      {
+                                       "id": "p116-58",
+                                       "no": "三",
+                                       "label": "結名",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "是名",
+                                       "cbeta_id": "X05p0588a1701"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0588a1401"
+                                    },
+                                    {
+                                     "id": "p116-59",
+                                     "no": "三",
+                                     "label": "無生忍",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "children": [
+                                      {
+                                       "id": "p116-60",
+                                       "no": "一",
+                                       "label": "徵起",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0588a1901"
+                                      },
+                                      {
+                                       "id": "p116-61",
+                                       "no": "二",
+                                       "label": "釋義",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "children": [
+                                        {
+                                         "id": "p116-62",
+                                         "no": "一",
+                                         "label": "總明",
+                                         "juan": 1,
+                                         "pdf_page": 116,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0588a2101"
+                                        },
+                                        {
+                                         "id": "p116-63",
+                                         "no": "二",
+                                         "label": "徵釋",
+                                         "juan": 1,
+                                         "pdf_page": 116,
+                                         "children": [
+                                          {
+                                           "id": "p116-64",
+                                           "no": "一",
+                                           "label": "徵",
+                                           "juan": 1,
+                                           "pdf_page": 116,
+                                           "jing": "何以",
+                                           "cbeta_id": "X05p0588a2301"
+                                          },
+                                          {
+                                           "id": "p116-65",
+                                           "no": "二",
+                                           "label": "釋",
+                                           "juan": 1,
+                                           "pdf_page": 116,
+                                           "jing": "若無",
+                                           "children": [
+                                            {
+                                             "id": "p116-66",
+                                             "no": "一",
+                                             "label": "釋先徵",
+                                             "juan": 1,
+                                             "pdf_page": 116,
+                                             "children": [
+                                              {
+                                               "id": "p116-67",
+                                               "no": "一",
+                                               "label": "正答先徵",
+                                               "cue": "釋中",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0588a2601",
+                                               "cbeta": {
+                                                "cue": "若無"
+                                               },
+                                               "remark": "CBETA 起止作〔若無〕"
+                                              },
+                                              {
+                                               "id": "p116-68",
+                                               "no": "二",
+                                               "label": "正釋答文",
+                                               "cue": "云何",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0588a2701"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0588a2501"
+                                            },
+                                            {
+                                             "id": "p116-69",
+                                             "no": "二",
+                                             "label": "釋後徵",
+                                             "juan": 1,
+                                             "pdf_page": 116,
+                                             "children": [
+                                              {
+                                               "id": "p116-70",
+                                               "no": "一",
+                                               "label": "舉總攝別",
+                                               "cue": "釋第",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0588a2901"
+                                              },
+                                              {
+                                               "id": "p116-71",
+                                               "no": "二",
+                                               "label": "舉初攝後",
+                                               "cue": "若從",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "cbeta_id": "X05p0588a3001"
+                                              },
+                                              {
+                                               "id": "p116-72",
+                                               "no": "三",
+                                               "label": "重釋前義",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "children": [
+                                                {
+                                                 "id": "p116-73",
+                                                 "no": "一",
+                                                 "label": "雙標二門",
+                                                 "cue": "又此",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a3201"
+                                                },
+                                                {
+                                                 "id": "p116-74",
+                                                 "no": "二",
+                                                 "label": "開章別釋",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "children": [
+                                                  {
+                                                   "id": "p116-75",
+                                                   "no": "一",
+                                                   "label": "唯約理",
+                                                   "cue": "然文",
+                                                   "juan": 1,
+                                                   "pdf_page": 116,
+                                                   "cbeta_id": "X05p0588a3401"
+                                                  },
+                                                  {
+                                                   "id": "p116-76",
+                                                   "no": "二",
+                                                   "label": "具理智",
+                                                   "cue": "二雙",
+                                                   "juan": 1,
+                                                   "pdf_page": 116,
+                                                   "cbeta_id": "X05p0588a3501"
+                                                  },
+                                                  {
+                                                   "id": "p116-77",
+                                                   "no": "三",
+                                                   "label": "唯約智",
+                                                   "cue": "三唯",
+                                                   "juan": 1,
+                                                   "pdf_page": 116,
+                                                   "cbeta_id": "X05p0588a3601"
+                                                  }
+                                                 ],
+                                                 "cbeta_id": "X05p0588a3301"
+                                                },
+                                                {
+                                                 "id": "p116-78",
+                                                 "no": "三",
+                                                 "label": "結彈古義",
+                                                 "cue": "若唯",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a3701"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0588a3101"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0588a2801"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0588a2401"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0588a2201"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0588a2001"
+                                      },
+                                      {
+                                       "id": "p116-79",
+                                       "no": "三",
+                                       "label": "結名",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "是名",
+                                       "cbeta_id": "X05p0588a3801"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0588a1801"
+                                    },
+                                    {
+                                     "id": "p116-80",
+                                     "no": "四",
+                                     "label": "如幻忍",
+                                     "juan": 1,
+                                     "pdf_page": 116,
+                                     "continued": true,
+                                     "pdf_note": "釋義之線通頁左邊框，二廣釋在第117頁",
+                                     "children": [
+                                      {
+                                       "id": "p116-81",
+                                       "no": "一",
+                                       "label": "徵起",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "jing": "佛子",
+                                       "cbeta_id": "X05p0588a5001"
+                                      },
+                                      {
+                                       "id": "p116-82",
+                                       "no": "二",
+                                       "label": "釋義",
+                                       "juan": 1,
+                                       "pdf_page": 116,
+                                       "continued": true,
+                                       "children": [
+                                        {
+                                         "id": "p116-83",
+                                         "no": "一",
+                                         "label": "略釋",
+                                         "juan": 1,
+                                         "pdf_page": 116,
+                                         "children": [
+                                          {
+                                           "id": "p116-84",
+                                           "no": "一",
+                                           "label": "了幻從緣",
+                                           "juan": 1,
+                                           "pdf_page": 116,
+                                           "jing": "佛子",
+                                           "children": [
+                                            {
+                                             "id": "p116-85",
+                                             "no": "一",
+                                             "label": "總科",
+                                             "cue": "釋中",
+                                             "juan": 1,
+                                             "pdf_page": 116,
+                                             "cbeta_id": "X05p0588a5401",
+                                             "cbeta": {
+                                              "cue": "佛子"
+                                             },
+                                             "remark": "CBETA 起止作〔佛子〕"
+                                            },
+                                            {
+                                             "id": "p116-86",
+                                             "no": "二",
+                                             "label": "別釋",
+                                             "juan": 1,
+                                             "pdf_page": 116,
+                                             "children": [
+                                              {
+                                               "id": "p116-87",
+                                               "no": "一",
+                                               "label": "別釋第一段",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "children": [
+                                                {
+                                                 "id": "p116-88",
+                                                 "no": "一",
+                                                 "label": "釋一切法言",
+                                                 "cue": "初一",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a5701"
+                                                },
+                                                {
+                                                 "id": "p116-89",
+                                                 "no": "二",
+                                                 "label": "引證通義",
+                                                 "cue": "故大",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a5801",
+                                                 "cbeta": {
+                                                  "label": "二引正通義"
+                                                 },
+                                                 "remark": "CBETA 科名作「二引正通義」"
+                                                },
+                                                {
+                                                 "id": "p116-90",
+                                                 "no": "三",
+                                                 "label": "釋經妨難",
+                                                 "cue": "涅槃",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a5901"
+                                                },
+                                                {
+                                                 "id": "p116-91",
+                                                 "no": "四",
+                                                 "label": "引文決擇",
+                                                 "cue": "廣中",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a6001"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0588a5601"
+                                              },
+                                              {
+                                               "id": "p116-92",
+                                               "no": "二",
+                                               "label": "合釋第二段",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "children": [
+                                                {
+                                                 "id": "p116-93",
+                                                 "no": "一",
+                                                 "label": "總開義門",
+                                                 "cue": "就法",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a6201"
+                                                },
+                                                {
+                                                 "id": "p116-94",
+                                                 "no": "二",
+                                                 "label": "對經顯意",
+                                                 "cue": "今經",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a6301"
+                                                },
+                                                {
+                                                 "id": "p116-95",
+                                                 "no": "三",
+                                                 "label": "釋通妨難",
+                                                 "cue": "然緣",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0588a6401"
+                                                },
+                                                {
+                                                 "id": "p116-96",
+                                                 "no": "四",
+                                                 "label": "別明義理",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "children": [
+                                                  {
+                                                   "id": "p116-97",
+                                                   "no": "一",
+                                                   "label": "成有無",
+                                                   "cue": "然上",
+                                                   "juan": 1,
+                                                   "pdf_page": 116,
+                                                   "cbeta_id": "X05p0588a6601"
+                                                  },
+                                                  {
+                                                   "id": "p116-98",
+                                                   "no": "二",
+                                                   "label": "成四句",
+                                                   "juan": 1,
+                                                   "pdf_page": 116,
+                                                   "children": [
+                                                    {
+                                                     "id": "p116-99",
+                                                     "no": "一",
+                                                     "label": "成一重四句",
+                                                     "juan": 1,
+                                                     "pdf_page": 116,
+                                                     "children": [
+                                                      {
+                                                       "id": "p116-100",
+                                                       "no": "一",
+                                                       "label": "正顯",
+                                                       "cue": "又五",
+                                                       "juan": 1,
+                                                       "pdf_page": 116,
+                                                       "cbeta_id": "X05p0589a0101"
+                                                      },
+                                                      {
+                                                       "id": "p116-101",
+                                                       "no": "二",
+                                                       "label": "揀非",
+                                                       "cue": "然皆",
+                                                       "juan": 1,
+                                                       "pdf_page": 116,
+                                                       "cbeta_id": "X05p0589a0201"
+                                                      }
+                                                     ],
+                                                     "cbeta_id": "X05p0588a6801"
+                                                    },
+                                                    {
+                                                     "id": "p116-102",
+                                                     "no": "二",
+                                                     "label": "成重重四句",
+                                                     "cue": "若以",
+                                                     "juan": 1,
+                                                     "pdf_page": 116,
+                                                     "cbeta_id": "X05p0589a0301"
+                                                    }
+                                                   ],
+                                                   "cbeta_id": "X05p0588a6701"
+                                                  }
+                                                 ],
+                                                 "cbeta_id": "X05p0588a6501"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0588a6101",
+                                               "cbeta": {
+                                                "label": "二合釋初二段"
+                                               },
+                                               "remark": "CBETA 科名作「二合釋初二段」"
+                                              },
+                                              {
+                                               "id": "p116-103",
+                                               "no": "三",
+                                               "label": "別釋第三段",
+                                               "juan": 1,
+                                               "pdf_page": 116,
+                                               "children": [
+                                                {
+                                                 "id": "p116-104",
+                                                 "no": "一",
+                                                 "label": "約相類",
+                                                 "cue": "後顯",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "cbeta_id": "X05p0589a0501"
+                                                },
+                                                {
+                                                 "id": "p116-105",
+                                                 "no": "二",
+                                                 "label": "約圓融",
+                                                 "juan": 1,
+                                                 "pdf_page": 116,
+                                                 "children": [
+                                                  {
+                                                   "id": "p116-106",
+                                                   "no": "一",
+                                                   "label": "以理從事",
+                                                   "cue": "二約",
+                                                   "juan": 1,
+                                                   "pdf_page": 116,
+                                                   "cbeta_id": "X05p0589a0701"
+                                                  },
+                                                  {
+                                                   "id": "p116-107",
+                                                   "no": "二",
+                                                   "label": "以理融事",
+                                                   "cue": "二以",
+                                                   "juan": 1,
+                                                   "pdf_page": 116,
+                                                   "cbeta_id": "X05p0589a0801"
+                                                  },
+                                                  {
+                                                   "id": "p116-108",
+                                                   "no": "三",
+                                                   "label": "緣起相由力",
+                                                   "juan": 1,
+                                                   "pdf_page": 116,
+                                                   "children": [
+                                                    {
+                                                     "id": "p116-109",
+                                                     "no": "一",
+                                                     "label": "正舉一門",
+                                                     "cue": "三約",
+                                                     "juan": 1,
+                                                     "pdf_page": 116,
+                                                     "cbeta_id": "X05p0589a1001"
+                                                    },
+                                                    {
+                                                     "id": "p116-110",
+                                                     "no": "二",
+                                                     "label": "例餘三門",
+                                                     "juan": 1,
+                                                     "pdf_page": 116,
+                                                     "children": [
+                                                      {
+                                                       "id": "p116-111",
+                                                       "no": "一",
+                                                       "label": "以即例入",
+                                                       "cue": "相即",
+                                                       "juan": 1,
+                                                       "pdf_page": 116,
+                                                       "cbeta_id": "X05p0589a1201"
+                                                      },
+                                                      {
+                                                       "id": "p116-112",
+                                                       "no": "二",
+                                                       "label": "以異例同",
+                                                       "cue": "異體",
+                                                       "juan": 1,
+                                                       "pdf_page": 116,
+                                                       "cbeta_id": "X05p0589a1301"
+                                                      },
+                                                      {
+                                                       "id": "p116-113",
+                                                       "no": "三",
+                                                       "label": "以門例門",
+                                                       "cue": "一門",
+                                                       "juan": 1,
+                                                       "pdf_page": 116,
+                                                       "cbeta_id": "X05p0589a1401"
+                                                      }
+                                                     ],
+                                                     "cbeta_id": "X05p0589a1101"
+                                                    }
+                                                   ],
+                                                   "cbeta_id": "X05p0589a0901"
+                                                  }
+                                                 ],
+                                                 "cbeta_id": "X05p0589a0601"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0589a0401"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0588a5501"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0588a5301"
+                                          },
+                                          {
+                                           "id": "p116-114",
+                                           "no": "二",
+                                           "label": "成就忍行",
+                                           "juan": 1,
+                                           "pdf_page": 116,
+                                           "jing": "此菩",
+                                           "cbeta_id": "X05p0589a1501"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0588a5201"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0588a5101"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0588a3901"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0588a0901"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0587a2101"
+                                }
+                               ],
+                               "cbeta_id": "X05p0587a2001"
+                              }
+                             ]
                             }
                            ]
                           },
