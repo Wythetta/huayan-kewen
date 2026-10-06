@@ -1,6 +1,7 @@
 # 產生 待查清單_自動.md：字跡不清(?)、CBETA 無對應、子科數不同、表解共用子科等
 import json,glob,re
-d=json.load(open('/mnt/user-data/outputs/huayan_kewen_pdf.json'))
+import os; ROOT=os.path.dirname(os.path.abspath(__file__))
+d=json.load(open(os.path.join(ROOT,'huayan_kewen_pdf.json')))
 rows={'unc':[],'unm':[],'cnt':[],'shared':[],'cont':[]}
 def w(n,path):
     p=path+[n['label']]; loc=f"p{n.get('pdf_page','?'):>3}｜{'／'.join(p[-4:])}"
@@ -16,5 +17,5 @@ T={'unc':'字跡不清（標 ?）','unm':'CBETA 無對應科','cnt':'子科數�
 out=['# 待查清單（自動產生，check_list.py）\n']
 for k,t in T.items():
     out.append(f"## {t}（{len(rows[k])}）\n"+('\n'.join(rows[k]) or '（無）')+'\n')
-open('/home/claude/待查清單_自動.md','w').write('\n'.join(out))
+open(os.path.join(ROOT,'待查清單_自動.md'),'w').write('\n'.join(out))
 print({k:len(v) for k,v in rows.items()})

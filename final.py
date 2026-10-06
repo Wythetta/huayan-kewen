@@ -1,5 +1,6 @@
 import json,re,difflib
-exec(open('stitch3.py').read().split("json.dump(roots")[0].replace("print(","(lambda *a,**k:None)("))
+import os; ROOT=os.path.dirname(os.path.abspath(__file__))
+exec(open(os.path.join(ROOT,'stitch3.py')).read().split("json.dump(roots")[0].replace("print(","(lambda *a,**k:None)("))
 CN={c:i+1 for i,c in enumerate('一二三四五六七八九十')}
 def num(s):
     if not re.fullmatch(r'[一二三四五六七八九十]+',s or ''): return None
@@ -52,7 +53,7 @@ data={'meta':{
  'review':{'近似縫合_請核對':fuzzy,'子科數不符':mism,
    '未展開的stub':[{'id':s['id'],'juan':s['juan'],'label':s['label']} for s in unused],
    '未掛接的片段':sugg}}
-json.dump(data,open('/mnt/user-data/outputs/huayan_kewen_X0231.json','w'),ensure_ascii=False,indent=1)
+json.dump(data,open(os.path.join(ROOT,'huayan_kewen_X0231.json'),'w'),ensure_ascii=False,indent=1)
 print('節點',cnt[0],'頂層',len(final_roots),'近似',len(fuzzy),'不符',len(mism),'未展開',len(unused),'孤立片段',len(sugg))
 for m in mism[:25]: print(' ',m['juan'],m['label'],m['標示子科數'],m['實際子節點數'])
 for s in sugg: print(' ',s)

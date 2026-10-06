@@ -1,7 +1,8 @@
 import re, json
+import os; ROOT=os.path.dirname(os.path.abspath(__file__))
 from lxml import etree
 T='{http://www.tei-c.org/ns/1.0}'; CB='{http://www.cbeta.org/ns/1.0}'
-t=etree.parse('/tmp/x0231.xml'); body=t.find('.//'+T+'body')
+t=etree.parse(os.path.join(ROOT,'X05n0231.xml')); body=t.find('.//'+T+'body')
 NUM=re.compile(r'^[一二三四五六七八九十百]+$')
 MARK=re.compile(r'[○〇△▲]')
 def text_of(el):
@@ -43,5 +44,5 @@ def scan(e):
             for it in c.findall(T+'item'): frags.append(build(it))
         elif c.tag!=T+'item': scan(c)
 scan(body)
-json.dump(frags,open('frags.json','w'),ensure_ascii=False)
+json.dump(frags,open(os.path.join(ROOT,'frags.json'),'w'),ensure_ascii=False)
 print('頂層片段',len(frags))

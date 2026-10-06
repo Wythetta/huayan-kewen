@@ -1,5 +1,6 @@
 import json,sys
-d=json.load(open('/mnt/user-data/outputs/huayan_kewen_X0231.json'))
+import os; ROOT=os.path.dirname(os.path.abspath(__file__))
+d=json.load(open(os.path.join(ROOT,'huayan_kewen_X0231.json')))
 key=sys.argv[1]; mx=int(sys.argv[2]) if len(sys.argv)>2 else 4
 def pr(n,dep):
     print('  '*dep+n['label']+'  '+n['id']+('  ['+str(n.get('count'))+']' if n.get('count') else ''))
