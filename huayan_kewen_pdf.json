@@ -141,9 +141,10 @@
    137,
    138,
    139,
-   140
+   140,
+   141
   ],
-  "節點總數": 17824,
+  "節點總數": 17917,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -177907,6 +177908,7 @@
                        "label": "釋文",
                        "juan": 1,
                        "pdf_page": 138,
+                       "continued": true,
                        "pdf_note": "子科之線向左通頁左邊框",
                        "children": [
                         {
@@ -177915,7 +177917,6 @@
                          "label": "本會",
                          "juan": 1,
                          "pdf_page": 139,
-                         "continued": true,
                          "pdf_note": "科名印在第139頁；其線向左通第139頁左邊框（六以下在第140頁）；其線由第138頁頁左邊框接出，本頁掛一序分；先依第139頁所印建立",
                          "children": [
                           {
@@ -181213,9 +181214,903 @@
                             }
                            ],
                            "cbeta_id": "X05p0633a4801"
+                          },
+                          {
+                           "id": "p141-1",
+                           "no": "十",
+                           "label": "大用無涯分",
+                           "juan": 1,
+                           "pdf_page": 141,
+                           "children": [
+                            {
+                             "id": "p141-2",
+                             "no": "一",
+                             "label": "總顯用因",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "jing": "爾時",
+                             "cbeta_id": "X05p0638a3501"
+                            },
+                            {
+                             "id": "p141-3",
+                             "no": "二",
+                             "label": "依體起用",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "children": [
+                              {
+                               "id": "p141-4",
+                               "no": "一",
+                               "label": "別明毛孔世主化",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "children": [
+                                {
+                                 "id": "p141-5",
+                                 "no": "一",
+                                 "label": "總顯",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "jing": "於其",
+                                 "cbeta_id": "X05p0638a3801"
+                                },
+                                {
+                                 "id": "p141-6",
+                                 "no": "二",
+                                 "label": "別顯",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "children": [
+                                  {
+                                   "id": "p141-7",
+                                   "no": "一",
+                                   "label": "能化法",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "children": [
+                                    {
+                                     "id": "p141-8",
+                                     "no": "一",
+                                     "label": "諸雜門化",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "jing": "或現",
+                                     "cbeta_id": "X05p0638a4101"
+                                    },
+                                    {
+                                     "id": "p141-9",
+                                     "no": "二",
+                                     "label": "十度門化",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "children": [
+                                      {
+                                       "id": "p141-10",
+                                       "no": "一",
+                                       "label": "六度化",
+                                       "juan": 1,
+                                       "pdf_page": 141,
+                                       "jing": "或現",
+                                       "pdf_note": "表解一至四共用一個起止【或現】",
+                                       "cbeta_id": "X05p0638a4301"
+                                      },
+                                      {
+                                       "id": "p141-11",
+                                       "no": "二",
+                                       "label": "方便度",
+                                       "juan": 1,
+                                       "pdf_page": 141,
+                                       "jing": "或現",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0638a4401"
+                                      },
+                                      {
+                                       "id": "p141-12",
+                                       "no": "三",
+                                       "label": "力度",
+                                       "juan": 1,
+                                       "pdf_page": 141,
+                                       "jing": "或現",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0638a4501"
+                                      },
+                                      {
+                                       "id": "p141-13",
+                                       "no": "四",
+                                       "label": "智度",
+                                       "juan": 1,
+                                       "pdf_page": 141,
+                                       "jing": "或現",
+                                       "pdf_note": "同上",
+                                       "cbeta_id": "X05p0638a4601"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0638a4201"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0638a4001"
+                                  },
+                                  {
+                                   "id": "p141-14",
+                                   "no": "二",
+                                   "label": "所化處",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "children": [
+                                    {
+                                     "id": "p141-15",
+                                     "no": "一",
+                                     "label": "結前生後",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "jing": "以如",
+                                     "cbeta_id": "X05p0638a4801"
+                                    },
+                                    {
+                                     "id": "p141-16",
+                                     "no": "二",
+                                     "label": "別明所在",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "jing": "所謂",
+                                     "cbeta_id": "X05p0638a4901"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0638a4701"
+                                  },
+                                  {
+                                   "id": "p141-17",
+                                   "no": "三",
+                                   "label": "能化心",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "jing": "以平",
+                                   "cbeta_id": "X05p0638a5001"
+                                  },
+                                  {
+                                   "id": "p141-18",
+                                   "no": "四",
+                                   "label": "所化益",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "jing": "或有",
+                                   "cbeta_id": "X05p0638a5101"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0638a3901"
+                                }
+                               ],
+                               "cbeta_id": "X05p0638a3701"
+                              },
+                              {
+                               "id": "p141-19",
+                               "no": "二",
+                               "label": "通顯其分身多類化",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "children": [
+                                {
+                                 "id": "p141-20",
+                                 "no": "一",
+                                 "label": "住處化異",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "jing": "佛子",
+                                 "cbeta_id": "X05p0638a5301"
+                                },
+                                {
+                                 "id": "p141-21",
+                                 "no": "二",
+                                 "label": "現身化異",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "children": [
+                                  {
+                                   "id": "p141-22",
+                                   "no": "一",
+                                   "label": "化身異",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "jing": "佛子",
+                                   "cbeta_id": "X05p0638a5501"
+                                  },
+                                  {
+                                   "id": "p141-23",
+                                   "no": "二",
+                                   "label": "化處異",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "jing": "往詣",
+                                   "cbeta_id": "X05p0638a5601"
+                                  },
+                                  {
+                                   "id": "p141-24",
+                                   "no": "三",
+                                   "label": "化類異",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "jing": "隨其",
+                                   "cbeta_id": "X05p0638a5701"
+                                  },
+                                  {
+                                   "id": "p141-25",
+                                   "no": "四",
+                                   "label": "化法異",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "jing": "或說",
+                                   "cbeta_id": "X05p0638a5801"
+                                  },
+                                  {
+                                   "id": "p141-26",
+                                   "no": "五",
+                                   "label": "末不離本",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "jing": "教化",
+                                   "cbeta_id": "X05p0638a5901"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0638a5401"
+                                }
+                               ],
+                               "cbeta_id": "X05p0638a5201"
+                              }
+                             ],
+                             "cbeta_id": "X05p0638a3601"
+                            }
+                           ],
+                           "cbeta_id": "X05p0633a4901"
                           }
                          ],
                          "cbeta_id": "X05p0632a4901"
+                        },
+                        {
+                         "id": "p141-27",
+                         "no": "二",
+                         "label": "末會",
+                         "juan": 1,
+                         "pdf_page": 141,
+                         "pdf_note": "CBETA 釋文下只列初本會，末會為孤立片段「二明末會分五相」，以 #cb 對應",
+                         "children": [
+                          {
+                           "id": "p141-28",
+                           "no": "一",
+                           "label": "略以十門料揀",
+                           "juan": 1,
+                           "pdf_page": 141,
+                           "children": [
+                            {
+                             "id": "p141-29",
+                             "no": "一",
+                             "label": "結列十門",
+                             "cue": "大文",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "cbeta_id": "X05p0638a6301",
+                             "cbeta": {
+                              "label": "初總列十門"
+                             },
+                             "remark": "CBETA 科名作「初總列十門」"
+                            },
+                            {
+                             "id": "p141-30",
+                             "no": "二",
+                             "label": "依門別釋",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "children": [
+                              {
+                               "id": "p141-31",
+                               "no": "一",
+                               "label": "總顯會意",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "children": [
+                                {
+                                 "id": "p141-32",
+                                 "no": "一",
+                                 "label": "標",
+                                 "cue": "今初",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "cbeta_id": "X05p0639a0301"
+                                },
+                                {
+                                 "id": "p141-33",
+                                 "no": "二",
+                                 "label": "釋",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "children": [
+                                  {
+                                   "id": "p141-34",
+                                   "no": "一",
+                                   "label": "出三對之由",
+                                   "cue": "故非",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a0501"
+                                  },
+                                  {
+                                   "id": "p141-35",
+                                   "no": "二",
+                                   "label": "明該羅等義",
+                                   "cue": "故前",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a0601"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0639a0401"
+                                }
+                               ],
+                               "cbeta_id": "X05p0639a0201"
+                              },
+                              {
+                               "id": "p141-36",
+                               "no": "二",
+                               "label": "會數開合",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "children": [
+                                {
+                                 "id": "p141-37",
+                                 "no": "一",
+                                 "label": "明局",
+                                 "cue": "二會",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "cbeta_id": "X05p0639a0801"
+                                },
+                                {
+                                 "id": "p141-38",
+                                 "no": "二",
+                                 "label": "明通",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "children": [
+                                  {
+                                   "id": "p141-39",
+                                   "no": "一",
+                                   "label": "標會數",
+                                   "cue": "若約",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a1001"
+                                  },
+                                  {
+                                   "id": "p141-40",
+                                   "no": "二",
+                                   "label": "釋成上義",
+                                   "cue": "雖人",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a1101"
+                                  },
+                                  {
+                                   "id": "p141-41",
+                                   "no": "三",
+                                   "label": "結通義",
+                                   "cue": "是以",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a1201"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0639a0901"
+                                }
+                               ],
+                               "cbeta_id": "X05p0639a0701"
+                              },
+                              {
+                               "id": "p141-42",
+                               "no": "三",
+                               "label": "會主多少",
+                               "cue": "三會",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "cbeta_id": "X05p0639a1301"
+                              },
+                              {
+                               "id": "p141-43",
+                               "no": "四",
+                               "label": "定會名義",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "children": [
+                                {
+                                 "id": "p141-44",
+                                 "no": "一",
+                                 "label": "假申問難",
+                                 "cue": "四定",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "cbeta_id": "X05p0639a1501"
+                                },
+                                {
+                                 "id": "p141-45",
+                                 "no": "二",
+                                 "label": "引文解妨",
+                                 "cue": "若爾",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "cbeta_id": "X05p0639a1601"
+                                }
+                               ],
+                               "cbeta_id": "X05p0639a1401"
+                              },
+                              {
+                               "id": "p141-46",
+                               "no": "五",
+                               "label": "二位統收",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "children": [
+                                {
+                                 "id": "p141-47",
+                                 "no": "一",
+                                 "label": "總立章門",
+                                 "cue": "五二",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "cbeta_id": "X05p0639a1801"
+                                },
+                                {
+                                 "id": "p141-48",
+                                 "no": "二",
+                                 "label": "依門解釋",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "children": [
+                                  {
+                                   "id": "p141-49",
+                                   "no": "一",
+                                   "label": "相對明表",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "children": [
+                                    {
+                                     "id": "p141-50",
+                                     "no": "一",
+                                     "label": "能所相對",
+                                     "cue": "今初",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "cbeta_id": "X05p0639a2101"
+                                    },
+                                    {
+                                     "id": "p141-51",
+                                     "no": "二",
+                                     "label": "解行相對",
+                                     "cue": "二以",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "cbeta_id": "X05p0639a2201"
+                                    },
+                                    {
+                                     "id": "p141-52",
+                                     "no": "三",
+                                     "label": "理智相對",
+                                     "cue": "三以",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "cbeta_id": "X05p0639a2301"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0639a2001"
+                                  },
+                                  {
+                                   "id": "p141-53",
+                                   "no": "二",
+                                   "label": "互融顯圓",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "children": [
+                                    {
+                                     "id": "p141-54",
+                                     "no": "一",
+                                     "label": "正辨",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "children": [
+                                      {
+                                       "id": "p141-55",
+                                       "no": "一",
+                                       "label": "二相別明",
+                                       "juan": 1,
+                                       "pdf_page": 141,
+                                       "children": [
+                                        {
+                                         "id": "p141-56",
+                                         "no": "一",
+                                         "label": "融文殊能信及解之智",
+                                         "cue": "二互",
+                                         "juan": 1,
+                                         "pdf_page": 141,
+                                         "cbeta_id": "X05p0639a2701"
+                                        },
+                                        {
+                                         "id": "p141-57",
+                                         "no": "二",
+                                         "label": "融普賢所信及行所證",
+                                         "cue": "依體",
+                                         "juan": 1,
+                                         "pdf_page": 141,
+                                         "cbeta_id": "X05p0639a2801"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0639a2601"
+                                      },
+                                      {
+                                       "id": "p141-58",
+                                       "no": "二",
+                                       "label": "二聖相融",
+                                       "cue": "二以",
+                                       "juan": 1,
+                                       "pdf_page": 141,
+                                       "cbeta_id": "X05p0639a2901"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0639a2501"
+                                    },
+                                    {
+                                     "id": "p141-59",
+                                     "no": "二",
+                                     "label": "總釋",
+                                     "cue": "是以",
+                                     "juan": 1,
+                                     "pdf_page": 141,
+                                     "cbeta_id": "X05p0639a3001"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0639a2401"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0639a1901"
+                                }
+                               ],
+                               "cbeta_id": "X05p0639a1701"
+                              },
+                              {
+                               "id": "p141-60",
+                               "no": "六",
+                               "label": "五相分別",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "children": [
+                                {
+                                 "id": "p141-61",
+                                 "no": "一",
+                                 "label": "雙標",
+                                 "cue": "六分",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "cbeta_id": "X05p0639a3201"
+                                },
+                                {
+                                 "id": "p141-62",
+                                 "no": "二",
+                                 "label": "雙會",
+                                 "cue": "二皆",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "cbeta_id": "X05p0639a3301"
+                                },
+                                {
+                                 "id": "p141-63",
+                                 "no": "三",
+                                 "label": "正釋",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "children": [
+                                  {
+                                   "id": "p141-64",
+                                   "no": "一",
+                                   "label": "寄位修行相",
+                                   "cue": "且依",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a3501"
+                                  },
+                                  {
+                                   "id": "p141-65",
+                                   "no": "二",
+                                   "label": "會緣入實相",
+                                   "cue": "二從",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a3601"
+                                  },
+                                  {
+                                   "id": "p141-66",
+                                   "no": "三",
+                                   "label": "攝德成因相",
+                                   "cue": "三慈",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a3701"
+                                  },
+                                  {
+                                   "id": "p141-67",
+                                   "no": "四",
+                                   "label": "智照無二相",
+                                   "cue": "四後",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a3801"
+                                  },
+                                  {
+                                   "id": "p141-68",
+                                   "no": "五",
+                                   "label": "顯因廣大相",
+                                   "cue": "五普",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a3901"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0639a3401"
+                                },
+                                {
+                                 "id": "p141-69",
+                                 "no": "四",
+                                 "label": "料揀",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "children": [
+                                  {
+                                   "id": "p141-70",
+                                   "no": "一",
+                                   "label": "揀後四相",
+                                   "cue": "其後",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a4101",
+                                   "cbeta": {
+                                    "label": "初釋後四相"
+                                   },
+                                   "remark": "CBETA 科名作「初釋後四相」"
+                                  },
+                                  {
+                                   "id": "p141-71",
+                                   "no": "二",
+                                   "label": "依前五種",
+                                   "cue": "今從",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a4201"
+                                  },
+                                  {
+                                   "id": "p141-72",
+                                   "no": "三",
+                                   "label": "別配五相",
+                                   "cue": "此五",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a4301"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0639a4001"
+                                }
+                               ],
+                               "cbeta_id": "X05p0639a3101"
+                              },
+                              {
+                               "id": "p141-73",
+                               "no": "七",
+                               "label": "圓攝始終",
+                               "cue": "七圓",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "cbeta_id": "X05p0639a4401"
+                              },
+                              {
+                               "id": "p141-74",
+                               "no": "八",
+                               "label": "會主類別",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "children": [
+                                {
+                                 "id": "p141-75",
+                                 "no": "一",
+                                 "label": "總明類別",
+                                 "cue": "八法",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "cbeta_id": "X05p0639a4601"
+                                },
+                                {
+                                 "id": "p141-76",
+                                 "no": "二",
+                                 "label": "別顯義相",
+                                 "juan": 1,
+                                 "pdf_page": 141,
+                                 "children": [
+                                  {
+                                   "id": "p141-77",
+                                   "no": "一",
+                                   "label": "約果攝",
+                                   "cue": "二顯",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a4801"
+                                  },
+                                  {
+                                   "id": "p141-78",
+                                   "no": "二",
+                                   "label": "約因攝",
+                                   "cue": "二約",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a4901"
+                                  },
+                                  {
+                                   "id": "p141-79",
+                                   "no": "三",
+                                   "label": "約義攝",
+                                   "cue": "三約",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a5001"
+                                  },
+                                  {
+                                   "id": "p141-80",
+                                   "no": "四",
+                                   "label": "約相辨",
+                                   "cue": "四約",
+                                   "juan": 1,
+                                   "pdf_page": 141,
+                                   "cbeta_id": "X05p0639a5101"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0639a4701"
+                                }
+                               ],
+                               "cbeta_id": "X05p0639a4501"
+                              },
+                              {
+                               "id": "p141-81",
+                               "no": "九",
+                               "label": "法界事義",
+                               "cue": "九法",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "cbeta_id": "X05p0639a5201"
+                              },
+                              {
+                               "id": "p141-82",
+                               "no": "十",
+                               "label": "隨文解釋",
+                               "cue": "十隨",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "cbeta_id": "X05p0639a5301"
+                              }
+                             ],
+                             "cbeta_id": "X05p0639a0101"
+                            }
+                           ],
+                           "cbeta_id": "X05p0638a6201"
+                          },
+                          {
+                           "id": "p141-83",
+                           "no": "二",
+                           "label": "廣依五相釋經",
+                           "juan": 1,
+                           "pdf_page": 141,
+                           "pdf_note": "五相下框註「別列」，各相子科在後頁",
+                           "children": [
+                            {
+                             "id": "p141-84",
+                             "no": "一",
+                             "label": "寄位修行相",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "pdf_note": "頁左上另列「〔一〕寄位修行相」五位，框註「別列」，各位子科在後頁",
+                             "children": [
+                              {
+                               "id": "p141-85",
+                               "no": "一",
+                               "label": "文殊菩薩一人寄十信位",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "continued": true,
+                               "cbeta_id": "X05p0639a5601",
+                               "cbeta": {
+                                "label": "初文殊一人寄十信位"
+                               },
+                               "remark": "CBETA 科名作「初文殊一人寄十信位」"
+                              },
+                              {
+                               "id": "p141-86",
+                               "no": "二",
+                               "label": "德雲比丘下十人寄十住位",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "continued": true,
+                               "cbeta_id": "X05p0642a4301"
+                              },
+                              {
+                               "id": "p141-87",
+                               "no": "三",
+                               "label": "善見比丘下十人寄十行位",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "continued": true,
+                               "cbeta_id": "X05p0642a4401"
+                              },
+                              {
+                               "id": "p141-88",
+                               "no": "四",
+                               "label": "鬻香長者下十人寄十迴向位",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "continued": true,
+                               "cbeta_id": "X05p0642a4501"
+                              },
+                              {
+                               "id": "p141-89",
+                               "no": "五",
+                               "label": "婆珊夜神下十人寄十地位",
+                               "juan": 1,
+                               "pdf_page": 141,
+                               "continued": true,
+                               "cbeta_id": "X05p0642a4601"
+                              }
+                             ],
+                             "cbeta_id": "X05p0639a5501"
+                            },
+                            {
+                             "id": "p141-90",
+                             "no": "二",
+                             "label": "會緣入實相",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "continued": true,
+                             "cbeta_id": "X05p0642a4701"
+                            },
+                            {
+                             "id": "p141-91",
+                             "no": "三",
+                             "label": "攝德成因相",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "continued": true,
+                             "cbeta_id": "X05p0642a4801"
+                            },
+                            {
+                             "id": "p141-92",
+                             "no": "四",
+                             "label": "智照無二相",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "continued": true,
+                             "cbeta_id": "X05p0642a4901"
+                            },
+                            {
+                             "id": "p141-93",
+                             "no": "五",
+                             "label": "顯因廣大相",
+                             "juan": 1,
+                             "pdf_page": 141,
+                             "continued": true,
+                             "cbeta_id": "X05p0642a5001"
+                            }
+                           ],
+                           "cbeta_id": "X05p0639a5401",
+                           "cbeta": {
+                            "label": "二廣依五相以釋經文"
+                           },
+                           "remark": "CBETA 科名作「二廣依五相以釋經文」"
+                          }
+                         ],
+                         "cbeta_id": "X05p0638a6101",
+                         "cbeta": {
+                          "label": "二明末會分五相"
+                         },
+                         "remark": "CBETA 科名作「二明末會分五相」"
                         }
                        ],
                        "cbeta_id": "X05p0632a4801"
