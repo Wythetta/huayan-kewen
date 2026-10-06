@@ -158,9 +158,10 @@
    154,
    155,
    156,
-   157
+   157,
+   158
   ],
-  "節點總數": 20156,
+  "節點總數": 20290,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -203870,7 +203871,6 @@
                                "label": "見敬諮問",
                                "juan": 1,
                                "pdf_page": 158,
-                               "continued": true,
                                "pdf_note": "科名印在第158頁；本頁見依之線由頁左邊框接出；先依第158頁所印建立",
                                "children": [
                                 {
@@ -203879,7 +203879,6 @@
                                  "label": "見敬",
                                  "juan": 1,
                                  "pdf_page": 158,
-                                 "continued": true,
                                  "pdf_note": "科名印在第158頁；先依第158頁所印建立",
                                  "children": [
                                   {
@@ -204030,7 +204029,6 @@
                                      "label": "出定敬讚",
                                      "juan": 1,
                                      "pdf_page": 157,
-                                     "continued": true,
                                      "pdf_note": "子科之線通頁左邊框，三以言敬讚在第158頁",
                                      "children": [
                                       {
@@ -204152,18 +204150,1513 @@
                                         }
                                        ],
                                        "cbeta_id": "X05p0678a5801"
+                                      },
+                                      {
+                                       "id": "p158-1",
+                                       "no": "三",
+                                       "label": "以言敬讚",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "children": [
+                                        {
+                                         "id": "p158-2",
+                                         "no": "一",
+                                         "label": "三十四偈總舉德歎處",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "children": [
+                                          {
+                                           "id": "p158-3",
+                                           "no": "一",
+                                           "label": "二偈總",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "爾時",
+                                           "cbeta_id": "X05p0679a0801",
+                                           "cbeta": {
+                                            "label": "初總"
+                                           },
+                                           "remark": "CBETA 科名作「初總」"
+                                          },
+                                          {
+                                           "id": "p158-4",
+                                           "no": "二",
+                                           "label": "三十二偈別",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "children": [
+                                            {
+                                             "id": "p158-5",
+                                             "no": "一",
+                                             "label": "七偈自利行勝",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "jing": "施戒",
+                                             "cbeta_id": "X05p0679a1001",
+                                             "cbeta": {
+                                              "label": "初自利行勝"
+                                             },
+                                             "remark": "CBETA 科名作「初自利行勝」"
+                                            },
+                                            {
+                                             "id": "p158-6",
+                                             "no": "二",
+                                             "label": "十偈利他行勝",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "jing": "普見",
+                                             "cbeta_id": "X05p0679a1101",
+                                             "cbeta": {
+                                              "label": "二利他行勝"
+                                             },
+                                             "remark": "CBETA 科名作「二利他行勝」"
+                                            },
+                                            {
+                                             "id": "p158-7",
+                                             "no": "三",
+                                             "label": "八偈功德勝",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "jing": "十方",
+                                             "cbeta_id": "X05p0679a1201",
+                                             "cbeta": {
+                                              "label": "三功德勝"
+                                             },
+                                             "remark": "CBETA 科名作「三功德勝」"
+                                            },
+                                            {
+                                             "id": "p158-8",
+                                             "no": "四",
+                                             "label": "七偈方便勝",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "jing": "成就",
+                                             "cbeta_id": "X05p0679a1301",
+                                             "cbeta": {
+                                              "label": "四方便勝"
+                                             },
+                                             "remark": "CBETA 科名作「四方便勝」"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0679a0901",
+                                           "cbeta": {
+                                            "label": "二別"
+                                           },
+                                           "remark": "CBETA 科名作「二別」"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0679a0701",
+                                         "cbeta": {
+                                          "label": "初總舉德歎處"
+                                         },
+                                         "remark": "CBETA 科名作「初總舉德歎處」"
+                                        },
+                                        {
+                                         "id": "p158-9",
+                                         "no": "二",
+                                         "label": "二十一偈別指處明德",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "children": [
+                                          {
+                                           "id": "p158-10",
+                                           "no": "一",
+                                           "label": "二偈下化眾生",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "佛子",
+                                           "pdf_note": "表解一至四共用一個起止【佛子】",
+                                           "cbeta_id": "X05p0679a1501",
+                                           "cbeta": {
+                                            "label": "初下化眾生"
+                                           },
+                                           "remark": "CBETA 科名作「初下化眾生」"
+                                          },
+                                          {
+                                           "id": "p158-11",
+                                           "no": "二",
+                                           "label": "二偈上求佛法",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "佛子",
+                                           "pdf_note": "同上",
+                                           "cbeta_id": "X05p0679a1601",
+                                           "cbeta": {
+                                            "label": "二上求佛法"
+                                           },
+                                           "remark": "CBETA 科名作「二上求佛法」"
+                                          },
+                                          {
+                                           "id": "p158-12",
+                                           "no": "三",
+                                           "label": "五偈三昧自在",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "佛子",
+                                           "pdf_note": "同上",
+                                           "cbeta_id": "X05p0679a1701",
+                                           "cbeta": {
+                                            "label": "三三昧自在"
+                                           },
+                                           "remark": "CBETA 科名作「三三昧自在」"
+                                          },
+                                          {
+                                           "id": "p158-13",
+                                           "no": "四",
+                                           "label": "七偈智慧廣深",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "佛子",
+                                           "pdf_note": "同上",
+                                           "cbeta_id": "X05p0679a1801",
+                                           "cbeta": {
+                                            "label": "四智慧廣深"
+                                           },
+                                           "remark": "CBETA 科名作「四智慧廣深」"
+                                          },
+                                          {
+                                           "id": "p158-14",
+                                           "no": "五",
+                                           "label": "一偈顯其平等",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "觀察",
+                                           "cbeta_id": "X05p0679a1901",
+                                           "cbeta": {
+                                            "label": "五顯其平等"
+                                           },
+                                           "remark": "CBETA 科名作「五顯其平等」"
+                                          },
+                                          {
+                                           "id": "p158-15",
+                                           "no": "六",
+                                           "label": "四偈結敬請加",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0679a2001",
+                                           "cbeta": {
+                                            "label": "六結敬請加"
+                                           },
+                                           "remark": "CBETA 科名作「六結敬請加」"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0679a1401",
+                                         "cbeta": {
+                                          "label": "二別指處門德"
+                                         },
+                                         "remark": "CBETA 科名作「二別指處門德」"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0679a0601"
                                       }
                                      ],
                                      "cbeta_id": "X05p0678a5601"
                                     }
                                    ],
                                    "cbeta_id": "X05p0678a4201"
+                                  },
+                                  {
+                                   "id": "p158-16",
+                                   "no": "二",
+                                   "label": "見正",
+                                   "juan": 1,
+                                   "pdf_page": 158,
+                                   "children": [
+                                    {
+                                     "id": "p158-17",
+                                     "no": "一",
+                                     "label": "見",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "children": [
+                                      {
+                                       "id": "p158-18",
+                                       "no": "一",
+                                       "label": "翹心願覩",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "爾時",
+                                       "cbeta_id": "X05p0679a2301"
+                                      },
+                                      {
+                                       "id": "p158-19",
+                                       "no": "二",
+                                       "label": "正覩慈尊",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "乃見",
+                                       "cbeta_id": "X05p0679a2401"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0679a2201"
+                                    },
+                                    {
+                                     "id": "p158-20",
+                                     "no": "二",
+                                     "label": "敬",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "children": [
+                                      {
+                                       "id": "p158-21",
+                                       "no": "一",
+                                       "label": "身心禮敬",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "善財",
+                                       "cbeta_id": "X05p0679a2601"
+                                      },
+                                      {
+                                       "id": "p158-22",
+                                       "no": "二",
+                                       "label": "讚德記別",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "children": [
+                                        {
+                                         "id": "p158-23",
+                                         "no": "一",
+                                         "label": "長行",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "時彌",
+                                         "cbeta_id": "X05p0679a2801"
+                                        },
+                                        {
+                                         "id": "p158-24",
+                                         "no": "二",
+                                         "label": "偈頌",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "children": [
+                                          {
+                                           "id": "p158-25",
+                                           "no": "一",
+                                           "label": "一偈指眾總歎",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "汝等",
+                                           "cbeta_id": "X05p0679a3001",
+                                           "cbeta": {
+                                            "label": "初指眾總歎"
+                                           },
+                                           "remark": "CBETA 科名作「初指眾總歎」"
+                                          },
+                                          {
+                                           "id": "p158-26",
+                                           "no": "二",
+                                           "label": "一百十一偈別歎勝德",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "children": [
+                                            {
+                                             "id": "p158-27",
+                                             "no": "一",
+                                             "label": "二十二偈直對善財",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "children": [
+                                              {
+                                               "id": "p158-28",
+                                               "no": "一",
+                                               "label": "九偈讚德善來",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "善來",
+                                               "cbeta_id": "X05p0679a3301",
+                                               "cbeta": {
+                                                "label": "初讚德善來"
+                                               },
+                                               "remark": "CBETA 科名作「初讚德善來」"
+                                              },
+                                              {
+                                               "id": "p158-29",
+                                               "no": "二",
+                                               "label": "二偈明來因緣",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "文殊",
+                                               "cbeta_id": "X05p0679a3401",
+                                               "cbeta": {
+                                                "label": "二明來因緣"
+                                               },
+                                               "remark": "CBETA 科名作「二明來因緣」"
+                                              },
+                                              {
+                                               "id": "p158-30",
+                                               "no": "三",
+                                               "label": "十一偈明來所為",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "為求",
+                                               "cbeta_id": "X05p0679a3501",
+                                               "cbeta": {
+                                                "label": "三明來所為"
+                                               },
+                                               "remark": "CBETA 科名作「三明來所為」"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0679a3201",
+                                             "cbeta": {
+                                              "label": "初直對善財"
+                                             },
+                                             "remark": "CBETA 科名作「初直對善財」"
+                                            },
+                                            {
+                                             "id": "p158-31",
+                                             "no": "二",
+                                             "label": "二十六偈對眾令觀",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "children": [
+                                              {
+                                               "id": "p158-32",
+                                               "no": "一",
+                                               "label": "四偈標指總歎",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "汝等",
+                                               "cbeta_id": "X05p0679a3701",
+                                               "cbeta": {
+                                                "label": "初標指總歎"
+                                               },
+                                               "remark": "CBETA 科名作「初標指總歎」"
+                                              },
+                                              {
+                                               "id": "p158-33",
+                                               "no": "二",
+                                               "label": "四偈即智之悲",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "善財",
+                                               "cbeta_id": "X05p0679a3801",
+                                               "cbeta": {
+                                                "label": "二即智之悲"
+                                               },
+                                               "remark": "CBETA 科名作「二即智之悲」"
+                                              },
+                                              {
+                                               "id": "p158-34",
+                                               "no": "三",
+                                               "label": "七偈即悲之智",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "忍鎧",
+                                               "cbeta_id": "X05p0679a3901",
+                                               "cbeta": {
+                                                "label": "三即悲之智"
+                                               },
+                                               "remark": "CBETA 科名作「三即悲之智」"
+                                              },
+                                              {
+                                               "id": "p158-35",
+                                               "no": "四",
+                                               "label": "六偈總歎諸德",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "覺心",
+                                               "cbeta_id": "X05p0679a4001",
+                                               "cbeta": {
+                                                "label": "四總歎諸德"
+                                               },
+                                               "remark": "CBETA 科名作「四總歎諸德」"
+                                              },
+                                              {
+                                               "id": "p158-36",
+                                               "no": "五",
+                                               "label": "五偈妙果當成",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "當滅",
+                                               "cbeta_id": "X05p0679a4101",
+                                               "cbeta": {
+                                                "label": "五妙果當成"
+                                               },
+                                               "remark": "CBETA 科名作「五妙果當成」"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0679a3601",
+                                             "cbeta": {
+                                              "label": "二對眾令觀"
+                                             },
+                                             "remark": "CBETA 科名作「二對眾令觀」"
+                                            },
+                                            {
+                                             "id": "p158-37",
+                                             "no": "三",
+                                             "label": "六十三偈重對善財",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "children": [
+                                              {
+                                               "id": "p158-38",
+                                               "no": "一",
+                                               "label": "二十六偈讚其當果德",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "children": [
+                                                {
+                                                 "id": "p158-39",
+                                                 "no": "一",
+                                                 "label": "二偈總",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "汝行",
+                                                 "cbeta_id": "X05p0679a4401",
+                                                 "cbeta": {
+                                                  "label": "初總"
+                                                 },
+                                                 "remark": "CBETA 科名作「初總」"
+                                                },
+                                                {
+                                                 "id": "p158-40",
+                                                 "no": "二",
+                                                 "label": "餘偈別",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "當滿",
+                                                 "cbeta_id": "X05p0679a4501",
+                                                 "cbeta": {
+                                                  "label": "二別"
+                                                 },
+                                                 "remark": "CBETA 科名作「二別」"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0679a4301",
+                                               "cbeta": {
+                                                "label": "初讚其當果德"
+                                               },
+                                               "remark": "CBETA 科名作「初讚其當果德」"
+                                              },
+                                              {
+                                               "id": "p158-41",
+                                               "no": "二",
+                                               "label": "七偈雙歎當現德",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "汝於",
+                                               "cbeta_id": "X05p0679a4601",
+                                               "cbeta": {
+                                                "label": "二雙歎當現德"
+                                               },
+                                               "remark": "CBETA 科名作「二雙歎當現德」"
+                                              },
+                                              {
+                                               "id": "p158-42",
+                                               "no": "三",
+                                               "label": "八偈歎其遇友德",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "諸根",
+                                               "cbeta_id": "X05p0679a4701",
+                                               "cbeta": {
+                                                "label": "三歎其遇友德"
+                                               },
+                                               "remark": "CBETA 科名作「三歎其遇友德」"
+                                              },
+                                              {
+                                               "id": "p158-43",
+                                               "no": "四",
+                                               "label": "五偈速成行位德",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "已生",
+                                               "cbeta_id": "X05p0679a4801",
+                                               "cbeta": {
+                                                "label": "四速成行位德"
+                                               },
+                                               "remark": "CBETA 科名作「四速成行位德」"
+                                              },
+                                              {
+                                               "id": "p158-44",
+                                               "no": "五",
+                                               "label": "十七偈總結歎德",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "一切",
+                                               "cbeta_id": "X05p0679a4901",
+                                               "cbeta": {
+                                                "label": "五總結歎德"
+                                               },
+                                               "remark": "CBETA 科名作「五總結歎德」"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0679a4201",
+                                             "cbeta": {
+                                              "label": "三重對善財"
+                                             },
+                                             "remark": "CBETA 科名作「三重對善財」"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0679a3101",
+                                           "cbeta": {
+                                            "label": "二別歎勝德"
+                                           },
+                                           "remark": "CBETA 科名作「二別歎勝德」"
+                                          },
+                                          {
+                                           "id": "p158-45",
+                                           "no": "三",
+                                           "label": "一偈略示後友",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "汝當",
+                                           "cbeta_id": "X05p0679a5001",
+                                           "cbeta": {
+                                            "label": "三略示後友"
+                                           },
+                                           "remark": "CBETA 科名作「三略示後友」"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0679a2901"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0679a2701"
+                                      },
+                                      {
+                                       "id": "p158-46",
+                                       "no": "三",
+                                       "label": "重申禮儀",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "children": [
+                                        {
+                                         "id": "p158-47",
+                                         "no": "一",
+                                         "label": "總辨所因",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "爾時",
+                                         "cbeta_id": "X05p0679a5201"
+                                        },
+                                        {
+                                         "id": "p158-48",
+                                         "no": "二",
+                                         "label": "身心悲敬",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "善財",
+                                         "cbeta_id": "X05p0679a5301"
+                                        },
+                                        {
+                                         "id": "p158-49",
+                                         "no": "三",
+                                         "label": "華供展誠",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "以文",
+                                         "cbeta_id": "X05p0679a5401",
+                                         "cbeta": {
+                                          "label": "三垂供展誠"
+                                         },
+                                         "remark": "CBETA 科名作「三垂供展誠」"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0679a5101"
+                                      },
+                                      {
+                                       "id": "p158-50",
+                                       "no": "四",
+                                       "label": "一偈再讚再記",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "時彌",
+                                       "cbeta_id": "X05p0679a5501",
+                                       "cbeta": {
+                                        "label": "四再讚再記"
+                                       },
+                                       "remark": "CBETA 科名作「四再讚再記」"
+                                      },
+                                      {
+                                       "id": "p158-51",
+                                       "no": "五",
+                                       "label": "二偈慶遇念恩",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "時善",
+                                       "cbeta_id": "X05p0679a5601",
+                                       "cbeta": {
+                                        "label": "五慶遇念恩"
+                                       },
+                                       "remark": "CBETA 科名作「五慶遇念恩」"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0679a2501"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0679a2101"
                                   }
                                  ],
                                  "cbeta_id": "X05p0678a4101"
+                                },
+                                {
+                                 "id": "p158-52",
+                                 "no": "二",
+                                 "label": "諮問",
+                                 "juan": 1,
+                                 "pdf_page": 158,
+                                 "children": [
+                                  {
+                                   "id": "p158-53",
+                                   "no": "一",
+                                   "label": "自陳發心",
+                                   "juan": 1,
+                                   "pdf_page": 158,
+                                   "jing": "爾時",
+                                   "cbeta_id": "X05p0679a6301"
+                                  },
+                                  {
+                                   "id": "p158-54",
+                                   "no": "二",
+                                   "label": "正問法要",
+                                   "juan": 1,
+                                   "pdf_page": 158,
+                                   "children": [
+                                    {
+                                     "id": "p158-55",
+                                     "no": "一",
+                                     "label": "標問",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "jing": "而我",
+                                     "cbeta_id": "X05p0679a6501"
+                                    },
+                                    {
+                                     "id": "p158-56",
+                                     "no": "二",
+                                     "label": "歎德",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "children": [
+                                      {
+                                       "id": "p158-57",
+                                       "no": "一",
+                                       "label": "總",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "大聖",
+                                       "cbeta_id": "X05p0680a0201"
+                                      },
+                                      {
+                                       "id": "p158-58",
+                                       "no": "二",
+                                       "label": "別",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "若一",
+                                       "cbeta_id": "X05p0680a0301"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0680a0101"
+                                    },
+                                    {
+                                     "id": "p158-59",
+                                     "no": "三",
+                                     "label": "結請",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "jing": "大聖",
+                                     "cbeta_id": "X05p0680a0401"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0679a6401"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0679a5701"
                                 }
                                ],
                                "cbeta_id": "X05p0678a4001"
+                              },
+                              {
+                               "id": "p158-60",
+                               "no": "三",
+                               "label": "稱讚授法",
+                               "juan": 1,
+                               "pdf_page": 159,
+                               "pdf_note": "科名印在第159頁；本頁稱歎之線由頁左邊框接出；先依第159頁所印建立",
+                               "children": [
+                                {
+                                 "id": "p158-61",
+                                 "no": "一",
+                                 "label": "稱歎",
+                                 "juan": 1,
+                                 "pdf_page": 158,
+                                 "children": [
+                                  {
+                                   "id": "p158-62",
+                                   "no": "一",
+                                   "label": "歎人",
+                                   "juan": 1,
+                                   "pdf_page": 158,
+                                   "children": [
+                                    {
+                                     "id": "p158-63",
+                                     "no": "一",
+                                     "label": "指人示眾",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "jing": "爾時",
+                                     "cbeta_id": "X05p0680a0901"
+                                    },
+                                    {
+                                     "id": "p158-64",
+                                     "no": "二",
+                                     "label": "正讚其德",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "children": [
+                                      {
+                                       "id": "p158-65",
+                                       "no": "一",
+                                       "label": "求友精勤",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "children": [
+                                        {
+                                         "id": "p158-66",
+                                         "no": "一",
+                                         "label": "總顯精勤",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "諸仁",
+                                         "cbeta_id": "X05p0680a1201"
+                                        },
+                                        {
+                                         "id": "p158-67",
+                                         "no": "二",
+                                         "label": "別示勤相",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "諸仁",
+                                         "children": [
+                                          {
+                                           "id": "p158-68",
+                                           "no": "一",
+                                           "label": "敘異解",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "children": [
+                                            {
+                                             "id": "p158-69",
+                                             "no": "一",
+                                             "label": "上古釋",
+                                             "cue": "一云",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "cbeta_id": "X05p0680a1501",
+                                             "cbeta": {
+                                              "cue": "諸仁"
+                                             },
+                                             "remark": "CBETA 起止作〔諸仁〕"
+                                            },
+                                            {
+                                             "id": "p158-70",
+                                             "no": "二",
+                                             "label": "賢首釋",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "children": [
+                                              {
+                                               "id": "p158-71",
+                                               "no": "一",
+                                               "label": "敘義",
+                                               "cue": "賢首",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "cbeta_id": "X05p0680a1701"
+                                              },
+                                              {
+                                               "id": "p158-72",
+                                               "no": "二",
+                                               "label": "刊定破師",
+                                               "cue": "若依",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "cbeta_id": "X05p0680a1801"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0680a1601"
+                                            },
+                                            {
+                                             "id": "p158-73",
+                                             "no": "三",
+                                             "label": "刊定釋",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "children": [
+                                              {
+                                               "id": "p158-74",
+                                               "no": "一",
+                                               "label": "敘",
+                                               "cue": "有云",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "cbeta_id": "X05p0680a2001"
+                                              },
+                                              {
+                                               "id": "p158-75",
+                                               "no": "二",
+                                               "label": "破",
+                                               "cue": "若爾",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "cbeta_id": "X05p0680a2101"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0680a1901"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0680a1401"
+                                          },
+                                          {
+                                           "id": "p158-76",
+                                           "no": "二",
+                                           "label": "疏為會釋",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "children": [
+                                            {
+                                             "id": "p158-77",
+                                             "no": "一",
+                                             "label": "總會三釋",
+                                             "cue": "若會",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "cbeta_id": "X05p0680a2301"
+                                            },
+                                            {
+                                             "id": "p158-78",
+                                             "no": "二",
+                                             "label": "別會賢首",
+                                             "cue": "然下",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "cbeta_id": "X05p0680a2401"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0680a2201"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0680a1301"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0680a1101"
+                                      },
+                                      {
+                                       "id": "p158-79",
+                                       "no": "二",
+                                       "label": "所乘廣大",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "children": [
+                                        {
+                                         "id": "p158-80",
+                                         "no": "一",
+                                         "label": "總歎希奇",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "諸仁",
+                                         "cbeta_id": "X05p0680a2601"
+                                        },
+                                        {
+                                         "id": "p158-81",
+                                         "no": "二",
+                                         "label": "別明難遇",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "children": [
+                                          {
+                                           "id": "p158-82",
+                                           "no": "一",
+                                           "label": "標舉",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "如是",
+                                           "cbeta_id": "X05p0680a2801"
+                                          },
+                                          {
+                                           "id": "p158-83",
+                                           "no": "二",
+                                           "label": "徵釋",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "children": [
+                                            {
+                                             "id": "p158-84",
+                                             "no": "一",
+                                             "label": "徵",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "jing": "何以",
+                                             "cbeta_id": "X05p0680a3001"
+                                            },
+                                            {
+                                             "id": "p158-85",
+                                             "no": "二",
+                                             "label": "釋",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "children": [
+                                              {
+                                               "id": "p158-86",
+                                               "no": "一",
+                                               "label": "總護一切",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "此長",
+                                               "cbeta_id": "X05p0680a3201"
+                                              },
+                                              {
+                                               "id": "p158-87",
+                                               "no": "二",
+                                               "label": "約類別明",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "諸仁",
+                                               "cbeta_id": "X05p0680a3301"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0680a3101"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0680a2901"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0680a2701"
+                                        },
+                                        {
+                                         "id": "p158-88",
+                                         "no": "三",
+                                         "label": "總結所作",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "諸仁",
+                                         "cbeta_id": "X05p0680a3401",
+                                         "cbeta": {
+                                          "label": "森總結所作"
+                                         },
+                                         "remark": "CBETA 科名作「森總結所作」"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0680a2501",
+                                       "cbeta": {
+                                        "label": "二所成廣大"
+                                       },
+                                       "remark": "CBETA 科名作「二所成廣大」"
+                                      },
+                                      {
+                                       "id": "p158-89",
+                                       "no": "三",
+                                       "label": "具德無缺",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "諸仁",
+                                       "cbeta_id": "X05p0680a3501"
+                                      },
+                                      {
+                                       "id": "p158-90",
+                                       "no": "四",
+                                       "label": "速證超權",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "諸仁",
+                                       "cbeta_id": "X05p0680a3601"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0680a1001"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0680a0801"
+                                  },
+                                  {
+                                   "id": "p158-91",
+                                   "no": "二",
+                                   "label": "歎法",
+                                   "juan": 1,
+                                   "pdf_page": 158,
+                                   "children": [
+                                    {
+                                     "id": "p158-92",
+                                     "no": "一",
+                                     "label": "結前生後",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "jing": "爾時",
+                                     "cbeta_id": "X05p0680a3801"
+                                    },
+                                    {
+                                     "id": "p158-93",
+                                     "no": "二",
+                                     "label": "正歎大心",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "children": [
+                                      {
+                                       "id": "p158-94",
+                                       "no": "一",
+                                       "label": "標歎發心",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "告善",
+                                       "cbeta_id": "X05p0680a4001"
+                                      },
+                                      {
+                                       "id": "p158-95",
+                                       "no": "二",
+                                       "label": "歎器成益",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "善男",
+                                       "cbeta_id": "X05p0680a4101"
+                                      },
+                                      {
+                                       "id": "p158-96",
+                                       "no": "三",
+                                       "label": "舉德釋成",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "children": [
+                                        {
+                                         "id": "p158-97",
+                                         "no": "一",
+                                         "label": "徵",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "jing": "何以",
+                                         "cbeta_id": "X05p0680a4301"
+                                        },
+                                        {
+                                         "id": "p158-98",
+                                         "no": "二",
+                                         "label": "釋",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "pdf_note": "子科之線由科名長下行，向左通頁左邊框",
+                                         "children": [
+                                          {
+                                           "id": "p158-99",
+                                           "no": "一",
+                                           "label": "總科",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "children": [
+                                            {
+                                             "id": "p158-100",
+                                             "no": "一",
+                                             "label": "明通三心科",
+                                             "cue": "文有",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "cbeta_id": "X05p0680a4601"
+                                            },
+                                            {
+                                             "id": "p158-101",
+                                             "no": "二",
+                                             "label": "且分為二科",
+                                             "cue": "且分",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "cbeta_id": "X05p0680a4701"
+                                            },
+                                            {
+                                             "id": "p158-102",
+                                             "no": "三",
+                                             "label": "明二種發心為二",
+                                             "cue": "又前",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "cbeta_id": "X05p0680a4801"
+                                            },
+                                            {
+                                             "id": "p158-103",
+                                             "no": "四",
+                                             "label": "約廣就高科",
+                                             "cue": "又前",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "cbeta_id": "X05p0680a4901"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0680a4501"
+                                          },
+                                          {
+                                           "id": "p158-104",
+                                           "no": "二",
+                                           "label": "別釋",
+                                           "juan": 1,
+                                           "pdf_page": 159,
+                                           "continued": true,
+                                           "pdf_note": "科名印在第159頁；本頁明菩提心徧該諸地之線由頁左邊框接出；先依第159頁所印建立",
+                                           "children": [
+                                            {
+                                             "id": "p158-105",
+                                             "no": "一",
+                                             "label": "明菩提心徧該諸地",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "children": [
+                                              {
+                                               "id": "p158-106",
+                                               "no": "一",
+                                               "label": "別明",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "children": [
+                                                {
+                                                 "id": "p158-107",
+                                                 "no": "一",
+                                                 "label": "種性住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "善男",
+                                                 "cbeta_id": "X05p0680a5301"
+                                                },
+                                                {
+                                                 "id": "p158-108",
+                                                 "no": "二",
+                                                 "label": "勝解住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "表解二至七共用一個起止【菩提】",
+                                                 "cbeta_id": "X05p0680a5401",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-109",
+                                                 "no": "三",
+                                                 "label": "極喜住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0680a5501",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-110",
+                                                 "no": "四",
+                                                 "label": "戒增上住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0680a5601",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-111",
+                                                 "no": "五",
+                                                 "label": "增上心住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0680a5701",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-112",
+                                                 "no": "六",
+                                                 "label": "覺分相應增上慧住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0680a5801",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-113",
+                                                 "no": "七",
+                                                 "label": "諸諦相應增上住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0680a5901",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-114",
+                                                 "no": "八",
+                                                 "label": "緣起流轉止息相應增上慧住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "表解八至十二共用一個起止【菩提】",
+                                                 "cbeta_id": "X05p0681a0101",
+                                                 "cbeta": {
+                                                  "label": "八緣起流轉立息相應增上慧住",
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 科名作「八緣起流轉立息相應增上慧住」；起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-115",
+                                                 "no": "九",
+                                                 "label": "無相有功用住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0681a0201",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-116",
+                                                 "no": "十",
+                                                 "label": "無相無功用住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0681a0301",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-117",
+                                                 "no": "十一",
+                                                 "label": "無礙解住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0681a0401",
+                                                 "cbeta": {
+                                                  "label": "十一無礙用住",
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 科名作「十一無礙用住」；起止作〔菩提心〕"
+                                                },
+                                                {
+                                                 "id": "p158-118",
+                                                 "no": "十二",
+                                                 "label": "最上菩薩住",
+                                                 "juan": 1,
+                                                 "pdf_page": 158,
+                                                 "jing": "菩提",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0681a0501",
+                                                 "cbeta": {
+                                                  "cue": "菩提心"
+                                                 },
+                                                 "remark": "CBETA 起止作〔菩提心〕"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0680a5201"
+                                              },
+                                              {
+                                               "id": "p158-119",
+                                               "no": "二",
+                                               "label": "總結",
+                                               "juan": 1,
+                                               "pdf_page": 158,
+                                               "jing": "善男",
+                                               "cbeta_id": "X05p0681a0601"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0680a5101"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0680a5001"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0680a4401"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0680a4201"
+                                      },
+                                      {
+                                       "id": "p158-120",
+                                       "no": "四",
+                                       "label": "結釋所屬",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "善男",
+                                       "cbeta_id": "X05p0681a2301"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0680a3901"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0680a3701"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0680a0701"
+                                },
+                                {
+                                 "id": "p158-121",
+                                 "no": "二",
+                                 "label": "授法",
+                                 "juan": 1,
+                                 "pdf_page": 159,
+                                 "continued": true,
+                                 "pdf_note": "科名印在第159頁；先依第159頁所印建立",
+                                 "children": [
+                                  {
+                                   "id": "p158-122",
+                                   "no": "一",
+                                   "label": "授法體",
+                                   "juan": 1,
+                                   "pdf_page": 159,
+                                   "continued": true,
+                                   "pdf_note": "科名印在第159頁；本頁攝入方便、加令證入之線由頁左邊框接出；先依第159頁所印建立",
+                                   "children": [
+                                    {
+                                     "id": "p158-123",
+                                     "no": "一",
+                                     "label": "攝入方便",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "children": [
+                                      {
+                                       "id": "p158-124",
+                                       "no": "一",
+                                       "label": "牒問勸證",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "善男",
+                                       "cbeta_id": "X05p0681a2901"
+                                      },
+                                      {
+                                       "id": "p158-125",
+                                       "no": "二",
+                                       "label": "求證方便",
+                                       "juan": 1,
+                                       "pdf_page": 158,
+                                       "jing": "爾時",
+                                       "cbeta_id": "X05p0681a3001"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0681a2801"
+                                    },
+                                    {
+                                     "id": "p158-126",
+                                     "no": "二",
+                                     "label": "加令證入",
+                                     "juan": 1,
+                                     "pdf_page": 158,
+                                     "jing": "時彌",
+                                     "cbeta_id": "X05p0681a3101"
+                                    },
+                                    {
+                                     "id": "p158-127",
+                                     "no": "三",
+                                     "label": "證所見境",
+                                     "juan": 1,
+                                     "pdf_page": 159,
+                                     "continued": true,
+                                     "pdf_note": "科名印在第159頁；先依第159頁所印建立",
+                                     "children": [
+                                      {
+                                       "id": "p158-128",
+                                       "no": "一",
+                                       "label": "別明所見",
+                                       "juan": 1,
+                                       "pdf_page": 159,
+                                       "continued": true,
+                                       "pdf_note": "科名印在第159頁；本頁見依報之線由頁左邊框接出；先依第159頁所印建立",
+                                       "children": [
+                                        {
+                                         "id": "p158-129",
+                                         "no": "一",
+                                         "label": "見依報",
+                                         "juan": 1,
+                                         "pdf_page": 158,
+                                         "children": [
+                                          {
+                                           "id": "p158-130",
+                                           "no": "一",
+                                           "label": "見",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "children": [
+                                            {
+                                             "id": "p158-131",
+                                             "no": "一",
+                                             "label": "直見一重莊嚴",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "jing": "見其",
+                                             "cbeta_id": "X05p0681a3601",
+                                             "cbeta": {
+                                              "label": "初重莊嚴"
+                                             },
+                                             "remark": "CBETA 科名作「初重莊嚴」"
+                                            },
+                                            {
+                                             "id": "p158-132",
+                                             "no": "二",
+                                             "label": "微細主伴",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "jing": "又見",
+                                             "cbeta_id": "X05p0681a3701"
+                                            },
+                                            {
+                                             "id": "p158-133",
+                                             "no": "三",
+                                             "label": "一多自在",
+                                             "juan": 1,
+                                             "pdf_page": 158,
+                                             "jing": "善財",
+                                             "cbeta_id": "X05p0681a3801"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0681a3501"
+                                          },
+                                          {
+                                           "id": "p158-134",
+                                           "no": "二",
+                                           "label": "益",
+                                           "juan": 1,
+                                           "pdf_page": 158,
+                                           "jing": "爾時",
+                                           "cbeta_id": "X05p0681a3901"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0681a3401"
+                                        }
+                                       ],
+                                       "cbeta_id": "X05p0681a3301"
+                                      }
+                                     ],
+                                     "cbeta_id": "X05p0681a3201"
+                                    }
+                                   ],
+                                   "cbeta_id": "X05p0681a2701"
+                                  }
+                                 ],
+                                 "cbeta_id": "X05p0681a2401"
+                                }
+                               ],
+                               "cbeta_id": "X05p0679a5801"
                               }
                              ]
                             },
