@@ -4,10 +4,12 @@
 **PDF 為準，CBETA 只是參考與檢查工具。** 使用者是 Wythe，一律以繁體中文回覆。
 
 ## 專案檔案
+- 開工前先 `pip install -r requirements.txt`（Pillow、lxml；雲端容器每次都是新的）。`pdftoppm` 已內建。
+- 所有腳本的路徑都相對於 repo 根目錄，可從任何目錄執行；輸出 JSON 寫在 repo 根目錄並納入版控。
 - `大方廣佛華嚴經疏科文表解-13-172.pdf`：原書掃描（PDF 頁碼＝檔名 pdf_pNNN 的 NNN）。
 - `X05n0231.xml`：CBETA 原始檔。
 - `pdf_pNNN.txt`：每頁轉錄（一頁一檔；跨頁圖可兩頁合一檔）。
-- `parse.py`、`final.py` → `huayan_kewen_X0231.json`（CBETA 科判樹）；`frags.json` 為 CBETA 孤立片段清單。
+- `parse.py`（讀 XML → `frags.json`）、`final.py`（內含 `stitch3.py`，後者再用 `stitch.py` 的 clean()）→ `huayan_kewen_X0231.json`（CBETA 科判樹）；`frags.json` 為 CBETA 孤立片段清單。`stitch2.py` 是舊版，未被呼叫。
 - `build_all.py` → `huayan_kewen_pdf.json`（依序讀入全部 pdf_p*.txt，並與 CBETA 比對，印出差異）。
 - `check_list.py` → `待查清單_自動.md`（字跡不清、CBETA 無對應、子科數不同、共用子科、未續完）。
 - `待查清單_手記.md`：人工疑慮紀錄。甲部分類：一處理方式、二字形、三讀序、四結構、五程式修正紀錄。
@@ -74,11 +76,3 @@
   - 隨文別釋之線 → 六 七覺分、七 八正道：`@under path:燄慧地/釋文/正說分/明地相/依論釋文/對治修行增長分/護煩惱行/正釋文/隨文別釋`
 - 轉錄 p95 時要核對：實印的「對治修行增長分」「護煩惱行」是否與 p93 預建一致。p95 左下似為〔五〕難勝地另起（p83 已在「隨文釋/說分/本文」下預建），要先看清楚。
 - 自動清單現況：未續完 17 項。
-
-## 第一個任務（完成後刪除本節）
-這個工作包原在 claude.ai 的容器中執行，腳本寫死了 `/home/claude`、`/tmp/x0231.xml`、`/mnt/user-data/outputs`。第一個任務是讓它在本 repo 跑起來：
-1. 腳本路徑改成相對於 repo 根目錄；CBETA 讀 `X05n0231.xml`；輸出 JSON 寫到 repo 根目錄。
-2. 確認 `pdftoppm` 可用；不可用時試著安裝 poppler-utils，仍不行就改用 PyMuPDF（pip）渲染。確認 Pillow 可用。
-3. 建 `.gitignore`，排除 `tmp/`、`__pycache__/`。
-4. 依序跑 `parse.py`、`final.py`、`build_all.py`、`check_list.py`。驗收標準：不出錯，`huayan_kewen_pdf.json` 的 meta「已轉頁」到 94，自動清單「尚未續完」為 17 項。
-5. 先用 plan mode 向 Wythe 說明打算怎麼改，確認後才動手；完成後 commit，並刪除本節。

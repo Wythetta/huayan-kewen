@@ -1,5 +1,6 @@
 import json,re,sys,difflib
-cb=json.load(open('/mnt/user-data/outputs/huayan_kewen_X0231.json'))
+import os; ROOT=os.path.dirname(os.path.abspath(__file__))
+cb=json.load(open(os.path.join(ROOT,'huayan_kewen_X0231.json')))
 CBid={}
 def idx(n,p):
     CBid[n['id']]=n; n['_p']=p

@@ -1,5 +1,6 @@
 import json,re
-fr=json.load(open('frags.json'))
+import os; ROOT=os.path.dirname(os.path.abspath(__file__))
+fr=json.load(open(os.path.join(ROOT,'frags.json')))
 PIN='\U000F3BA7'  # CB15271 私用字（原書品首符號）
 MK=re.compile(r'^([○〇△▲]|'+PIN+')')
 def clean(n):
@@ -34,4 +35,4 @@ unused=[s for (_,s) in order if id(s) not in used]
 print('縫合成功',len(used),'未匹配片段',len(unmatched_frag),'未展開stub',len(unused),'剩餘頂層',len(roots))
 for f in unmatched_frag: print('  片段:',f['juan'],f['label'])
 for s in unused: print('  stub:',s['juan'],s['id'],s['label'])
-json.dump({'roots':roots},open('stitched.json','w'),ensure_ascii=False)
+json.dump({'roots':roots},open(os.path.join(ROOT,'stitched.json'),'w'),ensure_ascii=False)

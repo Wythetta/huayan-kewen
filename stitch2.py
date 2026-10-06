@@ -1,5 +1,6 @@
 import json,re,difflib
-exec(open('stitch.py').read().split('# 依文件順序')[0])   # 重用 clean()
+import os; ROOT=os.path.dirname(os.path.abspath(__file__))
+exec(open(os.path.join(ROOT,'stitch.py')).read().split('# 依文件順序')[0])   # 重用 clean()
 order=[]
 def collect(n,fi):
     if n['stub']: order.append((fi,n))
@@ -40,4 +41,4 @@ print('縫合',len(used),'| 剩餘頂層',len(roots),'| 未展開stub',len(unuse
 for l in log: print('  ',l)
 print('--- 未展開 stub'); [print('  ',s['juan'],s['label']) for s in unused]
 print('--- 頂層'); [print('  ',f['juan'],f['mark'],f['label']) for f in roots if f['mark']!='品首']
-json.dump(roots,open('stitched.json','w'),ensure_ascii=False)
+json.dump(roots,open(os.path.join(ROOT,'stitched.json'),'w'),ensure_ascii=False)

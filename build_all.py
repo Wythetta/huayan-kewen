@@ -1,6 +1,7 @@
 import json,re,difflib,glob
-exec(open('/home/claude/build.py').read().split('def parse')[0])   # CBid, ORD
-exec('def strip_no0'+open('/home/claude/build.py').read().split('def strip_no')[1].split('def align')[0])
+import os; ROOT=os.path.dirname(os.path.abspath(__file__))
+exec(open(os.path.join(ROOT,'build.py')).read().split('def parse')[0])   # CBid, ORD
+exec('def strip_no0'+open(os.path.join(ROOT,'build.py')).read().split('def strip_no')[1].split('def align')[0])
 CN='零一二三四五六七八九十'
 JUAN={i:1 for i in range(1,8)}
 NUMV={c:i for i,c in enumerate('零一二三四五六七八九十')}
@@ -138,9 +139,9 @@ def flush(under,cbparent,top):
         if m: cands.remove(m)
         align(n,m)
 import os
-PAGES=sorted(int(f[-7:-4]) for f in glob.glob('/home/claude/pdf_p*.txt'))
+PAGES=sorted(int(f[-7:-4]) for f in glob.glob(os.path.join(ROOT,'pdf_p*.txt')))
 for page in PAGES:
-    run(f'/home/claude/pdf_p{page:03d}.txt',page)
+    run(os.path.join(ROOT,f'pdf_p{page:03d}.txt'),page)
 def settle(n):
     if n.get('continued') and n.get('cbeta_id') and n.get('children') and len(n.get('children',[]))==len(CBid[n['cbeta_id']].get('children',[])):
         del n['continued']
@@ -149,12 +150,12 @@ for r in roots: settle(r)
 cnt=[0]; pages_seen=set()
 def c(n): cnt[0]+=1; pages_seen.add(n.get('pdf_page')); [c(k) for k in n.get('children',[])]
 [c(r) for r in roots]
-out={'meta':{'來源':'《大方廣佛華嚴經疏科文表解》PDF 為主，對照 CBETA X05n0231','已轉頁':sorted({x for x in pages_seen}),'節點總數':cnt[0],
+out={'meta':{'來源':'《大方廣佛華嚴經疏科文表解》PDF 為主，對照 CBETA X05n0231','已轉頁':sorted(x for x in pages_seen if x is not None and x<=PAGES[-1]),'節點總數':cnt[0],
   '欄位':{'no':'表解上的序號','label':'表解科名（不含序號）','cue':'表解括號內的起止語','pdf_page':'PDF 頁次（第1頁＝書頁11）',
    'pdf_title':'表解另起圖表時的圖題','pdf_note':'表解上的案語','continued':'此科的子科在後續頁面才出現（尚未轉錄完）',
    'cbeta_id':'對應的 CBETA 行號','cbeta':'CBETA 與表解不同之處（只列有差異的欄位）','uncertain':'掃描字跡不清，待人工確認',
    'remark':'差異摘要','kind':'圖題等非科判節點'}},'roots':roots}
-json.dump(out,open('/mnt/user-data/outputs/huayan_kewen_pdf.json','w'),ensure_ascii=False,indent=1)
+json.dump(out,open(os.path.join(ROOT,'huayan_kewen_pdf.json'),'w'),ensure_ascii=False,indent=1)
 print('nodes',cnt[0],'diffs',len(diffs))
 for d in diffs:
     if d[0]==PAGES[-1]: print(d)
