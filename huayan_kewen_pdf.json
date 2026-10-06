@@ -121,9 +121,10 @@
    117,
    118,
    119,
-   120
+   120,
+   121
   ],
-  "節點總數": 15426,
+  "節點總數": 15546,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -157083,9 +157084,1185 @@
                                        "label": "有八門答自在問",
                                        "juan": 1,
                                        "pdf_page": 120,
-                                       "continued": true,
                                        "pdf_note": "子科之線下行、向左通頁左邊框，子科在第121頁",
-                                       "cbeta_id": "X05p0596a4701"
+                                       "cbeta_id": "X05p0596a4701",
+                                       "children": [
+                                        {
+                                         "id": "p121-1",
+                                         "no": "一",
+                                         "label": "總明自在",
+                                         "juan": 1,
+                                         "pdf_page": 121,
+                                         "children": [
+                                          {
+                                           "id": "p121-2",
+                                           "no": "一",
+                                           "label": "總",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0596a4901"
+                                          },
+                                          {
+                                           "id": "p121-3",
+                                           "no": "二",
+                                           "label": "別",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "children": [
+                                            {
+                                             "id": "p121-4",
+                                             "no": "一",
+                                             "label": "法自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "何等",
+                                             "cbeta_id": "X05p0596a5101"
+                                            },
+                                            {
+                                             "id": "p121-5",
+                                             "no": "二",
+                                             "label": "心自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "表解二至十共用一個起止【一切】",
+                                             "cbeta_id": "X05p0596a5201"
+                                            },
+                                            {
+                                             "id": "p121-6",
+                                             "no": "三",
+                                             "label": "解自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0596a5301"
+                                            },
+                                            {
+                                             "id": "p121-7",
+                                             "no": "四",
+                                             "label": "財自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0596a5401"
+                                            },
+                                            {
+                                             "id": "p121-8",
+                                             "no": "五",
+                                             "label": "命自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0596a5501"
+                                            },
+                                            {
+                                             "id": "p121-9",
+                                             "no": "六",
+                                             "label": "如意自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0596a5601"
+                                            },
+                                            {
+                                             "id": "p121-10",
+                                             "no": "七",
+                                             "label": "智自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0596a5701"
+                                            },
+                                            {
+                                             "id": "p121-11",
+                                             "no": "八",
+                                             "label": "業自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a0101"
+                                            },
+                                            {
+                                             "id": "p121-12",
+                                             "no": "九",
+                                             "label": "生自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a0201"
+                                            },
+                                            {
+                                             "id": "p121-13",
+                                             "no": "十",
+                                             "label": "願自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a0301"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0596a5001"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0596a4801"
+                                        },
+                                        {
+                                         "id": "p121-14",
+                                         "no": "二",
+                                         "label": "圓滿自在法",
+                                         "juan": 1,
+                                         "pdf_page": 121,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0597a0401"
+                                        },
+                                        {
+                                         "id": "p121-15",
+                                         "no": "三",
+                                         "label": "善巧方便",
+                                         "juan": 1,
+                                         "pdf_page": 121,
+                                         "children": [
+                                          {
+                                           "id": "p121-16",
+                                           "no": "一",
+                                           "label": "總",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0597a0601"
+                                          },
+                                          {
+                                           "id": "p121-17",
+                                           "no": "二",
+                                           "label": "別",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "children": [
+                                            {
+                                             "id": "p121-18",
+                                             "no": "一",
+                                             "label": "言說自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "何等",
+                                             "cbeta_id": "X05p0597a0801",
+                                             "cbeta": {
+                                              "cue": "一切"
+                                             },
+                                             "remark": "CBETA 起止作〔一切〕"
+                                            },
+                                            {
+                                             "id": "p121-19",
+                                             "no": "二",
+                                             "label": "知見自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "表解二至九共用一個起止【一切】",
+                                             "cbeta_id": "X05p0597a0901"
+                                            },
+                                            {
+                                             "id": "p121-20",
+                                             "no": "三",
+                                             "label": "示現自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a1001"
+                                            },
+                                            {
+                                             "id": "p121-21",
+                                             "no": "四",
+                                             "label": "三世自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a1101"
+                                            },
+                                            {
+                                             "id": "p121-22",
+                                             "no": "五",
+                                             "label": "性相自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a1201"
+                                            },
+                                            {
+                                             "id": "p121-23",
+                                             "no": "六",
+                                             "label": "調生自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a1301"
+                                            },
+                                            {
+                                             "id": "p121-24",
+                                             "no": "七",
+                                             "label": "時分自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a1401"
+                                            },
+                                            {
+                                             "id": "p121-25",
+                                             "no": "八",
+                                             "label": "辯才自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a1501",
+                                             "cbeta": {
+                                              "label": "八辨才自在"
+                                             },
+                                             "remark": "CBETA 科名作「八辨才自在」"
+                                            },
+                                            {
+                                             "id": "p121-26",
+                                             "no": "九",
+                                             "label": "勝義自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "一切",
+                                             "pdf_note": "同上",
+                                             "cbeta_id": "X05p0597a1601"
+                                            },
+                                            {
+                                             "id": "p121-27",
+                                             "no": "十",
+                                             "label": "寂用自在",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "children": [
+                                              {
+                                               "id": "p121-28",
+                                               "no": "一",
+                                               "label": "知寂",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-29",
+                                                 "no": "一",
+                                                 "label": "正顯",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "一切",
+                                                 "cbeta_id": "X05p0597a1901"
+                                                },
+                                                {
+                                                 "id": "p121-30",
+                                                 "no": "二",
+                                                 "label": "釋成",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "然亦",
+                                                 "cbeta_id": "X05p0597a2001"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a1801"
+                                              },
+                                              {
+                                               "id": "p121-31",
+                                               "no": "二",
+                                               "label": "知起用",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "jing": "而能",
+                                               "cbeta_id": "X05p0597a2101"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0597a1701"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0597a0701"
+                                          },
+                                          {
+                                           "id": "p121-32",
+                                           "no": "三",
+                                           "label": "結",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0597a2201"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0597a0501"
+                                        },
+                                        {
+                                         "id": "p121-33",
+                                         "no": "四",
+                                         "label": "廣大佛事",
+                                         "juan": 1,
+                                         "pdf_page": 121,
+                                         "children": [
+                                          {
+                                           "id": "p121-34",
+                                           "no": "一",
+                                           "label": "總",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0597a2401"
+                                          },
+                                          {
+                                           "id": "p121-35",
+                                           "no": "二",
+                                           "label": "別",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "children": [
+                                            {
+                                             "id": "p121-36",
+                                             "no": "一",
+                                             "label": "徵",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "何等",
+                                             "cbeta_id": "X05p0597a2601"
+                                            },
+                                            {
+                                             "id": "p121-37",
+                                             "no": "二",
+                                             "label": "釋",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "pdf_note": "子科之線由科名長下行至頁下半，掛十事",
+                                             "children": [
+                                              {
+                                               "id": "p121-38",
+                                               "no": "一",
+                                               "label": "上生佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-39",
+                                                 "no": "一",
+                                                 "label": "別明能攝",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "所謂",
+                                                 "cbeta_id": "X05p0597a2901"
+                                                },
+                                                {
+                                                 "id": "p121-40",
+                                                 "no": "二",
+                                                 "label": "所攝廣多",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "攝取",
+                                                 "cbeta_id": "X05p0597a3001"
+                                                },
+                                                {
+                                                 "id": "p121-41",
+                                                 "no": "三",
+                                                 "label": "能攝殊勝",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "大慈",
+                                                 "cbeta_id": "X05p0597a3101"
+                                                },
+                                                {
+                                                 "id": "p121-42",
+                                                 "no": "四",
+                                                 "label": "所攝成益",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "或令",
+                                                 "cbeta_id": "X05p0597a3201"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a2801"
+                                              },
+                                              {
+                                               "id": "p121-43",
+                                               "no": "二",
+                                               "label": "降神事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-44",
+                                                 "no": "一",
+                                                 "label": "智德內圓",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0597a3401"
+                                                },
+                                                {
+                                                 "id": "p121-45",
+                                                 "no": "二",
+                                                 "label": "神通外用",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "children": [
+                                                  {
+                                                   "id": "p121-46",
+                                                   "no": "一",
+                                                   "label": "明一處一時作佛事",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "受最",
+                                                   "cbeta_id": "X05p0597a3601"
+                                                  },
+                                                  {
+                                                   "id": "p121-47",
+                                                   "no": "二",
+                                                   "label": "總攝時處",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "佛子",
+                                                   "cbeta_id": "X05p0597a3701"
+                                                  }
+                                                 ],
+                                                 "cbeta_id": "X05p0597a3501"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a3301"
+                                              },
+                                              {
+                                               "id": "p121-48",
+                                               "no": "三",
+                                               "label": "現生佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-49",
+                                                 "no": "一",
+                                                 "label": "無生現生",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0597a3901"
+                                                },
+                                                {
+                                                 "id": "p121-50",
+                                                 "no": "二",
+                                                 "label": "無染處染",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "children": [
+                                                  {
+                                                   "id": "p121-51",
+                                                   "no": "一",
+                                                   "label": "三學自圓",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "一切",
+                                                   "cbeta_id": "X05p0597a4101"
+                                                  },
+                                                  {
+                                                   "id": "p121-52",
+                                                   "no": "二",
+                                                   "label": "四心愍物",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "觀諸",
+                                                   "cbeta_id": "X05p0597a4201"
+                                                  },
+                                                  {
+                                                   "id": "p121-53",
+                                                   "no": "三",
+                                                   "label": "具德攝益",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "具佛",
+                                                   "cbeta_id": "X05p0597a4301"
+                                                  },
+                                                  {
+                                                   "id": "p121-54",
+                                                   "no": "四",
+                                                   "label": "攝益深廣",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "雖處",
+                                                   "cbeta_id": "X05p0597a4401"
+                                                  }
+                                                 ],
+                                                 "cbeta_id": "X05p0597a4001"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a3801"
+                                              },
+                                              {
+                                               "id": "p121-55",
+                                               "no": "四",
+                                               "label": "出家佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-56",
+                                                 "no": "一",
+                                                 "label": "出家意",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0597a4601"
+                                                },
+                                                {
+                                                 "id": "p121-57",
+                                                 "no": "二",
+                                                 "label": "出家相",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "當出",
+                                                 "cbeta_id": "X05p0597a4701"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a4501"
+                                              },
+                                              {
+                                               "id": "p121-58",
+                                               "no": "五",
+                                               "label": "成道佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-59",
+                                                 "no": "一",
+                                                 "label": "真覺舊圓",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0597a4901"
+                                                },
+                                                {
+                                                 "id": "p121-60",
+                                                 "no": "二",
+                                                 "label": "應身今滿",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "菩提",
+                                                 "cbeta_id": "X05p0597a5001"
+                                                },
+                                                {
+                                                 "id": "p121-61",
+                                                 "no": "三",
+                                                 "label": "演法益生",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "其菩",
+                                                 "cbeta_id": "X05p0597a5101",
+                                                 "cbeta": {
+                                                  "label": "三演法益〔主〕"
+                                                 },
+                                                 "remark": "CBETA 科名作「三演法益〔主〕」"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a4801"
+                                              },
+                                              {
+                                               "id": "p121-62",
+                                               "no": "六",
+                                               "label": "轉法輪佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-63",
+                                                 "no": "一",
+                                                 "label": "列",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0597a5301"
+                                                },
+                                                {
+                                                 "id": "p121-64",
+                                                 "no": "二",
+                                                 "label": "結",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "一切",
+                                                 "cbeta_id": "X05p0597a5401"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a5201"
+                                              },
+                                              {
+                                               "id": "p121-65",
+                                               "no": "七",
+                                               "label": "威儀佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-66",
+                                                 "no": "一",
+                                                 "label": "別舉入城",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0597a5601"
+                                                },
+                                                {
+                                                 "id": "p121-67",
+                                                 "no": "二",
+                                                 "label": "威儀益物",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "一切",
+                                                 "pdf_note": "表解二至四共用一個起止【一切】",
+                                                 "cbeta_id": "X05p0597a5701"
+                                                },
+                                                {
+                                                 "id": "p121-68",
+                                                 "no": "三",
+                                                 "label": "言談示現",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "一切",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0597a5801"
+                                                },
+                                                {
+                                                 "id": "p121-69",
+                                                 "no": "四",
+                                                 "label": "總結深廣",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "一切",
+                                                 "pdf_note": "同上",
+                                                 "cbeta_id": "X05p0597a5901"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a5501"
+                                              },
+                                              {
+                                               "id": "p121-70",
+                                               "no": "八",
+                                               "label": "起行佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-71",
+                                                 "no": "一",
+                                                 "label": "身心安住行",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0597a6101"
+                                                },
+                                                {
+                                                 "id": "p121-72",
+                                                 "no": "二",
+                                                 "label": "起應上求行",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "或以",
+                                                 "cbeta_id": "X05p0597a6201"
+                                                },
+                                                {
+                                                 "id": "p121-73",
+                                                 "no": "三",
+                                                 "label": "說默下化行",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "或時",
+                                                 "cbeta_id": "X05p0598a0101",
+                                                 "cbeta": {
+                                                  "label": "三說嘿下化行"
+                                                 },
+                                                 "remark": "CBETA 科名作「三說嘿下化行」"
+                                                },
+                                                {
+                                                 "id": "p121-74",
+                                                 "no": "四",
+                                                 "label": "時分修進行",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "或住",
+                                                 "cbeta_id": "X05p0598a0201"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0597a6001"
+                                              },
+                                              {
+                                               "id": "p121-75",
+                                               "no": "九",
+                                               "label": "起用佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-76",
+                                                 "no": "一",
+                                                 "label": "顯用所依",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0598a0401"
+                                                },
+                                                {
+                                                 "id": "p121-77",
+                                                 "no": "二",
+                                                 "label": "正明起用",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "或現",
+                                                 "cbeta_id": "X05p0598a0501"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0598a0301"
+                                              },
+                                              {
+                                               "id": "p121-78",
+                                               "no": "十",
+                                               "label": "涅槃佛事",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-79",
+                                                 "no": "一",
+                                                 "label": "涅槃悲戀益",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0598a0701"
+                                                },
+                                                {
+                                                 "id": "p121-80",
+                                                 "no": "二",
+                                                 "label": "舍利流布益",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "復為",
+                                                 "cbeta_id": "X05p0598a0801"
+                                                },
+                                                {
+                                                 "id": "p121-81",
+                                                 "no": "三",
+                                                 "label": "總結益滿",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0598a0901"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0598a0601"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0597a2701"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0597a2501"
+                                          },
+                                          {
+                                           "id": "p121-82",
+                                           "no": "三",
+                                           "label": "結",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0598a1001"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0597a2301"
+                                        },
+                                        {
+                                         "id": "p121-83",
+                                         "no": "五",
+                                         "label": "無二自在法",
+                                         "juan": 1,
+                                         "pdf_page": 121,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0598a1101"
+                                        },
+                                        {
+                                         "id": "p121-84",
+                                         "no": "六",
+                                         "label": "住一切法",
+                                         "juan": 1,
+                                         "pdf_page": 121,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0598a1201"
+                                        },
+                                        {
+                                         "id": "p121-85",
+                                         "no": "七",
+                                         "label": "知一切法盡無有餘",
+                                         "juan": 1,
+                                         "pdf_page": 121,
+                                         "jing": "佛子",
+                                         "cbeta_id": "X05p0598a1301"
+                                        },
+                                        {
+                                         "id": "p121-86",
+                                         "no": "八",
+                                         "label": "廣大力",
+                                         "juan": 1,
+                                         "pdf_page": 121,
+                                         "children": [
+                                          {
+                                           "id": "p121-87",
+                                           "no": "一",
+                                           "label": "標",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "jing": "佛子",
+                                           "children": [
+                                            {
+                                             "id": "p121-88",
+                                             "no": "一",
+                                             "label": "總科",
+                                             "cue": "第八",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "cbeta_id": "X05p0598a1601",
+                                             "cbeta": {
+                                              "cue": "佛子"
+                                             },
+                                             "remark": "CBETA 起止作〔佛子〕"
+                                            },
+                                            {
+                                             "id": "p121-89",
+                                             "no": "二",
+                                             "label": "融通",
+                                             "cue": "是則",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "cbeta_id": "X05p0598a1701"
+                                            },
+                                            {
+                                             "id": "p121-90",
+                                             "no": "三",
+                                             "label": "敘昔",
+                                             "cue": "古德",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "cbeta_id": "X05p0598a1801"
+                                            },
+                                            {
+                                             "id": "p121-91",
+                                             "no": "四",
+                                             "label": "辨違",
+                                             "cue": "則令",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "cbeta_id": "X05p0598a1901"
+                                            },
+                                            {
+                                             "id": "p121-92",
+                                             "no": "五",
+                                             "label": "遮救",
+                                             "cue": "設欲",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "cbeta_id": "X05p0598a2001"
+                                            },
+                                            {
+                                             "id": "p121-93",
+                                             "no": "六",
+                                             "label": "正釋",
+                                             "cue": "十中",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "cbeta_id": "X05p0598a2101"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0598a1501"
+                                          },
+                                          {
+                                           "id": "p121-94",
+                                           "no": "二",
+                                           "label": "徵釋",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "children": [
+                                            {
+                                             "id": "p121-95",
+                                             "no": "一",
+                                             "label": "徵",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "jing": "何者",
+                                             "cbeta_id": "X05p0598a2301"
+                                            },
+                                            {
+                                             "id": "p121-96",
+                                             "no": "二",
+                                             "label": "釋",
+                                             "juan": 1,
+                                             "pdf_page": 121,
+                                             "children": [
+                                              {
+                                               "id": "p121-97",
+                                               "no": "一",
+                                               "label": "身命不可壞力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-98",
+                                                 "no": "一",
+                                                 "label": "正明不壞",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "所謂",
+                                                 "cbeta_id": "X05p0598a2601"
+                                                },
+                                                {
+                                                 "id": "p121-99",
+                                                 "no": "二",
+                                                 "label": "舉況顯勝",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "若有",
+                                                 "cbeta_id": "X05p0598a2701"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0598a2501",
+                                               "cbeta": {
+                                                "label": "初身命不可壞九"
+                                               },
+                                               "remark": "CBETA 科名作「初身命不可壞九」"
+                                              },
+                                              {
+                                               "id": "p121-100",
+                                               "no": "二",
+                                               "label": "毛孔容持力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "jing": "佛子",
+                                               "pdf_note": "表解二至四共用一個起止【佛子】",
+                                               "cbeta_id": "X05p0598a2801"
+                                              },
+                                              {
+                                               "id": "p121-101",
+                                               "no": "三",
+                                               "label": "毛持大山力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "jing": "佛子",
+                                               "pdf_note": "同上",
+                                               "cbeta_id": "X05p0598a2901"
+                                              },
+                                              {
+                                               "id": "p121-102",
+                                               "no": "四",
+                                               "label": "定用自在力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "jing": "佛子",
+                                               "pdf_note": "同上",
+                                               "cbeta_id": "X05p0598a3001"
+                                              },
+                                              {
+                                               "id": "p121-103",
+                                               "no": "五",
+                                               "label": "常徧演法力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-104",
+                                                 "no": "一",
+                                                 "label": "明一身轉",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "children": [
+                                                  {
+                                                   "id": "p121-105",
+                                                   "no": "一",
+                                                   "label": "顯說多",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "佛子",
+                                                   "cbeta_id": "X05p0598a3301"
+                                                  },
+                                                  {
+                                                   "id": "p121-106",
+                                                   "no": "二",
+                                                   "label": "所說常",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "如是",
+                                                   "cbeta_id": "X05p0598a3401"
+                                                  },
+                                                  {
+                                                   "id": "p121-107",
+                                                   "no": "三",
+                                                   "label": "所說體",
+                                                   "juan": 1,
+                                                   "pdf_page": 121,
+                                                   "jing": "所謂",
+                                                   "cbeta_id": "X05p0598a3501"
+                                                  }
+                                                 ],
+                                                 "cbeta_id": "X05p0598a3201"
+                                                },
+                                                {
+                                                 "id": "p121-108",
+                                                 "no": "二",
+                                                 "label": "明多身轉",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "如一",
+                                                 "cbeta_id": "X05p0598a3601"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0598a3101"
+                                              },
+                                              {
+                                               "id": "p121-109",
+                                               "no": "六",
+                                               "label": "德相降魔力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0598a3701"
+                                              },
+                                              {
+                                               "id": "p121-110",
+                                               "no": "七",
+                                               "label": "圓音徧徹力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0598a3801"
+                                              },
+                                              {
+                                               "id": "p121-111",
+                                               "no": "八",
+                                               "label": "心無障礙力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-112",
+                                                 "no": "一",
+                                                 "label": "無塵惑障礙",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0598a4001",
+                                                 "cbeta": {
+                                                  "label": "初無塵惑障碍"
+                                                 },
+                                                 "remark": "CBETA 科名作「初無塵惑障碍」"
+                                                },
+                                                {
+                                                 "id": "p121-113",
+                                                 "no": "二",
+                                                 "label": "起用無障礙",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "於不",
+                                                 "cbeta_id": "X05p0598a4101",
+                                                 "cbeta": {
+                                                  "label": "二起用無障碍"
+                                                 },
+                                                 "remark": "CBETA 科名作「二起用無障碍」"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0598a3901",
+                                               "cbeta": {
+                                                "label": "八心無障碍力"
+                                               },
+                                               "remark": "CBETA 科名作「八心無障碍力」"
+                                              },
+                                              {
+                                               "id": "p121-114",
+                                               "no": "九",
+                                               "label": "法身微密力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "jing": "佛子",
+                                               "cbeta_id": "X05p0598a4201"
+                                              },
+                                              {
+                                               "id": "p121-115",
+                                               "no": "十",
+                                               "label": "具足行智力",
+                                               "juan": 1,
+                                               "pdf_page": 121,
+                                               "children": [
+                                                {
+                                                 "id": "p121-116",
+                                                 "no": "一",
+                                                 "label": "萬行圓淨",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0598a4401",
+                                                 "cbeta": {
+                                                  "cue": "佛十"
+                                                 },
+                                                 "remark": "CBETA 起止作〔佛十〕"
+                                                },
+                                                {
+                                                 "id": "p121-117",
+                                                 "no": "二",
+                                                 "label": "智用周圓",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "住佛",
+                                                 "cbeta_id": "X05p0598a4501"
+                                                },
+                                                {
+                                                 "id": "p121-118",
+                                                 "no": "三",
+                                                 "label": "動寂自在",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "雖已",
+                                                 "cbeta_id": "X05p0598a4601"
+                                                },
+                                                {
+                                                 "id": "p121-119",
+                                                 "no": "四",
+                                                 "label": "用無涯畔",
+                                                 "juan": 1,
+                                                 "pdf_page": 121,
+                                                 "jing": "佛子",
+                                                 "cbeta_id": "X05p0598a4701"
+                                                }
+                                               ],
+                                               "cbeta_id": "X05p0598a4301"
+                                              }
+                                             ],
+                                             "cbeta_id": "X05p0598a2401"
+                                            }
+                                           ],
+                                           "cbeta_id": "X05p0598a2201"
+                                          },
+                                          {
+                                           "id": "p121-120",
+                                           "no": "三",
+                                           "label": "結",
+                                           "juan": 1,
+                                           "pdf_page": 121,
+                                           "jing": "佛子",
+                                           "cbeta_id": "X05p0598a4801"
+                                          }
+                                         ],
+                                         "cbeta_id": "X05p0598a1401"
+                                        }
+                                       ]
                                       },
                                       {
                                        "id": "p120-99",
