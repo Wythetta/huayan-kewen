@@ -150,7 +150,7 @@ for r in roots: settle(r)
 cnt=[0]; pages_seen=set()
 def c(n): cnt[0]+=1; pages_seen.add(n.get('pdf_page')); [c(k) for k in n.get('children',[])]
 [c(r) for r in roots]
-out={'meta':{'來源':'《大方廣佛華嚴經疏科文表解》PDF 為主，對照 CBETA X05n0231','已轉頁':sorted({x for x in pages_seen}),'節點總數':cnt[0],
+out={'meta':{'來源':'《大方廣佛華嚴經疏科文表解》PDF 為主，對照 CBETA X05n0231','已轉頁':sorted(x for x in pages_seen if x is not None and x<=PAGES[-1]),'節點總數':cnt[0],
   '欄位':{'no':'表解上的序號','label':'表解科名（不含序號）','cue':'表解括號內的起止語','pdf_page':'PDF 頁次（第1頁＝書頁11）',
    'pdf_title':'表解另起圖表時的圖題','pdf_note':'表解上的案語','continued':'此科的子科在後續頁面才出現（尚未轉錄完）',
    'cbeta_id':'對應的 CBETA 行號','cbeta':'CBETA 與表解不同之處（只列有差異的欄位）','uncertain':'掃描字跡不清，待人工確認',
