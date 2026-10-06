@@ -100,9 +100,10 @@
    96,
    97,
    98,
-   99
+   99,
+   100
   ],
-  "節點總數": 12971,
+  "節點總數": 13068,
   "欄位": {
    "no": "表解上的序號",
    "label": "表解科名（不含序號）",
@@ -130278,7 +130279,6 @@
                                                        "label": "一心所攝門",
                                                        "juan": 1,
                                                        "pdf_page": 99,
-                                                       "continued": true,
                                                        "pdf_note": "科名橫排三行（一心所／攝門），右行先讀；其子科之線通頁左邊框（二大悲隨順觀、三一切相智觀在後頁）",
                                                        "children": [
                                                         {
@@ -130426,7 +130426,6 @@
                                                            "label": "本末依持門",
                                                            "juan": 1,
                                                            "pdf_page": 99,
-                                                           "continued": true,
                                                            "pdf_note": "科名橫排三行（本末依／持門）；其子科之線通頁左邊框（六依總開別在後頁）",
                                                            "children": [
                                                             {
@@ -130473,15 +130472,964 @@
                                                              "juan": 1,
                                                              "pdf_page": 99,
                                                              "cbeta_id": "X05p0551a6901"
+                                                            },
+                                                            {
+                                                             "id": "p100-1",
+                                                             "no": "六",
+                                                             "label": "依總開別",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "pdf_note": "科名橫排兩字直列（依總／開別）",
+                                                             "children": [
+                                                              {
+                                                               "id": "p100-2",
+                                                               "no": "一",
+                                                               "label": "列釋",
+                                                               "cue": "此觀",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "cbeta_id": "X05p0552a0201"
+                                                              },
+                                                              {
+                                                               "id": "p100-3",
+                                                               "no": "二",
+                                                               "label": "料揀",
+                                                               "cue": "六中",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "cbeta_id": "X05p0552a0301"
+                                                              },
+                                                              {
+                                                               "id": "p100-4",
+                                                               "no": "三",
+                                                               "label": "釋初門",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "children": [
+                                                                {
+                                                                 "id": "p100-5",
+                                                                 "no": "一",
+                                                                 "label": "出論意",
+                                                                 "cue": "今此",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0552a0501"
+                                                                },
+                                                                {
+                                                                 "id": "p100-6",
+                                                                 "no": "二",
+                                                                 "label": "科釋經文",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "pdf_note": "子科之線由科名長下行",
+                                                                 "children": [
+                                                                  {
+                                                                   "id": "p100-7",
+                                                                   "no": "一",
+                                                                   "label": "總",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "jing": "如來",
+                                                                   "cbeta_id": "X05p0552a0701"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-8",
+                                                                   "no": "二",
+                                                                   "label": "徵",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "jing": "何以",
+                                                                   "cbeta_id": "X05p0552a0801"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-9",
+                                                                   "no": "三",
+                                                                   "label": "釋",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "jing": "隨事",
+                                                                   "children": [
+                                                                    {
+                                                                     "id": "p100-10",
+                                                                     "no": "一",
+                                                                     "label": "略彈古釋",
+                                                                     "cue": "後釋",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "cbeta_id": "X05p0552a1001"
+                                                                    },
+                                                                    {
+                                                                     "id": "p100-11",
+                                                                     "no": "二",
+                                                                     "label": "標示正義",
+                                                                     "cue": "今謂",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "cbeta_id": "X05p0552a1101"
+                                                                    },
+                                                                    {
+                                                                     "id": "p100-12",
+                                                                     "no": "三",
+                                                                     "label": "總顯包含",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "pdf_note": "科名橫排兩字直列（總顯／包含）",
+                                                                     "children": [
+                                                                      {
+                                                                       "id": "p100-13",
+                                                                       "no": "一",
+                                                                       "label": "約體攝二",
+                                                                       "cue": "是以",
+                                                                       "juan": 1,
+                                                                       "pdf_page": 100,
+                                                                       "cbeta_id": "X05p0552a1301"
+                                                                      },
+                                                                      {
+                                                                       "id": "p100-14",
+                                                                       "no": "二",
+                                                                       "label": "約義攝五",
+                                                                       "juan": 1,
+                                                                       "pdf_page": 100,
+                                                                       "children": [
+                                                                        {
+                                                                         "id": "p100-15",
+                                                                         "no": "一",
+                                                                         "label": "標列四名",
+                                                                         "cue": "二含",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "cbeta_id": "X05p0552a1501"
+                                                                        },
+                                                                        {
+                                                                         "id": "p100-16",
+                                                                         "no": "二",
+                                                                         "label": "指三在後",
+                                                                         "cue": "後三",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "cbeta_id": "X05p0552a1601"
+                                                                        },
+                                                                        {
+                                                                         "id": "p100-17",
+                                                                         "no": "三",
+                                                                         "label": "別釋剎那",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "children": [
+                                                                          {
+                                                                           "id": "p100-18",
+                                                                           "no": "一",
+                                                                           "label": "別釋",
+                                                                           "juan": 1,
+                                                                           "pdf_page": 100,
+                                                                           "pdf_note": "科名兩行直排（別／釋）",
+                                                                           "children": [
+                                                                            {
+                                                                             "id": "p100-19",
+                                                                             "no": "一",
+                                                                             "label": "釋剎那",
+                                                                             "cue": "此中",
+                                                                             "juan": 1,
+                                                                             "pdf_page": 100,
+                                                                             "cbeta_id": "X05p0552a1901"
+                                                                            },
+                                                                            {
+                                                                             "id": "p100-20",
+                                                                             "no": "二",
+                                                                             "label": "釋餘三",
+                                                                             "cue": "此若",
+                                                                             "juan": 1,
+                                                                             "pdf_page": 100,
+                                                                             "cbeta_id": "X05p0552a2001"
+                                                                            }
+                                                                           ],
+                                                                           "cbeta_id": "X05p0552a1801"
+                                                                          },
+                                                                          {
+                                                                           "id": "p100-21",
+                                                                           "no": "二",
+                                                                           "label": "總結",
+                                                                           "cue": "大小",
+                                                                           "juan": 1,
+                                                                           "pdf_page": 100,
+                                                                           "cbeta_id": "X05p0552a2101"
+                                                                          },
+                                                                          {
+                                                                           "id": "p100-22",
+                                                                           "no": "三",
+                                                                           "label": "例釋同體",
+                                                                           "cue": "此文",
+                                                                           "juan": 1,
+                                                                           "pdf_page": 100,
+                                                                           "cbeta_id": "X05p0552a2201"
+                                                                          }
+                                                                         ],
+                                                                         "cbeta_id": "X05p0552a1701"
+                                                                        }
+                                                                       ],
+                                                                       "cbeta_id": "X05p0552a1401"
+                                                                      },
+                                                                      {
+                                                                       "id": "p100-23",
+                                                                       "no": "三",
+                                                                       "label": "約時攝六",
+                                                                       "juan": 1,
+                                                                       "pdf_page": 100,
+                                                                       "children": [
+                                                                        {
+                                                                         "id": "p100-24",
+                                                                         "no": "一",
+                                                                         "label": "廣釋五世",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "children": [
+                                                                          {
+                                                                           "id": "p100-25",
+                                                                           "no": "一",
+                                                                           "label": "正明",
+                                                                           "cue": "以此",
+                                                                           "juan": 1,
+                                                                           "pdf_page": 100,
+                                                                           "cbeta_id": "X05p0552a2501"
+                                                                          },
+                                                                          {
+                                                                           "id": "p100-26",
+                                                                           "no": "二",
+                                                                           "label": "通妨",
+                                                                           "cue": "此依",
+                                                                           "juan": 1,
+                                                                           "pdf_page": 100,
+                                                                           "cbeta_id": "X05p0552a2601"
+                                                                          }
+                                                                         ],
+                                                                         "cbeta_id": "X05p0552a2401"
+                                                                        },
+                                                                        {
+                                                                         "id": "p100-27",
+                                                                         "no": "二",
+                                                                         "label": "略例餘五",
+                                                                         "cue": "二依",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "cbeta_id": "X05p0552a2701",
+                                                                         "cbeta": {
+                                                                          "label": "二略列餘五"
+                                                                         },
+                                                                         "remark": "CBETA 科名作「二略列餘五」"
+                                                                        }
+                                                                       ],
+                                                                       "cbeta_id": "X05p0552a2301"
+                                                                      }
+                                                                     ],
+                                                                     "cbeta_id": "X05p0552a1201"
+                                                                    }
+                                                                   ],
+                                                                   "cbeta_id": "X05p0552a0901"
+                                                                  }
+                                                                 ],
+                                                                 "cbeta_id": "X05p0552a0601",
+                                                                 "cbeta": {
+                                                                  "label": "二科經文"
+                                                                 },
+                                                                 "remark": "CBETA 科名作「二科經文」"
+                                                                }
+                                                               ],
+                                                               "cbeta_id": "X05p0552a0401"
+                                                              }
+                                                             ],
+                                                             "cbeta_id": "X05p0552a0101"
                                                             }
                                                            ],
                                                            "cbeta_id": "X05p0551a6401"
                                                           }
                                                          ],
                                                          "cbeta_id": "X05p0551a5001"
+                                                        },
+                                                        {
+                                                         "id": "p100-28",
+                                                         "no": "二",
+                                                         "label": "大悲隨順觀",
+                                                         "juan": 1,
+                                                         "pdf_page": 100,
+                                                         "children": [
+                                                          {
+                                                           "id": "p100-29",
+                                                           "no": "一",
+                                                           "label": "標其觀名",
+                                                           "cue": "二約",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "cbeta_id": "X05p0552a2901"
+                                                          },
+                                                          {
+                                                           "id": "p100-30",
+                                                           "no": "二",
+                                                           "label": "引論重釋",
+                                                           "cue": "謂是",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "cbeta_id": "X05p0552a3001"
+                                                          },
+                                                          {
+                                                           "id": "p100-31",
+                                                           "no": "三",
+                                                           "label": "引經對治",
+                                                           "cue": "經明",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "cbeta_id": "X05p0552a3101"
+                                                          },
+                                                          {
+                                                           "id": "p100-32",
+                                                           "no": "四",
+                                                           "label": "引例為釋",
+                                                           "cue": "亦同",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "cbeta_id": "X05p0552a3201"
+                                                          },
+                                                          {
+                                                           "id": "p100-33",
+                                                           "no": "五",
+                                                           "label": "會釋論文",
+                                                           "cue": "言阿",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "cbeta_id": "X05p0552a3301"
+                                                          },
+                                                          {
+                                                           "id": "p100-34",
+                                                           "no": "六",
+                                                           "label": "別釋求相",
+                                                           "cue": "求義",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "cbeta_id": "X05p0552a3401"
+                                                          }
+                                                         ],
+                                                         "cbeta_id": "X05p0552a2801"
+                                                        },
+                                                        {
+                                                         "id": "p100-35",
+                                                         "no": "三",
+                                                         "label": "一切相智觀",
+                                                         "cue": "三約",
+                                                         "juan": 1,
+                                                         "pdf_page": 100,
+                                                         "cbeta_id": "X05p0552a3501"
                                                         }
                                                        ],
                                                        "cbeta_id": "X05p0550a3301"
+                                                      },
+                                                      {
+                                                       "id": "p100-36",
+                                                       "no": "三",
+                                                       "label": "自業助成門",
+                                                       "juan": 1,
+                                                       "pdf_page": 100,
+                                                       "children": [
+                                                        {
+                                                         "id": "p100-37",
+                                                         "no": "一",
+                                                         "label": "相諦差別觀",
+                                                         "juan": 1,
+                                                         "pdf_page": 100,
+                                                         "children": [
+                                                          {
+                                                           "id": "p100-38",
+                                                           "no": "一",
+                                                           "label": "總解二因",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "children": [
+                                                            {
+                                                             "id": "p100-39",
+                                                             "no": "一",
+                                                             "label": "標舉",
+                                                             "cue": "第三",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "cbeta_id": "X05p0552a4001",
+                                                             "cbeta": {
+                                                              "cue": "佛子"
+                                                             },
+                                                             "remark": "CBETA 起止作〔佛子〕"
+                                                            },
+                                                            {
+                                                             "id": "p100-40",
+                                                             "no": "二",
+                                                             "label": "敘昔",
+                                                             "cue": "遠公",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "cbeta_id": "X05p0552a4101"
+                                                            },
+                                                            {
+                                                             "id": "p100-41",
+                                                             "no": "三",
+                                                             "label": "辨違",
+                                                             "cue": "他因",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "cbeta_id": "X05p0552a4201"
+                                                            },
+                                                            {
+                                                             "id": "p100-42",
+                                                             "no": "四",
+                                                             "label": "申今義",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "children": [
+                                                              {
+                                                               "id": "p100-43",
+                                                               "no": "一",
+                                                               "label": "別明",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "children": [
+                                                                {
+                                                                 "id": "p100-44",
+                                                                 "no": "一",
+                                                                 "label": "正明",
+                                                                 "cue": "今謂",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0552a4501"
+                                                                },
+                                                                {
+                                                                 "id": "p100-45",
+                                                                 "no": "二",
+                                                                 "label": "引證",
+                                                                 "cue": "故大",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0552a4601"
+                                                                }
+                                                               ],
+                                                               "cbeta_id": "X05p0552a4401"
+                                                              },
+                                                              {
+                                                               "id": "p100-46",
+                                                               "no": "二",
+                                                               "label": "總結",
+                                                               "cue": "三觀",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "cbeta_id": "X05p0552a4701"
+                                                              }
+                                                             ],
+                                                             "cbeta_id": "X05p0552a4301"
+                                                            }
+                                                           ],
+                                                           "cbeta_id": "X05p0552a3901"
+                                                          },
+                                                          {
+                                                           "id": "p100-47",
+                                                           "no": "二",
+                                                           "label": "別釋此段",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "children": [
+                                                            {
+                                                             "id": "p100-48",
+                                                             "no": "一",
+                                                             "label": "以二業釋他因義",
+                                                             "cue": "今此",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "cbeta_id": "X05p0552a4901",
+                                                             "cbeta": {
+                                                              "label": "初以二乘釋他因義"
+                                                             },
+                                                             "remark": "CBETA 科名作「初以二乘釋他因義」"
+                                                            },
+                                                            {
+                                                             "id": "p100-49",
+                                                             "no": "二",
+                                                             "label": "別釋經文",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "jing": "佛子",
+                                                             "children": [
+                                                              {
+                                                               "id": "p100-50",
+                                                               "no": "一",
+                                                               "label": "釋助成",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "children": [
+                                                                {
+                                                                 "id": "p100-51",
+                                                                 "no": "一",
+                                                                 "label": "總釋經文",
+                                                                 "cue": "然生",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0552a5201"
+                                                                },
+                                                                {
+                                                                 "id": "p100-52",
+                                                                 "no": "二",
+                                                                 "label": "廣釋差別",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "children": [
+                                                                  {
+                                                                   "id": "p100-53",
+                                                                   "no": "一",
+                                                                   "label": "總顯具闕",
+                                                                   "cue": "於四",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "cbeta_id": "X05p0552a5401"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-54",
+                                                                   "no": "二",
+                                                                   "label": "別釋有無",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "children": [
+                                                                    {
+                                                                     "id": "p100-55",
+                                                                     "no": "一",
+                                                                     "label": "明因緣",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "children": [
+                                                                      {
+                                                                       "id": "p100-56",
+                                                                       "no": "一",
+                                                                       "label": "正明",
+                                                                       "juan": 1,
+                                                                       "pdf_page": 100,
+                                                                       "children": [
+                                                                        {
+                                                                         "id": "p100-57",
+                                                                         "no": "一",
+                                                                         "label": "依實有",
+                                                                         "cue": "緣謂",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "cbeta_id": "X05p0552a5801",
+                                                                         "cbeta": {
+                                                                          "cue": "謂愛"
+                                                                         },
+                                                                         "remark": "CBETA 起止作〔謂愛〕"
+                                                                        },
+                                                                        {
+                                                                         "id": "p100-58",
+                                                                         "no": "二",
+                                                                         "label": "依不定",
+                                                                         "cue": "若說",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "cbeta_id": "X05p0552a5901"
+                                                                        },
+                                                                        {
+                                                                         "id": "p100-59",
+                                                                         "no": "三",
+                                                                         "label": "別結例",
+                                                                         "cue": "餘支",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "cbeta_id": "X05p0552a6001"
+                                                                        },
+                                                                        {
+                                                                         "id": "p100-60",
+                                                                         "no": "四",
+                                                                         "label": "會通",
+                                                                         "juan": 1,
+                                                                         "pdf_page": 100,
+                                                                         "children": [
+                                                                          {
+                                                                           "id": "p100-61",
+                                                                           "no": "一",
+                                                                           "label": "會集論",
+                                                                           "cue": "而集",
+                                                                           "juan": 1,
+                                                                           "pdf_page": 100,
+                                                                           "cbeta_id": "X05p0553a0201"
+                                                                          },
+                                                                          {
+                                                                           "id": "p100-62",
+                                                                           "no": "二",
+                                                                           "label": "會瑜伽",
+                                                                           "cue": "瑜伽",
+                                                                           "juan": 1,
+                                                                           "pdf_page": 100,
+                                                                           "cbeta_id": "X05p0553a0301"
+                                                                          }
+                                                                         ],
+                                                                         "cbeta_id": "X05p0553a0101"
+                                                                        }
+                                                                       ],
+                                                                       "cbeta_id": "X05p0552a5701"
+                                                                      },
+                                                                      {
+                                                                       "id": "p100-63",
+                                                                       "no": "二",
+                                                                       "label": "料揀",
+                                                                       "cue": "上四",
+                                                                       "juan": 1,
+                                                                       "pdf_page": 100,
+                                                                       "cbeta_id": "X05p0553a0401"
+                                                                      }
+                                                                     ],
+                                                                     "cbeta_id": "X05p0552a5601"
+                                                                    },
+                                                                    {
+                                                                     "id": "p100-64",
+                                                                     "no": "二",
+                                                                     "label": "辨餘二",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "children": [
+                                                                      {
+                                                                       "id": "p100-65",
+                                                                       "no": "一",
+                                                                       "label": "三位具二",
+                                                                       "cue": "無明",
+                                                                       "juan": 1,
+                                                                       "pdf_page": 100,
+                                                                       "cbeta_id": "X05p0553a0601"
+                                                                      },
+                                                                      {
+                                                                       "id": "p100-66",
+                                                                       "no": "二",
+                                                                       "label": "二位具一",
+                                                                       "cue": "有望",
+                                                                       "juan": 1,
+                                                                       "pdf_page": 100,
+                                                                       "cbeta_id": "X05p0553a0701"
+                                                                      },
+                                                                      {
+                                                                       "id": "p100-67",
+                                                                       "no": "三",
+                                                                       "label": "結餘皆無",
+                                                                       "cue": "餘支",
+                                                                       "juan": 1,
+                                                                       "pdf_page": 100,
+                                                                       "cbeta_id": "X05p0553a0801"
+                                                                      }
+                                                                     ],
+                                                                     "cbeta_id": "X05p0553a0501"
+                                                                    }
+                                                                   ],
+                                                                   "cbeta_id": "X05p0552a5501"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-68",
+                                                                   "no": "三",
+                                                                   "label": "結例無方",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "children": [
+                                                                    {
+                                                                     "id": "p100-69",
+                                                                     "no": "一",
+                                                                     "label": "舉論文",
+                                                                     "cue": "此中",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "cbeta_id": "X05p0553a1001"
+                                                                    },
+                                                                    {
+                                                                     "id": "p100-70",
+                                                                     "no": "二",
+                                                                     "label": "疏釋成",
+                                                                     "cue": "以其",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "cbeta_id": "X05p0553a1101"
+                                                                    }
+                                                                   ],
+                                                                   "cbeta_id": "X05p0553a0901",
+                                                                   "cbeta": {
+                                                                    "label": "三結例無妨"
+                                                                   },
+                                                                   "remark": "CBETA 科名作「三結例無妨」"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-71",
+                                                                   "no": "四",
+                                                                   "label": "會通經意",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "children": [
+                                                                    {
+                                                                     "id": "p100-72",
+                                                                     "no": "一",
+                                                                     "label": "明經中但有增上",
+                                                                     "cue": "為緣",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "cbeta_id": "X05p0553a1301"
+                                                                    },
+                                                                    {
+                                                                     "id": "p100-73",
+                                                                     "no": "二",
+                                                                     "label": "總辨具四之義",
+                                                                     "cue": "又約",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "cbeta_id": "X05p0553a1401"
+                                                                    }
+                                                                   ],
+                                                                   "cbeta_id": "X05p0553a1201"
+                                                                  }
+                                                                 ],
+                                                                 "cbeta_id": "X05p0552a5301"
+                                                                }
+                                                               ],
+                                                               "cbeta_id": "X05p0552a5101"
+                                                              },
+                                                              {
+                                                               "id": "p100-74",
+                                                               "no": "二",
+                                                               "label": "釋自業",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "children": [
+                                                                {
+                                                                 "id": "p100-75",
+                                                                 "no": "一",
+                                                                 "label": "指前文",
+                                                                 "cue": "其十",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0553a1601"
+                                                                },
+                                                                {
+                                                                 "id": "p100-76",
+                                                                 "no": "二",
+                                                                 "label": "舉論釋",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "children": [
+                                                                  {
+                                                                   "id": "p100-77",
+                                                                   "no": "一",
+                                                                   "label": "標示難故",
+                                                                   "cue": "論主",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "cbeta_id": "X05p0553a1801",
+                                                                   "cbeta": {
+                                                                    "cue": "論生"
+                                                                   },
+                                                                   "remark": "CBETA 起止作〔論生〕"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-78",
+                                                                   "no": "二",
+                                                                   "label": "正釋所以",
+                                                                   "cue": "然無",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "cbeta_id": "X05p0553a1901"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-79",
+                                                                   "no": "三",
+                                                                   "label": "結成迷悟",
+                                                                   "cue": "是以",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "cbeta_id": "X05p0553a2001"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-80",
+                                                                   "no": "四",
+                                                                   "label": "出論意釋",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "children": [
+                                                                    {
+                                                                     "id": "p100-81",
+                                                                     "no": "一",
+                                                                     "label": "舉論",
+                                                                     "cue": "論主",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "cbeta_id": "X05p0553a2201"
+                                                                    },
+                                                                    {
+                                                                     "id": "p100-82",
+                                                                     "no": "二",
+                                                                     "label": "疏釋",
+                                                                     "cue": "意明",
+                                                                     "juan": 1,
+                                                                     "pdf_page": 100,
+                                                                     "cbeta_id": "X05p0553a2301"
+                                                                    }
+                                                                   ],
+                                                                   "cbeta_id": "X05p0553a2101"
+                                                                  },
+                                                                  {
+                                                                   "id": "p100-83",
+                                                                   "no": "五",
+                                                                   "label": "結彈古釋",
+                                                                   "cue": "不見",
+                                                                   "juan": 1,
+                                                                   "pdf_page": 100,
+                                                                   "cbeta_id": "X05p0553a2401"
+                                                                  }
+                                                                 ],
+                                                                 "cbeta_id": "X05p0553a1701"
+                                                                }
+                                                               ],
+                                                               "cbeta_id": "X05p0553a1501"
+                                                              }
+                                                             ],
+                                                             "cbeta_id": "X05p0552a5001"
+                                                            }
+                                                           ],
+                                                           "cbeta_id": "X05p0552a4801"
+                                                          }
+                                                         ],
+                                                         "cbeta_id": "X05p0552a3801",
+                                                         "cbeta": {
+                                                          "label": "初依相諦差別觀"
+                                                         },
+                                                         "remark": "CBETA 科名作「初依相諦差別觀」"
+                                                        },
+                                                        {
+                                                         "id": "p100-84",
+                                                         "no": "二",
+                                                         "label": "大悲隨順觀",
+                                                         "juan": 1,
+                                                         "pdf_page": 100,
+                                                         "children": [
+                                                          {
+                                                           "id": "p100-85",
+                                                           "no": "一",
+                                                           "label": "總標都門",
+                                                           "cue": "二約",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "cbeta_id": "X05p0553a2601"
+                                                          },
+                                                          {
+                                                           "id": "p100-86",
+                                                           "no": "二",
+                                                           "label": "總釋四門",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "children": [
+                                                            {
+                                                             "id": "p100-87",
+                                                             "no": "一",
+                                                             "label": "舉論",
+                                                             "cue": "論云",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "cbeta_id": "X05p0553a2801"
+                                                            },
+                                                            {
+                                                             "id": "p100-88",
+                                                             "no": "二",
+                                                             "label": "釋論",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "children": [
+                                                              {
+                                                               "id": "p100-89",
+                                                               "no": "一",
+                                                               "label": "總",
+                                                               "cue": "此有",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "cbeta_id": "X05p0553a3001"
+                                                              },
+                                                              {
+                                                               "id": "p100-90",
+                                                               "no": "二",
+                                                               "label": "別",
+                                                               "juan": 1,
+                                                               "pdf_page": 100,
+                                                               "children": [
+                                                                {
+                                                                 "id": "p100-91",
+                                                                 "no": "一",
+                                                                 "label": "性因",
+                                                                 "cue": "一性",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0553a3201"
+                                                                },
+                                                                {
+                                                                 "id": "p100-92",
+                                                                 "no": "二",
+                                                                 "label": "自在因",
+                                                                 "cue": "二即",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0553a3301"
+                                                                },
+                                                                {
+                                                                 "id": "p100-93",
+                                                                 "no": "三",
+                                                                 "label": "苦行因",
+                                                                 "cue": "三刪",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0553a3401",
+                                                                 "cbeta": {
+                                                                  "cue": "三𠜂"
+                                                                 },
+                                                                 "remark": "CBETA 起止作〔三𠜂〕"
+                                                                },
+                                                                {
+                                                                 "id": "p100-94",
+                                                                 "no": "四",
+                                                                 "label": "無因",
+                                                                 "cue": "四無",
+                                                                 "juan": 1,
+                                                                 "pdf_page": 100,
+                                                                 "cbeta_id": "X05p0553a3501"
+                                                                }
+                                                               ],
+                                                               "cbeta_id": "X05p0553a3101"
+                                                              }
+                                                             ],
+                                                             "cbeta_id": "X05p0553a2901"
+                                                            },
+                                                            {
+                                                             "id": "p100-95",
+                                                             "no": "三",
+                                                             "label": "結示",
+                                                             "cue": "眾生",
+                                                             "juan": 1,
+                                                             "pdf_page": 100,
+                                                             "cbeta_id": "X05p0553a3601"
+                                                            }
+                                                           ],
+                                                           "cbeta_id": "X05p0553a2701"
+                                                          },
+                                                          {
+                                                           "id": "p100-96",
+                                                           "no": "三",
+                                                           "label": "別釋當門",
+                                                           "cue": "此門",
+                                                           "juan": 1,
+                                                           "pdf_page": 100,
+                                                           "cbeta_id": "X05p0553a3701"
+                                                          }
+                                                         ],
+                                                         "cbeta_id": "X05p0553a2501"
+                                                        },
+                                                        {
+                                                         "id": "p100-97",
+                                                         "no": "三",
+                                                         "label": "一切相智觀",
+                                                         "cue": "三約",
+                                                         "juan": 1,
+                                                         "pdf_page": 100,
+                                                         "cbeta_id": "X05p0553a3801"
+                                                        }
+                                                       ],
+                                                       "cbeta_id": "X05p0550a3401"
                                                       }
                                                      ]
                                                     }
